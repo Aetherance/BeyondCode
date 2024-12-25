@@ -1,0 +1,10291 @@
+    1  vi ~/.zshrc
+    2  linuxonly.zsh-theme
+    3  12
+    4  vim ~/.zshrc
+    5  source ~/.zshrc
+    6  123
+    7  1231
+    8  1321
+    9  git clone https://github.com/Aetherance/Strbuf.git
+   10  sudo apt install cmake
+   11  make
+   12  sudo apt install gtest
+   13  sudo l install gtest
+   14  codfer
+   15  t
+   16  gcc test.c -lm
+   17  gcc test.c -lm Slist.c
+   18  gcc test.c Slist.c -lm 
+   19  gcc test.c Slist.c 
+   20  gcc test.c Slist.c -lm
+   21  ./test -rx
+   22  ./test -x
+   23  cd .oh-my-zsh
+   24  cd themes
+   25  cd usr
+   26  find agnoster.zsh-theme
+   27  find agnoster
+   28  vim .zshrccls
+   29  cd gosts
+   30  cd host
+   31  cd hosts
+   32  find hosts
+   33  cd ./etc
+   34  cd  \M-  master
+   35  cd whereis etc
+   36  fin etc
+   37  find etc
+   38  whereis etc
+   39  cd /usr/local/etc\n
+   40  reloop
+   41  relood
+   42  reboot now
+   43  sudo nano /etc/hosts
+   44  sudo hostname The_INK
+   45  sudo hostname <The_INK>
+   46  sudo hostnamectl set-hostname The_INK
+   47  hostname
+   48  source ls
+   49  source zsh
+   50  source ~
+   51  color
+   52  color 1
+   53  color 1 2
+   54  xrandx
+   55  srandr
+   56  xrandr
+   57  kill google-chrome
+   58  kill 3864
+   59  cd ~/.config
+   60  cd google-chrome/
+   61  rm Singleton*
+   62  gcc LinkedList
+   63  gcc-13 test.c
+   64  gcc-13 test.c Slist.c
+   65  nvdia
+   66  sudo apt install nvdia
+   67  neovean
+   68  nouvean
+   69  nouveau
+   70  sudo apt install nouveau
+   71  sudo apt install nouveau-firmware
+   72  nouveau-fireware
+   73  sudo apt install nvdia-driver nvidia-
+   74  sudo apt install nvidia-driver
+   75  sudo apt install nvidia-driver nvidia-smi 
+   76  sudo apt install nvidia-driver nvidia-smi nvidia-settings
+   77  sudo install nvidia-utils-550 550.120-0ubuntu0.24.04.1
+   78  sudo apt install nvidia-utils-550 550.120-0ubuntu0.24.04.1
+   79  cxls\\ncls
+   80  gcc Slist.c 
+   81  gcc test.c
+   82  gcc test.c Slist.c Slist.h
+   83  gcc test.c Slist.ccls
+   84  gdb test.c Slist.
+   85  gbd -tui 1
+   86  gbd -tui ./1
+   87  gbd 1
+   88  gdb
+   89  gdb -tui test.c
+   90  gcc st SeqLIst
+   91  gcc st s
+   92  gcc test.c Slist.c -o 1cls
+   93  vim ../readme.md
+   94  gcc test.c Slist.c
+   95  gcc test.c Slist.c -o 1
+   96  sudo apt dev
+   97  for(int i = 0;i<10;i++)
+   98  ehco
+   99  ehco "hello world"
+  100  ehco "helloworld"
+  101  ehco hello world
+  102  echo hello world
+  103  echo "hello world"
+  104  echo helloworld
+  105  git remote add https://github.com/Aetherance/DataStruct.git
+  106  git remote add
+  107  git remote add origin https://github.com/Aetherance/DataStruct.git
+  108  git commit . -m "update DS dir"
+  109  reboot 
+  110  nvdia_smi
+  111  nvidia_smi
+  112  sudo apt-get remove code 
+  113  cd $HOME/.config/Code
+  114  whereis Code
+  115  whereis Code -a
+  116  whereis Code a
+  117  whereis s
+  118  find Code
+  119  gcc test.c Slist.c -o 1 -g
+  120  gdb 1
+  121  gdb -tui 2
+  122  gdb -tui -1
+  123  gdb -tui 1
+  124  cdls
+  125  git commit . -m "update files"
+  126  git https://github.com/Aetherance/DataStruct.git
+  127  git remote https://github.com/Aetherance/DataStruct.git
+  128  git remote remove DataStruct
+  129  git remote add https://github.com/Aetherance/DataStruct.git DataStruct
+  130  git remote add DataStruct https://github.com/Aetherance/DataStruct.git
+  131  git remote ls
+  132  ./st
+  133  test.sh
+  134  git
+  135  填充CLS
+  136  nvidia-
+  137  nvidia-smi
+  138  ./test.sh \\ncls
+  139  sudo apt remove code
+  140  sudo apt install code
+  141  ocde
+  142  git .
+  143  every
+  144  find strcat.c
+  145  where is strcat.c
+  146  whereis strcat.c
+  147  where strcat.c
+  148  ./test.sh `
+  149  sudo snap install clion --classic
+  150  ./t 
+  151  ./t/t
+  152  cd codE
+  153  cd Code
+  154  cd ./code
+  155  cd ./Code
+  156  cd strbuft
+  157  sdcls
+  158  cd pta1
+  159  ./kk
+  160  ./kkk
+  161  StrBufTest2B (0 ms total)\ncls
+  162  ./ t
+  163  ugoo
+  164  ./e
+  165  shutdown NOW
+  166  echo for(int i = 0;i<10;i++)
+  167  echo "for(int i = 0;i<10;i++)"
+  168  echo "for(int i = 0;i<10;i++)\n"
+  169  echo "for(int i = 0;i<10;i++)\n{\ni--;\n}"
+  170  echo "for(int i = 0;i<10;i++)\n{\n\ti--;\n}"
+  171  echo "for(int i = 0;i<10;i++)\n{\n    i--;\n}"
+  172  cls/t
+  173  ./test.sh 
+  174  ./yt
+  175  ./f f
+  176  ./ttt
+  177  ./f 
+  178  ./test.sh/t
+  179  /tmp
+  180  CSL\\n
+  181  ./tt
+  182  ./tcls
+  183  ./test.shcls
+  184  char * str_m = (char*)malloc(len+1*sizeof(char));\n    memcpy(str_m,str,len+1);\n    char * ending = str_m+len;\n    struct strbuf **sb = (struct strbuf**)malloc(sizeof(struct strbuf)*(max));\n    int beg = 0,end = 0,count = 0;\n    int count_ = 0;\n    for(int i = 0;&str_m[i]!=ending;i++)if(str_m[i]==terminator&&str_m[i+1]!=terminator&&&str_m[i+1]!=ending)count_++;\n    if(str_m[0]!=terminator)count_++;\n    while(&str_m[end]!=ending)\n    {\n        while(str_m[beg]==terminator&&&str_m[beg]!=ending)beg++;\n        if(count == max||count == count_)\n        {\n            sb[count] = NULL;\n            break;\n        }\n        end = beg;\n        sb[count] = (struct strbuf*)malloc(1000);\n        while(str_m[end]!=terminator&& &str_m[end]!=ending)end++;\n        //\n        int * len_result;\n        char *temp = strbuf_split_buf_using(str_m,beg,end,strlen(str_m)+10000,len_result);\n        strbuf_init(sb[count],strlen(temp)+1+100000);\n        strbuf_addstr(sb[count++],temp);\n        free(temp);\n        //\n        beg = end;\n    }\n    sb[count] = NULL;\n    free(str_m);\n    return sb;./test.sh
+  185  s./t
+  186  .t/
+  187  cxode
+  188  chat
+  189  sudo apt install wechat
+  190  sudo snap install wechat
+  191  ./WeChatLinux_arm64.deb
+  192  \sl
+  193  sudo oot
+  194  sudo dpkg -i WeChatLinux_arm64.deb
+  195  sudo dpkg -i QQ_3.2.12_240927_arm64_01
+  196  sudo dpkg -i QQ_3.2.12_240927_arm64_01.deb
+  197  sudo dgb
+  198  sudo dpkg -i WeChatLinux_x86_64.deb
+  199  ./test dsamdkaldo;laskd
+  200  fsikajmfiok
+  201  code 文档/CODE/DataStruct
+  202  mc 文档/CODE /CODE
+  203  mv 文档/CODE /CODE
+  204  mv  -f 文档/CODE /CODE
+  205  mv  -f 文档/CODE /
+  206  mv -f /文档/CODE /
+  207  mv -f 文档/CODE ~
+  208  cd 文档
+  209  code CODE
+  210  code CODE/DataStruct
+  211  git commit .
+  212  git commit -m "changes"
+  213  gti LinkedList
+  214  gti add LinkedList
+  215  git remove 
+  216  git remote remove origin
+  217  vl
+  218  dcls
+  219  git show
+  220  git rm 
+  221  git rm .
+  222  rmdir ./git
+  223  git add n
+  224  git add LinkedList
+  225  从的
+  226  rm -rf ./git
+  227  rm -rf ./.git
+  228  cd SeqLIst
+  229  cd DataStruct
+  230  git add
+  231  tree
+  232  tree .git
+  233  cd LinkedList
+  234  cd .git
+  235  la objects
+  236  git rm --cached LinkedList
+  237  git add LinkedList/
+  238  git commit -m "delete submoudle"
+  239  git remote add origin master
+  240  git push -u origin master
+  241  git push --set-upstream origin master
+  242  git remote remove origin master
+  243  git remote remove origin 
+  244  git push --set-upstream DataStruct master
+  245  ssl
+  246  rm -r build
+  247  git clone https://github.com/Aetherance/Strbuf.git strbuf_test
+  248  cd strbuf/
+  249  cd DataStruct/
+  250  code ~/CODE/Strbuf
+  251  rv . ../strbuf_update
+  252  rm . ../strbuf_update
+  253  mv . ../strbuf_update
+  254  code DataStruct/LinkedList
+  255  code CODE/DataStruct/LinkedList/
+  256  tree /
+  257  tree .
+  258  tree ./
+  259  tree ../
+  260  scre
+  261  git add ./Tree
+  262  git commit -m "update tree.md"
+  263  git branch rm show
+  264  git branch rename
+  265  git checkout rm
+  266  git branch -d rm
+  267  git branch -d rename
+  268  git branch -d show
+  269  git push DataStruct master
+  270  git remote add https://github.com/Aetherance/C-.git
+  271  ssh-keygen -t rsa -C "2085163736@qq.com"
+  272  cd ~/.ssh
+  273  cat id_rsa.pub
+  274  ssh -T git@github.com
+  275  cd C++
+  276  git remote shjow
+  277  git remote add git@github.com:Aetherance/Cpp.git
+  278  git remote add ssh git@github.com:Aetherance/Cpp.git
+  279  git rm ssh
+  280  git remote rm ssh
+  281  git remote remove ssh
+  282  git remote add origin https://github.com/Aetherance/C-.git
+  283  git remote get-url origin
+  284  git remote add https://github.com/Aetherance/Cpp.git
+  285  git remote add origin git@github.com:Aetherance/Cpp.git
+  286  git push origin HEAD
+  287  git commit -m "update README.md
+  288  git commit -m "update README.md"
+  289  gti push README.md
+  290  gti push README.md README.md
+  291  g++ 1.cpp
+  292  git commit -m "the first update"
+  293  git remote add origin git@github.com:Aetherance/LeetCode.git
+  294  sudo prime-select nvidia
+  295  lspci | grep VGA
+  296  g++ 1_new.cpp
+  297  ./1_new
+  298  git commit -m "update 1,2"
+  299  ./2_引用]
+  300  ./2_引用
+  301  g++ --O2 2_引用.cpp 
+  302  g++ -O2 2_引用.cpp 
+  303  g++ 2_引用.cpp 2
+  304  g++ 2_引用.cpp -o 2
+  305  loclasend
+  306  g++ 4_函数重载.cpp
+  307  ./a.OUT
+  308  g++ 2_引用.cpp
+  309  ./4_函数重载
+  310  ./5_封装/5
+  311  ./5_封装
+  312  ./6_构造和析构
+  313  ./7_拷贝构造函数
+  314  ./g++ -O2 7_拷贝构造函数.cpp
+  315  g++ -O2 7_拷贝构造函数.cpp
+  316  google-chrome github.com
+  317  ef./3
+  318  1 1
+  319  1 2 1
+  320  1 3 3 1./3
+  321  f
+  322  {\n    int n;\n    scanf("%d\n",&n);
+  323  /3
+  324  ./3
+  325  to be or not to be is a question./2
+  326  4 5\n1 8 2 6 5\n2 3 9 7 1\n6 5 3 4 1\n1 3 2 4 5
+  327  ./4 
+  328  ./5 
+  329  I am not interested in ChatGPT.
+  330  233
+  331  they are all ChatGPT
+  332  I am gonna talk about chatgpt, and Chatgpt, and CHATGPT
+  333  0002
+  334  chatgp, hatGPT and Chatppt, are they all ChatGPTs?
+  335  nvidia_setting
+  336  cp FileTest strbuf.h test.cpp test.sh  ../strbuf
+  337  cp -r FileTest  ../../strbuf
+  338  cd FileTest
+  339  cd StrbufTest/strbuf
+  340  cp strbuf.h ../../strbuf
+  341  cp test.cpp ../../strbuf
+  342  cp test.sh ../../strbuf
+  343  cd ../..
+  344  ./ut
+  345  rm WangJiale.c
+  346  git commit -m "update test"
+  347  cd Strbuf/StrbufTest
+  348  cp WangJiale.c ../StrbufTest/strbuf
+  349  cd ../StrbufTest/strbuf
+  350  git commit -m "add WangJiale.c"
+  351  git add WangJiale.c
+  352  ./8_初始化列表
+  353  c ode
+  354  git remote add origin git@github.com:Aetherance/Aetherance.git
+  355  git pull origin 
+  356  echo "# Aetherance" >> README.md
+  357  git commit -m "add README.md"
+  358  ./8_初始化列表.cpp
+  359  ./9_类对象作为类成员
+  360  git commit -m "add 8,9"
+  361  git commit -m "test"
+  362  git push originm
+  363  git commit README.md "change"
+  364  git commit README.md -m "change"
+  365  sldc
+  366  clcl
+  367  slccs
+  368  lsaL
+  369  CSS
+  370  CSLCS
+  371  xcclsd
+  372  ./10
+  373  ./10_静态成员
+  374  gcc ./10_静态成员.cpp -O2 -o 1
+  375  g++ ./10_静态成员.cpp -O2 -o 1
+  376  git commit -m "add"
+  377  code CODE/strbuf_update/StrbufTest
+  378  ./strbuf
+  379  git add ./
+  380  git commit -m "update
+  381  ././11_成员变量和函数分开存储
+  382  gcc 1.c -o 1
+  383  ./11_成员变量和函数分开存储
+  384  ./11_成员变量和函数分开存储.cpp
+  385  google-chrome csdn.net
+  386  locla
+  387  ./12_this指针
+  388  git add all
+  389  git add -a
+  390  git add --A
+  391  CLLS
+  392  ./12_this指针.cpp
+  393  ./13_空指针访问成员函数
+  394  git -all
+  395  ./14_const修饰的成员函数
+  396  git CLS
+  397  git add README.md
+  398  ./15_友元
+  399  llsslc
+  400  lllc
+  401  cc
+  402  lcl
+  403  ./16_加法运算符重载
+  404  git commit -m "update new files"
+  405  ./17_左移运算符重载
+  406  git commit -m "update siles" 
+  407  5\n1010\nI am not interested in ChatGPT.\n233\nI am gonna talk about chatgpt, and Chatgpt, and CHATGPT\n233\nthey are all ChatGPT\n2\nI am gonna talk about chatgpt, and Chatgpt, and CHATGPT\n0002\nchatgp, hatGPT and Chatppt, are they all ChatGPTs?\n
+  408  git push o m
+  409  dirname TLPI
+  410  mv . 1
+  411  mv . ../1
+  412  mv LinuxProgramming TLPI
+  413  cd tlpi
+  414  echo "hello world" >> README.md
+  415  git commit -m "add the readme file"
+  416  sudo passwd user 
+  417  gti add .
+  418  git commit -m "update siles"
+  419  code CODE/STRBUF/Strbuf/strbuf
+  420  cd STRBUF
+  421  git remote add origin master  git@github.com:Aetherance/Strbuf.git
+  422  git remote add originssh git@github.com:Aetherance/Strbuf.git
+  423  git remote show\
+  424  cd strbuf_update
+  425  ../strbuf_update
+  426  cat .git/config
+  427  git pull originssh
+  428  git pull originssh strbuf_24
+  429  git push -u originssh
+  430  cd..
+  431  rm test.sh
+  432  git add test.sh
+  433  git commit -m "remove test.sh"
+  434  ls .github/test.sh
+  435  cat .github/test.sh
+  436  cat StrbufTest/strbuf/test.sh
+  437  ;s
+  438  cp strbuf/test.sh ../strbuf
+  439  ../..
+  440  ./test.shls
+  441  c..
+  442  cp StrbufTest/CMakeLists.txt ./
+  443  rm CMakeLists.txt
+  444  rm test.sh test.cpp
+  445  cp ../StrbufTest/strbuf/test.cpp ./
+  446  ./strbuf/test.sh
+  447  cat test.sh
+  448  cat ../../.github/test.sh
+  449  diff strbuf_update/strbuf/WangJiale.c Strbuf/StrbufTest/strbuf/WangJiale.c
+  450  clang++ WangJiale.c test.cpp -lgtest -lgtest_main -lpthread -Wall
+  451  g++ WangJiale.c test.cpp -lgtest -lgtest_main -lpthread -Wall
+  452  cd CODE/strbuf_update/strbuf
+  453  ced StrbufTest
+  454  cat .git
+  455  rm STRBUF
+  456  rmdir STRBUF
+  457  mkdir
+  458  mkdir strbuf
+  459  git clone origin git@github.com:Aetherance/Strbuf.git
+  460  git clone git@github.com:Aetherance/Strbuf.git
+  461  git remote 
+  462  git remote add git@github.com:Aetherance/Strbuf.git
+  463  git remote add origin  git@github.com:Aetherance/Strbuf.git
+  464  git aDD.
+  465  git push Strbuf
+  466  cd Strbuf/
+  467  git push origin strbuf_24
+  468  cd StrbufTest
+  469  cd strbuf
+  470  cd Strbuf
+  471  git add strbuf/
+  472  git commit -m "update diles"
+  473  CODE
+  474  cd _posts
+  475  git add 2024-10-27-1.md
+  476  c;s;/
+  477  bo
+  478  boot
+  479  vmlinuz
+  480  ./vmlinuz
+  481  etc
+  482  cd etc
+  483  vim group
+  484  vb     /
+  485  //..
+  486  /..
+  487  cd X11/
+  488  ...
+  489  cd bin/X11/X11/X11/X11/X11/X11/X11/X11
+  490  cd ........
+  491  cd bin/
+  492  whereis cp
+  493  csxl
+  494  git psuh
+  495  git add -A
+  496  git commit -m updatefiles
+  497  git checkout .
+  498  git branch -a
+  499  clcs
+  500  mkdir c5
+  501  mkdir c6
+  502  cd CODE/TLPI
+  503  echo $PATH
+  504  cp TEST/my_ls_test /bin
+  505  sudo root
+  506  sudo /
+  507  123456
+  508  sudo  
+  509  sclslcs
+  510  slcslclsc
+  511  slcsclslc
+  512  lscsl
+  513  clclcss
+  514  slccllcs
+  515  my_ls_te
+  516  git commit -m
+  517  git commit 
+  518  git remote add origin git@github.com:Aetherance/Aetherance.github.io.git 
+  519  echo "# my_ls" >> README.md
+  520  git remote add git@github.com:Aetherance/my_ls.git
+  521  git remote add origin git@github.com:Aetherance/my_ls.git
+  522  git commit -m "add a readme file"
+  523  sudo passwd ?????
+  524  sudo passwd \?
+  525  sudo passwd
+  526  passwd /?
+  527  passwd
+  528  sudo apt install cloc
+  529  cloc
+  530  cloc c
+  531  cloc ./CODE
+  532  cloc .
+  533  cloc ^strbuf
+  534  cloc ./^Strbuf
+  535  cloc C++
+  536  cloc CPrimerPlus
+  537  cloc Strbuf
+  538  git commit -m "change"
+  539  code CODE/Strbuf/strbuf_update/StrbufTest/strbuf/test.cpp
+  540  ./o
+  541  ./open 
+  542  ./open
+  543  cp dssjkdh
+  544  cp --help
+  545  git commit -m "add files"
+  546  git push o master
+  547  git push .
+  548  ./read
+  549  cslx
+  550  zcs
+  551  git add .c
+  552  gcc 1.c -o 1 -lm
+  553  gcc -lm
+  554  ./3.c
+  555  gcc 3.c -lm
+  556  1.2 3 5.1
+  557  ./4
+  558  gcc ./5.c -lm
+  559  gcc 5.c -lm
+  560  #include<math.h>
+  561  #define pi 3.1415926
+  562  }cls
+  563  gcc 6.c -lm
+  564  6 100
+  565  sccls
+  566  ./lseek 
+  567  ./lseek
+  568  git commit -m "update filels"
+  569  tee ./1 123
+  570  tee -a
+  571  whereis -a
+  572  tee -a hello
+  573  tee -a ./1
+  574  tee ./1 -a
+  575  tee ./1 -m
+  576  tee ./file1 ./file2
+  577  tee
+  578  tee ./bee
+  579  bee
+  580  ./bee
+  581  ./test.sh
+  582  ./write ./1
+  583  ./tee 
+  584  ./write
+  585  ./tee ./1 hello world
+  586  rm 
+  587  adf
+  588  clcls
+  589  htop
+  590  ./tee ./ 1
+  591  cdsl
+  592  xcl
+  593  vcls
+  594  ./tee ./1
+  595  fire
+  596  ls -a-l
+  597  ./opendir ./1
+  598  ./opendir .
+  599  ./opendir
+  600  ls -a\
+  601  als
+  602  l.s
+  603  ./ls ./..
+  604  ./ls ./testdir/e
+  605  ./ls ./testdir/
+  606  ls ./asd
+  607  ./ls lsdsd
+  608  ./ls lk
+  609  ls ls
+  610  ls testdir
+  611  rm 1
+  612  rmdir 1
+  613  cal
+  614  xal
+  615  tee ./1
+  616  rm ./1
+  617  stat
+  618  stat .
+  619  stat ls
+  620  ./secret.txt
+  621  cat secret.txt
+  622  vim secret.txt
+  623  cat 1.c
+  624  int main()\n{\n    double a,b;\n    double degrees,minutes,seconds;\n    scanf("%lf%lf",&a,&b);
+  625  gcc 1.c -o s.txt
+  626  ./s.txt
+  627  ./s.txt > 1.txt
+  628  cd my_ls
+  629  gcc ls.c 
+  630  git push 
+  631  ls ../
+  632  ./ls ../
+  633  ls ./../
+  634  ls ./..
+  635  ,.lls
+  636  ls / -R
+  637  ls / -Rl
+  638  ls / -Rli
+  639  sudo ls
+  640  sudo ls ./ls
+  641  clsxzs
+  642  sudo
+  643  clsclsc
+  644  colslc
+  645  lscl
+  646  sudo ./ls ..cls
+  647  git add --all;l
+  648  cd l
+  649  git ;l
+  650  git -l
+  651  git l
+  652  git add ;l
+  653  git add;l
+  654  csl.
+  655  chmod ./ls +r
+  656  chmod --help
+  657  chmod -R 4 ls
+  658  chmod -R 7 ls
+  659  chmod -R 777 ls
+  660  sudo ../ls
+  661  ./ls ..cls
+  662  ls ./.vscode
+  663  ls ./sdf
+  664  sa
+  665  sudo ./ls ..
+  666  date 11.17
+  667  date 2024.11.17
+  668  sudo hwclock --hctosys\n
+  669  fj
+  670  ./5
+  671  gcc 6.c
+  672  ./6
+  673  gcc 6.c -O2
+  674  ./7
+  675  ./8
+  676  ./11
+  677  ./13
+  678  sudo apt install zed
+  679  sudo apt upgrade
+  680  curl -f https://zed.dev/install.sh |sh
+  681  ~/.local/bin/zed
+  682  ~code
+  683  git push --all\
+  684  git push --all
+  685  whereis zed
+  686  which zed
+  687  realpath
+  688  realpath zed
+  689  realpath ./git
+  690  realpath 1.c
+  691  scs
+  692  find zed
+  693  find ./git
+  694  find 1.c
+  695  find / 1.c
+  696  whereis / 1.cx
+  697  whereis / 1.c
+  698  git commit -m "update dfiles"
+  699  git commit 7.c
+  700  git add --alll
+  701  lsa
+  702  ./c18
+  703  ./ls hllow
+  704  ./ls hellow
+  705  ./ls hello
+  706  find /
+  707  whereis /
+  708  find / /
+  709  locate /
+  710  locate\t
+  711  ..ls
+  712  dirname
+  713  gcc lsfailed.c -0 lst
+  714  ./ls s
+  715  ./ls ;'
+  716  ./ls 1
+  717  ./ls ;\
+  718  ./ls ;
+  719  /lcs
+  720  ./lsf
+  721  ls ;
+  722  ls;
+  723  ;
+  724  ls;asd
+  725  ls;./ls
+  726  cd testdir
+  727  mkdir show_test
+  728  ../ls .
+  729  ../ls /
+  730  ls //
+  731  ls ///
+  732  ls ////
+  733  git commit -m "UPDATE FILES"
+  734  ./lds
+  735  ./TEST
+  736  gcc ./test
+  737  gcc ./test.c
+  738  ./lsfailed
+  739  ./lsfai ..
+  740  CD c1
+  741  ./ls ../c18
+  742  ./ls ../c4
+  743  ./ls a.out
+  744  la a.out
+  745  las
+  746  ./ls ; ls
+  747  ./ls \n; ls
+  748  ./ls ;\n; ls
+  749  ls ;/; ./ls
+  750  ls ;\; ./ls
+  751  wecaht
+  752  git psuh a.out m
+  753  /
+  754  bin
+  755  cd t
+  756  >?LS
+  757  ls-a
+  758  la -a
+  759  ls -l -a
+  760  ls .. -a -l
+  761  ./ls . --a
+  762  git commit -m ""update files
+  763  git commit -m ""update files"
+  764  ././ls
+  765  .,/ls
+  766  ./ls / 
+  767  ls a.out
+  768  ls ./a .
+  769  ls ./a
+  770  ./ls ./a
+  771  ./ls ./a -a
+  772  filepath./ls
+  773  ./ls . 
+  774  ./ls -./lsa
+  775  git commit -M
+  776  git commit cls
+  777  git commit -m "updaTE FIles"
+  778  ~\ncls
+  779  cd CODE/TLPI/c18
+  780  ./c
+  781  ./ls / -a
+  782  ls/
+  783  ./lsfai
+  784  lks
+  785  sudo apt-get source coreutils
+  786  apt-get source coreutils
+  787  git commit -m "update all"
+  788  lpj@lpj-linux:~$ which ls
+  789  which ls
+  790  coreutils-5.0
+  791  .coreutils-5.0
+  792  ls.c
+  793  a.out  ./ls
+  794  l./ls
+  795  ls -g
+  796  ls -k
+  797  ls -s 
+  798  ./lks
+  799  git branch non-linked
+  800  git branch master
+  801  git checkout non-linked
+  802  git branch -D non-linked
+  803  git branch -d
+  804  git branch -d non-linked
+  805  git commit -m "update linked"
+  806  ./ls //
+  807  ./T
+  808  cd a
+  809  nvidia-s
+  810  nvidia-settings ]
+  811  nvidia-settings 
+  812  code .coreutils-5.0
+  813  human
+  814  human.c
+  815  绿色-h
+  816  df
+  817  df -h
+  818  git commit -m "update nonlist"
+  819  zed
+  820  master/ls
+  821  ./my_ls_11_26_nonlist
+  822  高层次-w
+  823  gcc -w
+  824  gcc -Werror ./ls.c
+  825  gcc -Wall ./ls.c
+  826  gcc -w ./ls.c
+  827  a  ./ls      
+  828  ls ;; ./ls
+  829  ls ; ; ./ls
+  830  ./ls / ; ls /
+  831  cd code
+  832  kls
+  833  row
+  834  ./ls -a ; ls -a
+  835  ./ls -a ..
+  836  ls -a ..
+  837  ls -a -t
+  838  sudo  ls / -R | wc -l
+  839  ./l;s
+  840  ls .. -a
+  841  ./ls ..-a
+  842  ./ls .. -a
+  843  ./lzs
+  844  ./io
+  845  cd c5
+  846  ./ioctl
+  847  ./las
+  848  csl,
+  849  clls
+  850  git commit -m "update format version"
+  851  ls a
+  852  ls -a .
+  853  ls -b
+  854  ls -hl
+  855  ls --hlep
+  856  ./ls --help
+  857  ls -ta
+  858  ./l.s -l
+  859  ./ls -l .
+  860  ls . -a
+  861  ./ls -al .
+  862  ./ls . -al
+  863  ./ls -l -a
+  864  ls -i -s -t -r -R
+  865  ls -s -i
+  866  ls -s -i -l
+  867  ./ls -alo
+  868  ./ls -a .
+  869  ./ls -a ,
+  870  ./ls -alsofdjdsofjsoijkfiopsakj
+  871  ./ls -alRtris
+  872  ls s
+  873  ./ls -p
+  874  ls ---
+  875  ls --
+  876  ../ls -t
+  877  ./ls -at
+  878  ls -at
+  879  ls -tr
+  880  git commit -m "" update -t
+  881  git commit -m "update -t"
+  882  git commit -m "update -r"
+  883  git commit -m "update -r version"
+  884  shutdownNOW
+  885  ,.ls
+  886  lc./ls
+  887  LS -I
+  888  cxlds
+  889  ./ls -scls
+  890  ./ls -s'
+  891  ./ls -s -s
+  892  ./my_ls_11_27_1
+  893  /home/user/CODE/my_ls/my_ls_11_27_1.c .
+  894  sudo /home/user/CODE/my_ls/my_ls_11_27_1.c .
+  895  /home/user/CODE/my_ls/my_ls_11_27_1 .
+  896  /ls -s
+  897  ls -d
+  898  ld
+  899  ls -h
+  900  ls -sh
+  901  du -s a
+  902  du  a
+  903  du  a -h
+  904  cd -a
+  905  cd .coreutils-5.0
+  906  cd src
+  907  code ls.c
+  908  code ls.h
+  909  code human.h
+  910  lib
+  911  code human.c
+  912  slclcs
+  913  scllsc
+  914  csllcs
+  915  ls s-
+  916  clsz
+  917  nvidia-settings
+  918  git commit ls
+  919  git commit ls.c "up"
+  920  git commit ls.c ls.c
+  921  ls -
+  922  ls -as
+  923  git commit "update files" ls
+  924  git commit ls "up"
+  925  ls *
+  926  ls -ltr
+  927  ls -si
+  928  ./ls -0s
+  929  git commit -m "update files" 
+  930  ls -sa
+  931  ./ls -ss
+  932  ls -ss
+  933  ./ls -sa
+  934  ./ls -ia
+  935  ./ls -is
+  936  ./ls -itgjfs
+  937  ls -weyoiuyra
+  938  ls -asvnbm
+  939  ./ls -asirt
+  940  ./ls -asirtl
+  941  git commit -m "-i"
+  942  ./l./ls
+  943  ./ls -kl
+  944  git status
+  945  ..my_ls
+  946  ../my_ls
+  947  \cd /home/user/CODE/my_ls/my_ls_11_27_2.c
+  948  cd /home/user/CODE/my_ls/my_ls_11_27_2.c
+  949  cd /home/user/CODE/my_ls/
+  950  git remote git@github.com:Aetherance/Sort.git
+  951  git remote add origin git@github.com:Aetherance/Sort.git
+  952  git add merge.c
+  953  clspl;c
+  954  ]cl
+  955  sclcls
+  956  ./ls -ai
+  957  ./ls -si
+  958  ./ls -sai
+  959  ./LS -L
+  960  ls-l
+  961  date+%a
+  962  date +%s
+  963  date -m
+  964  date --help
+  965  ./l s-l
+  966  ./time
+  967  cd c18/ls .
+  968  cd c18/lscsl
+  969  lsw c18
+  970  ls c18
+  971  c18/ls .
+  972  c18/ls /
+  973  ./ls -s 
+  974  ls -i
+  975  ls -aitrl
+  976  ./ls -aitrl
+  977  ls -a -l -r
+  978  ls -a -l -r -t
+  979  ./ls -a -l i
+  980  ./ls -a -l -i
+  981  ./ls -las
+  982  ./ls -lasi
+  983  ./ls -ls
+  984  ls -la
+  985  ./ls -la
+  986  ./ls -l./ls -l
+  987  ls- l
+  988  l s-l
+  989  ls - .
+  990  clslcs
+  991  slccls
+  992  ./my_ls_11_28_1 /
+  993  ./my_ls_11_28_1 ../TLPI/c18
+  994  ./my_ls_11_27_2
+  995  ./my_ls_11_2
+  996  ./my_ls_11_28_1
+  997  cls\\ncls
+  998  ./ls . -a
+  999  ls -alkjshdjsdf
+ 1000  ls -ioksk
+ 1001  ./ls -ioksks
+ 1002  ./ls -ioksk
+ 1003  ls -io
+ 1004  ls -o
+ 1005  .ls -l
+ 1006  ls . 1
+ 1007  ./ls . 1
+ 1008  ls .1
+ 1009  ./ls . .
+ 1010  ls . .
+ 1011  ls . . .  .
+ 1012  ./ls a
+ 1013  './test.sh'
+ 1014  ./LS -A
+ 1015  ./ls -rd
+ 1016  ls .. ..
+ 1017  ./lcls
+ 1018  ./la
+ 1019  ls .
+ 1020  ./ls -a./ls
+ 1021  ./ls -ra
+ 1022  ls -a 
+ 1023  la -s
+ 1024  ./ls .-a
+ 1025  ./ls -a 
+ 1026  ls -ar
+ 1027  ./ls .. .
+ 1028  ./ls .. . .
+ 1029  ./ls -b
+ 1030  ./ls -i
+ 1031  ./ls . .. 
+ 1032  git commit -m " "
+ 1033  git commit -m "as"
+ 1034  clsclscsl
+ 1035  sudo ls * | wc -c
+ 1036  sudo ls * | wc -ccls
+ 1037  sudo ls / * | wc -c
+ 1038  sudo ls -R / * | wc -c
+ 1039  sudo ls -R / * | wc -ccls
+ 1040  ./ls -astrl
+ 1041  ./ls -astrli
+ 1042  CD C18
+ 1043  LS -R l
+ 1044  LS -R . ..
+ 1045  ls -R . ..
+ 1046  ls . ..
+ 1047  ls . .. ...
+ 1048  ls . .. ... ....
+ 1049  ls . .. ... .... .....
+ 1050  ls . .. ... .... ..... ......
+ 1051  ls . .. ... .... ..... ...... .......
+ 1052  ls -/
+ 1053  i
+ 1054  ms
+ 1055  is
+ 1056  si
+ 1057  ./ls -RT
+ 1058  ls - R
+ 1059  ./ls .. -R
+ 1060  ls -RA
+ 1061  /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-xnh44cqf.0ax 
+ 1062  ls ./a/show_test
+ 1063  ./ls ./a/show_test
+ 1064  /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-5pzbenlc.zf3 
+ 1065  ./lsls
+ 1066  ./ls -af
+ 1067  ./ls ...
+ 1068  /ls
+ 1069  LS -r
+ 1070  ls //bin
+ 1071  cd bin
+ 1072  ld -R
+ 1073  ls //lost+found
+ 1074  ls /lost+found
+ 1075  sudo ls /lost+found
+ 1076  sudo ./ls /lost+found
+ 1077  sudo ls / -R
+ 1078  ls //bin/brltty-lscmds
+ 1079  ./ls //bin/brltty-lscmds
+ 1080  sudo ./ls //bin/brltty-lscmds
+ 1081  cd //bin/brltty-lscmds
+ 1082  cd /bin/
+ 1083  lscls
+ 1084  /home/user/CODE/TLPI/c18/ls ~ -R
+ 1085  ls ~/home/user/CODE/Strbuf/Strbuf/StrbufTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stam/home/user/CODE/Strbuf/strbuf/Strbuf/StrbufTest/build/CMakeFiles/3.28.3/CompilerIdC/tmp~
+ 1086  ls ~/home/user/CODE/Strbuf/Strbuf/StrbufTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stam/home/user/CODE/Strbuf/strbuf/Strbuf/StrbufTest/build/CMakeFiles/3.28.3/CompilerIdC/tmp
+ 1087  ls home/user/CODE/Strbuf/Strbuf/StrbufTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stam/home/user/CODE/Strbuf/strbuf/Strbuf/StrbufTest/build/CMakeFiles/3.28.3/CompilerIdC/tmp~
+ 1088  /home/user/CODE/Strbuf/Strbuf/StrbufTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stam/home/user/CODE/Strbuf/strbuf/Strbuf/StrbufTest/build/CMakeFiles/3.28.3/CompilerIdC/tm
+ 1089  ls ./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/CMakeFiles/Export/0c08b8e77dd885bfe55a19a9659d9fc./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/
+ 1090  ls ./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/CMakeFiles/Export/0c08b8e77dd885bfe55a19a9659d9fc./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/CMakeFiles/
+ 1091  ls ./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/CMakeFiles/Export/0c08b8e77dd885bfe55a19a9659d9fc./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/
+ 1092  ls ./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/CMakeFiles/Export/0c08b8e77dd885bfe55a19a9659d9fc./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/
+ 1093  ls ./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/CMakeFiles/Export/0c08b8e77dd885bfe55a19a9659d9fc
+ 1094  ./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/CMakeFiles/Export/0c08b8e77dd885bfe55a19a9659d9fc./CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/
+ 1095  /home/user/CODE/TLPI/c18/ls ~
+ 1096  sudo /home/user/CODE/TLPI/c18/ls ~
+ 1097  /home/user/CODE/TLPI/c18/ls 
+ 1098  /home/user/CODE/TLPI/c18/ls
+ 1099  sudo /home/user/CODE/TLPI/c18/ls
+ 1100  /home/user/CODE/TLPI/c18/ls /
+ 1101  sudo /home/user/CODE/TLPI/c18/ls /
+ 1102  cd  /bin/brltty-lscmds
+ 1103  ls /bin/brltty-lscmds
+ 1104  stat /bin/brltty-lscmds
+ 1105  ls -lR
+ 1106  ^[[200~ls -lR | grep "^-" | wc -l~
+ 1107  ls / -lR | grep "^-" | wc -l
+ 1108  sudo ls / -lR | grep "^-" | wc -l
+ 1109  sudo ./ls / -lR | grep "^-" | wc -l
+ 1110  sudo ./ls / -l | grep "^-" | wc -l
+ 1111  sudo ./ls / -lR | wc -l
+ 1112  sudo ./ls / -R | wc -l
+ 1113  sudo ./ls / -R 
+ 1114  sudo ./ls / -R | wc
+ 1115  sudo ./ls -R
+ 1116  sudo ./ls -R /cls
+ 1117  sudo ./ls 
+ 1118  sudo /proc/58744/net
+ 1119  /proc/58744/net
+ 1120  cd /proc/58744/net
+ 1121  cd /proc
+ 1122  cd /proc/58744/
+ 1123  cd /58744/
+ 1124  cd 58744/
+ 1125  cd ./58744/
+ 1126  sudo ls -R ~
+ 1127  sudo ./ls -R CODE
+ 1128  sudo ./ls -R ~/CODE
+ 1129  cd /home/user/CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-popula
+ 1130  cd /home/user/CODE/Strbuf/strbuf_update/StrbufTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src/
+ 1131  cd googletest-populate-stamp/
+ 1132  /home/user/CODE/TLPI/c18/ls ..
+ 1133  /home/user/CODE/TLPI/c18/ls ...
+ 1134  /home/user/CODE/TLPI/c18/ls ....
+ 1135  /home/user/CODE/TLPI/c18/ls .....
+ 1136  /home/user/CODE/TLPI/c18/ls .......
+ 1137  /home/user/CODE/TLPI/c18/ls ......
+ 1138  ^[[200~/proc/1754/map_files~/proc/1754/map_files
+ 1139  /proc/1754/map_files
+ 1140  sudo /proc/1754/map_files
+ 1141  sudo /proc/1754/
+ 1142  sudo cd /proc/1754/
+ 1143  cd /proc/1754/
+ 1144  cd /proc/1754
+ 1145  SUDOcd /proc/1754/map_files
+ 1146  SUDO cd /proc/1754/map_files
+ 1147  cd /proc/1754/map_files
+ 1148  sudo cd /proc/1754/map_files
+ 1149  differ ./ls -R ~ ls -R ~
+ 1150  diff ./ls -R ~ ls -R ~
+ 1151  ./ls -R CODE
+ 1152  2000-7a3d304a6000  7a3d30592000-7a3d30593000  7a3d305ad000-7a3d305ae000\n572b70f2a000-572b70f3e000  7a3d304a6000-7a3d304a7000  7a3d30593000-7a3d30594000  7a3d305ae000-7a3d305d9000\n7a3d30200000-7a3d30228000  7a3d304a7000-7a3d304a8000  7a3d30594000-7a3d30595000  7a3d305d9000-7a3d305e3000\n7a3d30228000-7a3d303b0000  7a3d304a8000-7a3d304b8000  7a3d30595000-7a3d30596000  7a3d305e3000-7a3d305e5000\n7a3d303b0000-7a3d303ff000  7a3d304b8000-7a3d30537000  7a3d30596000-7a3d30597000  7a3d305e5000-7a3d305e7000\n7a3d303ff000-7a3d30403000  7a3d30537000-7a3d3058f000  7a3d30597000-7a3d30598000\n7a3d30403000-7a3d30405000  7a3d3058f000-7a3d30590000  7a3d30598000-7a3d3
+ 1153  //lib/x86_64-linux-gnu/
+ 1154  cd /home/user/CODE/TLPI/c18/ls
+ 1155  ls /root
+ 1156  sudo ls /root
+ 1157  file
+ 1158  //lib/x86_64-linux-gnu
+ 1159  AL;CX.
+ 1160  -=}LO
+ 1161  -={}CLS
+ 1162  ./ls -as
+ 1163  ./ls -asl
+ 1164  ./ls -aslt
+ 1165  ./ls -asltt
+ 1166  ./ls -asltri
+ 1167  ./ls -asltriR
+ 1168  cd ~/CODE
+ 1169  /home/user/CODE/TLPI/c18/ls -r
+ 1170  sudo ./ls ~
+ 1171  ls /home/user/文档/CODE_SAVE/CODE_2024_11_10/Strbuf/StrbufTest/build/_deps/googletest-subbuild/googletest-populate-prefix/src
+ 1172  sudo ./ls ~ -R
+ 1173  ./ls ~ -R -a
+ 1174  []sal;c
+ 1175  /proc/81919/map_files/stat
+ 1176  sudo cd /proc/81919/map_files/stat
+ 1177  cd /proc/81919/map_files/stat
+ 1178  cd /proc/81919/map_files/
+ 1179  cd /proc/81919/
+ 1180  sudo cd map_files
+ 1181  map_files
+ 1182  cd map_files
+ 1183  /home/user/CODE/TLPI/c18/ls .
+ 1184  /home/user/CODE/TLPI/c18/ls . -R
+ 1185  ls -R ..
+ 1186  ls -R ...
+ 1187  /home/user/CODE/TLPI/c18/ls -R ....
+ 1188  ls -R ....
+ 1189  /home/user/CODE/TLPI/c18/ls -R .....
+ 1190  /home/user/CODE/TLPI/c18/ls -R ......
+ 1191  /home/user/CODE/TLPI/c18/ls -R ....../..
+ 1192  /home/user/CODE/TLPI/c18/ls -R .......
+ 1193  /home/user/CODE/TLPI/c18/ls -R ........
+ 1194  cd .....
+ 1195  cd ......
+ 1196  /home/user/CODE/TLPI/c18/ls -R ..
+ 1197  /home/user/CODE/TLPI/c18/ls -R ...
+ 1198  /home/user/CODE/TLPI/c18/ls -R
+ 1199  /home/user/CODE/TLPI/c18/ls -R /
+ 1200  /home/user/CODE/TLPI/c18/ls -R ~
+ 1201  ./demon 
+ 1202  home/user/文档/CODE_SAVE/CODE_2024_11_10/Strbuf/StrbufTest/build/_deps/googletest-src/googletest/include/gtest
+ 1203  cd /home/user/文档/CODE_SAVE/CODE_2024_11_10/Strbuf/StrbufTest/build/_deps/googletest-src/googletest/include/gtest
+ 1204  ./d
+ 1205  cd home/user/文档/CODE_SAVE/CODE_2024_11_10/Strbuf/StrbufTest/build/_deps/googletest-src/googletest/include/gtest
+ 1206  cd /home/user/CODE/TLPI/demon.c
+ 1207  cd /home/user/CODE/TLPI/
+ 1208  ./demon
+ 1209  /home/user/文档/CODE_SAVE/CODE_2024_11_10/Strbuf/StrbufTest/build/_deps/googletest-src/googletest/include/gtest
+ 1210  cd //dev/fd/37:
+ 1211  cd //dev/fd/37
+ 1212  cd //dev/fd/
+ 1213  cd /home/user/CODE/TLPI/c18/ 
+ 1214  ./ls a/
+ 1215  /home/user/文档/CODE_SAVE/CODE_2024_11_10/Strbuf/StrbufTest/build/_deps/googletest-subbuild/CMakeFiles/3.28.3
+ 1216  ./ls /provc
+ 1217  ./ls /proc -R
+ 1218  /home/user/CODE/TLPI/c18/ls.cCLS
+ 1219  sudo /home/
+ 1220  sudo ./ls /home
+ 1221  sudo /bin
+ 1222  sudo ./ls  /bin -l
+ 1223  ll bin
+ 1224  ls -l /
+ 1225  cat /bin
+ 1226  ll /
+ 1227  .ls -l /
+ 1228  ./ls -l /\
+ 1229  ./lscls /
+ 1230  ./ls -l /
+ 1231  ls //dev/fd/38
+ 1232  ls /dev/fd/38
+ 1233  ls /dev/fd/
+ 1234  ls /dev/
+ 1235  ls /dev/dri
+ 1236  cd /home/user/文档/CODE_SAVE/CODE_2024_11_10/Strbuf/StrbufTest/build/_deps/googletest-subbuild/CMakeFiles/3.28.3
+ 1237  cd /home/user/CODE/TLPI/c18
+ 1238  branch
+ 1239  git pull origin master:
+ 1240  vim 
+ 1241  git pull origin master --no-rebase
+ 1242  git pull --ff-only origin
+ 1243  git pull --ff-only origin master
+ 1244  git pull --rebase origin master
+ 1245  ./ls -l -R
+ 1246  ./ls -l -R /
+ 1247  gti add --all
+ 1248  gcc c18
+ 1249  gcc c18/ls.c
+ 1250  ./a.out -R
+ 1251  ./a.out -R /
+ 1252  ^[[200~//proc/3022/map_files///73443a9d6000-73443a9d8000~
+ 1253  //proc/3022/map_files///73443a9d6000-73443a9d8000
+ 1254  //proc/3022/map_files
+ 1255  cd /home/user/CODE/TLPI/c18/ls.c
+ 1256  cd /home/user/CODE/TLPI/c18/
+ 1257  ./my_ls_28_2 -l
+ 1258  ./my_ls_28_2 /
+ 1259  ./ls -l 
+ 1260  ./ls -l ~
+ 1261  ./ls -l /~
+ 1262  ./ls -l /home/~
+ 1263  ./ls my_ls_28_2
+ 1264  ./my_ls_28_2
+ 1265  ./my_ls_28_2 .
+ 1266  ./my_ls_28_2 ..
+ 1267  gti push my_ls_11_26_nonlist.c my_ls_
+ 1268  gti push 
+ 1269  git pull origin master -r
+ 1270  git cheakout 
+ 1271  git checkout
+ 1272  git checkout origin/master
+ 1273  git checkout master
+ 1274  ./ls -alr
+ 1275  ./ls -alrt
+ 1276  ./ls -alrts
+ 1277  ./ls -alrtsi
+ 1278  ls -R /home
+ 1279  git commit 滑动窗口/2.c 滑动窗口/2.c
+ 1280  git add 滑动窗口/
+ 1281  git add 滑动窗口
+ 1282  git commit -m "update 3.c"
+ 1283  =cls
+ 1284  vld
+ 1285  git rm
+ 1286  rmdir .git
+ 1287  rmdir .git -R
+ 1288  rmdir .git -r
+ 1289  rm .git -r
+ 1290  y
+ 1291  ycls
+ 1292  git reset master
+ 1293  csdl
+ 1294  git branch
+ 1295  git pull origin m
+ 1296  cd 桌面
+ 1297  vim save.c
+ 1298  git pull origin
+ 1299  git pull origin master
+ 1300  git commit -m "2"
+ 1301  git pull -r origin master
+ 1302  git rm -rf ./git
+ 1303  rm -rf .git
+ 1304  git ./ls
+ 1305  ./ls -alsi
+ 1306  ./ls -alsit
+ 1307  ./ls -alsitr
+ 1308  ./ls -alsitrR
+ 1309  ./ls -r -a /home
+ 1310  ls -r -a /home
+ 1311  ls -r /home
+ 1312  ls -r /home -a
+ 1313  ls ls -i /home /etc
+ 1314  .ls -ai -t /home
+ 1315  ls -ai -t -s /home
+ 1316  ./ls -ai -t -s /home
+ 1317  ./ls -ai -t / /home
+ 1318  ./S
+ 1319  ./ls /gome
+ 1320  ./ls /lib
+ 1321  ls /lib
+ 1322  git remote add origin // 加入多文件显示\n\n#include<stdio.h>\n#include<sys/stat.h>\n#include<string.h>\n#include<dirent.h>\n#include<getopt.h>\n#include<ctype.h>\n#include<stdlib.h>\n#include<unistd.h>\n#include<sys/ioctl.h>\n#include<pwd.h>\n#include<grp.h>\n#include<time.h>\n\n#define LIST_SIZE 2097\n#define PATH_SIZE 4048\n#define FILE_PATH_SIZE 2048\n#define FILE_COUNT_MAX 25600\n\n#define Xfile "\033[32m\033[1m"\n\n\n#define OPT__a_ 'a'\n#define OPT__l_ 'l'\n#define OPT__t_ 't'\n#define OPT__r_ 'r'\n#define OPT__R_ 'R'\n#define OPT__i_ 'i'\n#define OPT__s_ 's'\n\ntypedef int(*FP)(const void *, const void *);\n\n// ifm\nstruct ifm\n{\n    struct dirent *rdirent;\n    struct stat buf__stat;\n};\n\nint opt_count_sum = 0;\nint opt;    // temp\nchar optTable[256] = {};  // 01 table\nchar filepath[FILE_COUNT_MAX][FILE_PATH_SIZE] = {"."};\nint FileNameCount = 1;\nint FileNameRead = 0;\nchar fatherPath[10000];\n\n// sort\nint order = 1;\n\nint sort_init(const void * ptr1, const void * ptr2)\n{\n    struct ifm * pos  = (struct ifm*)ptr1, * aftpos = (struct ifm*)ptr2;\n    \n    if(*(pos->rdirent->d_name)=='.'||(*(aftpos->rdirent->d_name)=='.'&&*(pos->rdirent->d_name+1)!='\0'))\n    {\n        if(strstr(pos->rdirent->d_name+1,aftpos->rdirent->d_name+1)!=NULL)\n            return 1 * order;\n        if(strstr(aftpos->rdirent->d_name+1,pos->rdirent->d_name+1)!=NULL)\n            return -1 * order;\n        \n        return strcmp(pos->rdirent->d_name+1,aftpos->rdirent->d_name+1) * order; \n    }\n    // 如果前面的部分一样，把长的排在后面\n    if(strstr(pos->rdirent->d_name,aftpos->rdirent->d_name)!=NULL)\n        return 1 * order;\n    if(strstr(aftpos->rdirent->d_name,pos->rdirent->d_name)!=NULL)\n        return -1 * order;\n\n    return strcmp(pos->rdirent->d_name,aftpos->rdirent->d_name) * order;\n}\n\nint sort_by_change_time(const void * ptr1, const void * ptr2)\n{\n    struct ifm * pos  = (struct ifm*)ptr1, * aftpos = (struct ifm*)ptr2;\n    if(pos->buf__stat.st_ctime<aftpos->buf__stat.st_ctime)\n        return 1 * order;\n    if(pos->buf__stat.st_ctime>aftpos->buf__stat.st_ctime)\n        return -1 * order;\n    return 0;\n}\n\nint main(int argc,char **argv)\n{   \n    //optTable[OPT__R_] = 1;\n    strcpy(fatherPath,filepath[0]);\n    // getopt\n    while((opt = getopt(argc,argv,"alRtris"))!=-1)\n    {\n        optTable[opt] = 1;\n        opt_count_sum += optTable[opt];\n    }\n\n    char ** arcu = argv+1;\n\n    if(argc>1&&opt_count_sum<argc-1)FileNameCount--;\n\n    while(*arcu!=NULL)\n    {\n        if(**arcu != '-')\n        {\n            strcpy(filepath[FileNameCount++],*arcu);\n        }\n        arcu++;\n    }\n\n    while (FileNameRead<FileNameCount)\n    {\n        if(FileNameCount>1||optTable[OPT__R_])\n            printf("%s:\n",filepath[FileNameRead]);\n        // open\n        DIR * dir = opendir(filepath[FileNameRead]);\n        struct dirent * rdirent;\n        struct stat buf__stat;    // 静态开辟空间\n        struct stat * statbuf = &buf__stat;\n\n        if(dir == NULL)\n        {\n            printf("ls: 无法访问 '%s': 没有那个文件或目录\n",filepath[FileNameRead]);\n            if(optTable[OPT__R_])\n            {\n                FileNameRead ++;\n                continue;\n            }\n            return 1;\n        }\n        \n        static struct ifm ifmlist[LIST_SIZE];// list\n        struct ifm * cur = ifmlist,*end;\n        \n        int all_name_count = 0;\n        int total_name_len = 0;\n        int temp_line_len = 0;\n        int max_len = 0;     //最长文件名\n        int line_print_now = 0;\n        int divide_count = 0;\n        size_t blockSum = 0;\n        int fileSizeLenMax = 0;\n\n        // 读目录\n\n        while((cur->rdirent = readdir(dir))!=NULL)\n        {\n            // get_max_len\n            if(strlen(cur->rdirent->d_name)>max_len)\n                max_len = strlen(cur->rdirent->d_name)+1;\n\n            //max_len = max_len>7?7:max_len;\n\n            char path[PATH_SIZE];\n            sprintf(path,"%s/%s",filepath[FileNameRead],cur->rdirent->d_name);\n            stat(path,&cur->buf__stat);\n\n            total_name_len += strlen(cur->rdirent->d_name) + 2; // 确定总长度 判断是否需要切换输出模式\n            //total_name_len-=2;  // 减去最后的两个空格\n            if(optTable[OPT__s_]) total_name_len += 3;\n            if(optTable[OPT__i_]) total_name_len += 8;\n\n            if(optTable[OPT__a_])blockSum += cur->buf__stat.st_blocks/2; // why\n            else if((cur->rdirent->d_name)[0]!='.')blockSum += cur->buf__stat.st_blocks/2;\n\n            int temp = cur->buf__stat.st_size;\n            int fileSizeLen = 0;\n            while(temp)\n                temp/=10,fileSizeLen ++;\n            if(fileSizeLen>fileSizeLenMax)\n                fileSizeLenMax = fileSizeLen;\n            \n            all_name_count++;\n            cur++;\n        }\n        // -r\n        order = optTable[OPT__r_] ? -1 : 1 ;\n        \n\n        // get_sort_mode\n\n        FP sort_mode = sort_init;\n        if(optTable[OPT__t_])sort_mode = sort_by_change_time;\n        qsort(ifmlist,all_name_count,sizeof(struct ifm),sort_mode);\n\n\n\n        // get_print_format\n\n        static struct winsize win;\n        ioctl(STDIN_FILENO,TIOCGWINSZ,&win);\n        divide_count = total_name_len / win.ws_col + 1;\n            \n\n        // opt_s using\n\n        if(optTable[OPT__l_]||optTable[OPT__s_])printf("总计 %zu\n",blockSum);\n\n        // read from ifm\n        struct ifm * readifm = ifmlist;\n        while(readifm!=cur)\n        {\n            if(!optTable[OPT__a_])\n                if\n                (!strcmp(readifm->rdirent->d_name,".")||!strcmp(readifm->rdirent->d_name,"..")\n                ||*readifm->rdirent->d_name=='.'){\n                        readifm++;\n                        continue;\n                    }\n\n        // print\n\n        void PrintList()\n        {\n\n            if(S_ISREG(readifm->buf__stat.st_mode)\n            &&!(readifm->buf__stat.st_mode & S_IXUSR))\n                printf("%s",readifm->rdirent->d_name);\n                \n            if(S_ISREG(readifm->buf__stat.st_mode)\n            &&(readifm->buf__stat.st_mode & S_IXUSR))\n                printf("\033[1;32m%s\033[0m",readifm->rdirent->d_name);\n                \n            if(S_ISDIR(readifm->buf__stat.st_mode))\n                printf("\033[1;34m%s\033[0m",readifm->rdirent->d_name);\n                \n            if(S_ISLNK(readifm->buf__stat.st_mode))\n                printf("\033[1;44m%s\033[0m",readifm->rdirent->d_name);\n                \n                printf("  ");\n        }\n\n            // 输出格式\n            if(!optTable[OPT__l_]&&line_print_now == ((all_name_count/divide_count-1))/(optTable[OPT__R_]?2:1))\n            {\n                printf("\b\b");\n                printf("\n");\n                temp_line_len = 0;\n                line_print_now = 0;\n            }\n\n            if(optTable[OPT__i_])\n            {\n                printf("%lu ",readifm->rdirent->d_ino);\n            }\n\n            if(optTable[OPT__s_])\n            {\n                printf("%2lu ",readifm->buf__stat.st_blocks/2);     // why\n            }\n\n            if(optTable[OPT__l_])    // -l\n            {\n                // 第一列\n                if(S_ISDIR(readifm->buf__stat.st_mode))printf("d");\n                else if(S_ISLNK(readifm->buf__stat.st_mode))printf("l");\n                else if(S_ISBLK(readifm->buf__stat.st_mode))printf("d");\n                else if(S_ISCHR(readifm->buf__stat.st_mode))printf("c");\n                else if(S_ISCHR(readifm->buf__stat.st_mode))printf("c");\n                else printf("-");\n\n                // 所有者权限\n                printf(readifm->buf__stat.st_mode & S_IRUSR?"r":"-");\n                printf(readifm->buf__stat.st_mode & S_IWUSR?"w":"-");\n                printf(readifm->buf__stat.st_mode & S_IXUSR?"x":"-");\n                //所属组权限\n                printf(readifm->buf__stat.st_mode & S_IRGRP?"r":"-");\n                printf(readifm->buf__stat.st_mode & S_IWGRP?"w":"-");\n                printf(readifm->buf__stat.st_mode & S_IXGRP?"x":"-");\n\n                //其他用户权限\n                printf(readifm->buf__stat.st_mode & S_IROTH?"r":"-");\n                printf(readifm->buf__stat.st_mode & S_IWOTH?"w":"-");\n                printf(readifm->buf__stat.st_mode & S_IXOTH?"x":"-");\n\n                printf(" %lu",readifm->buf__stat.st_nlink);\n                printf(" %s",getpwuid(readifm->buf__stat.st_uid)->pw_name);\n                printf(" %s",getgrgid(readifm->buf__stat.st_gid)->gr_name);\n                printf("%*lu ",fileSizeLenMax+1,readifm->buf__stat.st_size);\n                \n                struct tm * time = localtime(&readifm->buf__stat.st_mtime);\n                char time_buf[64];\n                strftime(time_buf, 64, "%m月 %d %H:%M",time);\n                printf("%s ",time_buf);\n\n                PrintList();\n\n                printf("\n");\n            }\n            else if(!optTable[OPT__R_]&&total_name_len<=win.ws_col)\n            {\n                PrintList();\n            }\n            else\n            {\n                temp_line_len += strlen(readifm->rdirent->d_name)+2;\n                temp_line_len += strlen(readifm->rdirent->d_name)+2;\n                if((readifm->buf__stat.st_mode & __S_IFLNK))\n                    printf("%-*s",max_len,readifm->rdirent->d_name);\n\n                if(S_ISREG(readifm->buf__stat.st_mode)\n                &&!(readifm->buf__stat.st_mode & S_IXUSR))\n                    printf("%-*s",max_len,readifm->rdirent->d_name);\n                \n                if(S_ISREG(readifm->buf__stat.st_mode)\n                &&(readifm->buf__stat.st_mode & S_IXUSR))\n                    printf("\033[1;32m%-*s\033[0m",max_len,readifm->rdirent->d_name);\n                \n                if(S_ISDIR(readifm->buf__stat.st_mode))\n                    printf("\033[1;34m%-*s\033[0m",max_len,readifm->rdirent->d_name);\n                \n                printf(" ");\n            }\n            \n            line_print_now ++;\n            readifm ++;\n        }\n        \n        if(!optTable[OPT__l_])printf("\n");\n        FileNameRead ++;\n        if(FileNameCount>1&&FileNameCount!=FileNameRead)printf("\n");\n        \n        if(optTable[OPT__R_])\n        {\n            if(FileNameCount<400){\n                strcpy(fatherPath,filepath[0]);\n                for(struct ifm * RfileNameRead = ifmlist;RfileNameRead<readifm;RfileNameRead++)\n                {\n                    if(S_ISDIR(RfileNameRead->buf__stat.st_mode)&&*RfileNameRead->rdirent->d_name!='.')\n                    {\n                        sprintf(filepath[FileNameCount++],"%s/%s",fatherPath,RfileNameRead->rdirent->d_name);\n                    }\n                }\n            }\n            for(int i = 1;i<FileNameCount;i++)\n            {\n                strcpy(filepath[i-1],filepath[i]);\n            }\n            //strcpy(fatherPath,filepath[0]);\n\n            FileNameCount--;\n            FileNameRead = 0;\n        }\n    }\n    return  0;\n}
+ 1323  git inir
+ 1324  clss
+ 1325  clwsw
+ 1326  ./ls /ibn
+ 1327  ./ls /CODE
+ 1328  ./ls ~/CODE
+ 1329  sudo ./ls /bin
+ 1330  ./ls -L
+ 1331  ./ls -l /bin
+ 1332  ./ls -l /bin -a
+ 1333  lcslccls
+ 1334  lcscls
+ 1335  slcslafc
+ 1336  lasclacsl
+ 1337  ./stat 
+ 1338  ./stat/bin
+ 1339  c18/ls /bin
+ 1340  ls ../..
+ 1341  ./ls ../..
+ 1342  ls .. .
+ 1343  ls sbin
+ 1344  touch a.c
+ 1345  sudo touch a.c
+ 1346  ls a.c
+ 1347  gcc ls.c -o ls
+ 1348  ^[[200~ls -lR| grep "^-" | wc -l~
+ 1349  ls -lR /bin| grep "^-" | wc -l
+ 1350  ls -lR | grep "^-" | wc -l /bin
+ 1351  ls /bin -lR | grep "^-" | wc -l /bin
+ 1352  lsc
+ 1353  s;
+ 1354  ;c
+ 1355  s;c
+ 1356  s;c;s
+ 1357  slcl
+ 1358  ./ls ./ls
+ 1359  ./ls -/
+ 1360  ./ls -tR
+ 1361  ./ls -tRal
+ 1362  ./ls -tRals
+ 1363  ./ls -tRalsi
+ 1364  code CODE/TLPI
+ 1365  dls
+ 1366  cllcs
+ 1367  ./18_递增运算符
+ 1368  ./19_赋值运算符./19
+ 1369  ./19_赋值运算符.
+ 1370  ./19
+ 1371  ./19_赋值运算符
+ 1372  ./19_赋值运算符.cpp
+ 1373  xcls
+ 1374  ./20_关系运算符
+ 1375  ./21_关系运算符
+ 1376  1./20
+ 1377  ./21_函数调用操作符
+ 1378  git commit -m "update 22.cpp"
+ 1379  2wcx
+ 1380  wc -l
+ 1381  wc ./ls -R -l
+ 1382  ./ls -R >> TEST.txt
+ 1383  ./ls -R / >>TEST.txt
+ 1384  ls -R / >> TEST.txt
+ 1385  ls -R ~ >> TEST.txt
+ 1386  ./ls ~/CODE -R >> TEST.txt
+ 1387  ./ls -R ~/CODE >> TEST.txt
+ 1388  ./ls -R > TEST.txt
+ 1389  ls -R > TEST.txt
+ 1390  ./ls -R > CMP.txt
+ 1391  clxz
+ 1392  ls -R ~ > CMP.txt
+ 1393  ./ls -R ~ > TEST.txt
+ 1394  sudo ./ls -R ~ > TEST.txt
+ 1395  ./ls -R ~ >> TEST.txt
+ 1396  LS 
+ 1397  ./ls -R / > TEST.txt
+ 1398  ./ls -R / >> TEST.txt
+ 1399  rm TEST.txt
+ 1400  ./ls t.TXT
+ 1401  C;S
+ 1402  ./ls -R > t.TXT
+ 1403  ./ls ~ -R > t.TXT
+ 1404  ./ls -R ~ >> t.TXT
+ 1405  ./ls -R ~/CODE > t.TXT
+ 1406  ls -R ~/CODE > t.TXT
+ 1407  ls -R ~ > t.TXT
+ 1408  VCLS
+ 1409  XSCScls
+ 1410  ./ls -R ~ > t.TXT
+ 1411  ./ls -d
+ 1412  ./ls -Rl > t.txt
+ 1413  ./ls / -Rl > t.txt
+ 1414  ./ls -R > T.TXT
+ 1415  ./ls -R ~ > T.TXT
+ 1416  ls /home/user/文档/xwechat_files/wxid_hqve6ds2v2ft22_f381/cache/2024-11/Emoticon/ff
+ 1417  ls /home/user/文档/xwechat_files/wxid_hqve6ds2v2ft22_f381/cache/2024-11/Emoticon/
+ 1418  ./ls -R ~ 
+ 1419  skc
+ 1420  cldsd
+ 1421  ./statcls
+ 1422  ./my_ls_11_26_linked /bin
+ 1423  ./my_ls_11_26_linked
+ 1424  ./my_ls_11_26_linked 
+ 1425  ls -l /bin
+ 1426  ls -l /bin/
+ 1427  rm a.c
+ 1428  rm /bin/a.c
+ 1429  ll /bin
+ 1430  ll /bin/
+ 1431  ls /bin > ../t.txt
+ 1432  ./ls /bin > ../t1.txt
+ 1433  ../c18/ls /bin > ../t1.txt
+ 1434  ./stats
+ 1435  ./s
+ 1436  /s -bin
+ 1437  /ls /bin
+ 1438  ls /tep
+ 1439  ls tmp
+ 1440  ls /tmp
+ 1441  ls /tmp -l
+ 1442  ls / -l
+ 1443  ./ls /usr/bin
+ 1444  ../c18/ls /usr/bin
+ 1445  ../c18/ls /bin
+ 1446  ./stat /usr.bin
+ 1447  ./stat /usr/bin
+ 1448  ls spd-say
+ 1449  ls /bin/spd-say
+ 1450  ls /bin/spd-say -l
+ 1451  ./stat ./stat
+ 1452  ./22_继承_基本语法
+ 1453  ./24_继承_对象模型
+ 1454  cp ls ~/桌面
+ 1455  ./stat /bin
+ 1456  ./stat /bincls
+ 1457  ./ls stat
+ 1458  cd ../c8
+ 1459  ./ls -al /bin
+ 1460  cs;
+ 1461  ./ls -l /home/user/snap ./
+ 1462  ./ls -r /
+ 1463  clos
+ 1464  SCLS
+ 1465  ./ls -R /PROC
+ 1466  xlas
+ 1467  ls -R ~ > t.txt
+ 1468  cd ../c15
+ 1469  ./test
+ 1470  cd c15
+ 1471  ./stat
+ 1472  cd ../c18
+ 1473  git add --al;l
+ 1474  gti push a.out time
+ 1475  git push
+ 1476  cd TLPI\*
+ 1477  cd ~/CODE/tlpi
+ 1478  git clone origin git@github.com:Aetherance/TLPI.git
+ 1479  git clone git@github.com:Aetherance/TLPI.git
+ 1480  git remote add --all
+ 1481  git init 
+ 1482  git remote add git@github.com:Aetherance/TLPI.git
+ 1483  git remote add origin git@github.com:Aetherance/TLPI.git
+ 1484  git commit -m "update comment"
+ 1485  sudo ls -R / | wc 
+ 1486  sudo ls -R / | wc -l
+ 1487  sudo ./ls -R / | wc
+ 1488  clws
+ 1489  Ccl
+ 1490  ./ls -R /CODE
+ 1491  ./ls -R ~/CODE
+ 1492  sllc
+ 1493  ./ls./ls
+ 1494  cslcls
+ 1495  cols
+ 1496  CSKL
+ 1497  Cls
+ 1498  SCSL
+ 1499  .cls
+ 1500  ./ls.
+ 1501  ./ls c18
+ 1502  ./ls -R / >T.txt
+ 1503  ./ls -R ~ >T.txt
+ 1504  ls -R ~ >T.txt
+ 1505  CLSD
+ 1506  git commit -m "update 25"
+ 1507  cls
+ 1508  git commit -m "update files"
+ 1509  cls
+ 1510  git add --allc
+ 1511  git add --all
+ 1512  cls
+ 1513  git commit -m "update files"
+ 1514  cls
+ 1515  git push origin master
+ 1516  cls
+ 1517  git add --all
+ 1518  cls
+ 1519  git commit -m "update files"
+ 1520  cls
+ 1521  git push origin master
+ 1522  cls
+ 1523  ./28_多态
+ 1524  cls
+ 1525  ./28_多态
+ 1526  ./28_多态./2
+ 1527  ./28_多态.
+ 1528  cl
+ 1529  clclks
+ 1530  cls
+ 1531  ./28_多态.cpp
+ 1532  ./28_多态.cpp 28_多态
+ 1533  cls
+ 1534  ./28_多态
+ 1535  cls
+ 1536  git add --all
+ 1537  cls
+ 1538  git commit -m "update files"
+ 1539  cksl
+ 1540  ckls
+ 1541  cls
+ 1542  git push origin master
+ 1543  CLS
+ 1544  cls
+ 1545  ./28_多态
+ 1546  cls
+ 1547  lclc
+ 1548  sl
+ 1549  csl
+ 1550  cls
+ 1551  cl
+ 1552  slcs
+ 1553  lcls
+ 1554  lcs
+ 1555  cls
+ 1556  git add --all
+ 1557  cls
+ 1558  git commit -m "update files"
+ 1559  ckls
+ 1560  cls
+ 1561  git push origin master
+ 1562  git add --all
+ 1563  ckls
+ 1564  cls
+ 1565  git commit -m "update files"
+ 1566  csl
+ 1567  tcl
+ 1568  scls
+ 1569  cls
+ 1570  git push origin master
+ 1571  firefox
+ 1572  cls
+ 1573  ./ls -R /dev
+ 1574  cls
+ 1575  ./ls -R /proc
+ 1576  cls
+ 1577  ./ls -R /
+ 1578  ./ls -R /bin''
+ 1579  ./ls -R /bin
+ 1580  cls
+ 1581  ./ls -R /dev
+ 1582  clsk
+ 1583  cls
+ 1584  ./ls -R /dev
+ 1585  cls
+ 1586  ./ls -R /bin
+ 1587  cls
+ 1588  ./ls -R /proc
+ 1589  cks
+ 1590  clds
+ 1591  cld
+ 1592  scls
+ 1593  cls
+ 1594  ./ls -R /usr/
+ 1595  cls
+ 1596  ./ls
+ 1597  ./ls -R /
+ 1598  cls
+ 1599  ./ls -R /dev
+ 1600  cls
+ 1601  ./ls -R /proc
+ 1602  cls
+ 1603  git add --all
+ 1604  cls
+ 1605  git commit -m "update files"
+ 1606  cls
+ 1607  git push origin master
+ 1608  firefox
+ 1609  cxls
+ 1610  cls
+ 1611  ./2
+ 1612  cls
+ 1613  ./30_虚析构和纯虚析构
+ 1614  cls
+ 1615  lc
+ 1616  slc
+ 1617  slcs
+ 1618  cls
+ 1619  ./30_虚析构和纯虚析构
+ 1620  cls
+ 1621  ./30_虚析构和纯虚析构
+ 1622  cls
+ 1623  ./30_虚析构和纯虚析构
+ 1624  cls
+ 1625  ./30_虚析构和纯虚析构
+ 1626  ls
+ 1627  lcs
+ 1628  cls
+ 1629  ./30_虚析构和纯虚析构
+ 1630  cls
+ 1631  ./30_虚析构和纯虚析构
+ 1632  cls
+ 1633  ./30_虚析构和纯虚析构
+ 1634  cls
+ 1635  ./30_虚析构和纯虚析构
+ 1636  cls
+ 1637  ./30_虚析构和纯虚析构
+ 1638  cls
+ 1639  ./30_虚析构和纯虚析构
+ 1640  cls
+ 1641  ./30_虚析构和纯虚析构
+ 1642  git add --all
+ 1643  csl
+ 1644  cls
+ 1645  git add --all
+ 1646  cls
+ 1647  git add --all
+ 1648  cls
+ 1649  git commit -m "update fielws"
+ 1650  cls
+ 1651  gti puh 14_const修饰的成员函数.cpp README.md
+ 1652  clds
+ 1653  cls
+ 1654  git push origin master
+ 1655  cls
+ 1656  reboot
+ 1657  cls
+ 1658  git add --all
+ 1659  cls
+ 1660  git commit -m "update files"
+ 1661  cls
+ 1662  git push origin master
+ 1663  cls
+ 1664  ./31_模板
+ 1665  \cls
+ 1666  cls
+ 1667  csl
+ 1668  cls
+ 1669  csl
+ 1670  cl
+ 1671  slc
+ 1672  sl
+ 1673  cls
+ 1674  cl
+ 1675  slc
+ 1676  sl
+ 1677  cls
+ 1678  clslc
+ 1679  slc
+ 1680  sl
+ 1681  cls
+ 1682  c
+ 1683  csl
+ 1684  cls
+ 1685  cls]
+ 1686  cls
+ 1687  git add --all
+ 1688  cls
+ 1689  git commit -m "update files"
+ 1690  cls
+ 1691  git push origin master 
+ 1692  cls
+ 1693  git add --all
+ 1694  cls
+ 1695  git commit -m "update filesd"
+ 1696  ckls
+ 1697  cls
+ 1698  git push README.md
+ 1699  c
+ 1700  cks
+ 1701  ck
+ 1702  slcs
+ 1703  cls
+ 1704  git push origin master
+ 1705  cls
+ 1706  ./37_vector容器
+ 1707  CLS
+ 1708  CL
+ 1709  Scls
+ 1710  cls
+ 1711  ./37_vector容器
+ 1712  cls
+ 1713  ./.
+ 1714  cls
+ 1715  ./37_vector容器
+ 1716  cls
+ 1717  ./37_vector容器
+ 1718  cls
+ 1719  ./37_vector容器
+ 1720  cls
+ 1721  ./37_vector容器
+ 1722  cls
+ 1723  ./37_vector容器
+ 1724  cls
+ 1725  ./37_vector容器
+ 1726  cls
+ 1727  ./37_vector容器
+ 1728  cls
+ 1729  ./37_vector容器
+ 1730  git add --all
+ 1731  csl
+ 1732  cls
+ 1733  git commit -m "update files"
+ 1734  cls
+ 1735  git push origin master
+ 1736  cls
+ 1737  ./38_vector容器存放自定义数据类型
+ 1738  cls
+ 1739  ./38_vector容器存放自定义数据类型
+ 1740  cls
+ 1741  git add --all
+ 1742  cls
+ 1743  git commit -m "update files"
+ 1744  cls
+ 1745  git push origin m
+ 1746  git push origin master
+ 1747  cls
+ 1748  ./39_vector容器嵌套
+ 1749  cls
+ 1750  git add --all
+ 1751  cls
+ 1752  git commit -m "update files"
+ 1753  cls
+ 1754  git push origin master
+ 1755  reboot
+ 1756  git add --all
+ 1757  cls
+ 1758  git commit -m "update files"
+ 1759  cls
+ 1760  git push origin master
+ 1761  cls
+ 1762  ./map容器
+ 1763  git add --all
+ 1764  csl
+ 1765  xzsl
+ 1766  cslc
+ 1767  cls
+ 1768  git commit -m "update map.cpp"
+ 1769  c ;lsz
+ 1770  cls
+ 1771  cl
+ 1772  sl
+ 1773  csl
+ 1774  cslcs
+ 1775  lcs
+ 1776  lcls
+ 1777  cls
+ 1778  firefox
+ 1779  git add --all
+ 1780  cls
+ 1781  git commit -m "update 6.cpp"
+ 1782  cls
+ 1783  git push origin master
+ 1784  git add --all
+ 1785  cls
+ 1786  git commit -m "update fiels"
+ 1787  cls
+ 1788  git push origin master
+ 1789  localsend_app
+ 1790  local
+ 1791  localsend_app
+ 1792  git add --all
+ 1793  cls
+ 1794  git commit -m "update files"
+ 1795  cls
+ 1796  git push origin master
+ 1797  cls
+ 1798  git add --allc
+ 1799  git add --all
+ 1800  cls
+ 1801  git commit -m "update files"
+ 1802  cls
+ 1803  git push origin master
+ 1804  git add --all
+ 1805  csl
+ 1806  cla
+ 1807  cls
+ 1808  git add --all
+ 1809  cls
+ 1810  git commit -m "update files"
+ 1811  cls
+ 1812  git push origin master
+ 1813  shutdown now
+ 1814  git add --all
+ 1815  cls
+ 1816  git commit -m "update files"
+ 1817  csl
+ 1818  glcs
+ 1819  cls
+ 1820  git push origin master
+ 1821  git add --all
+ 1822  cls
+ 1823  git commit -m "update files"
+ 1824  cls
+ 1825  git add --all
+ 1826  cls
+ 1827  git commit -m  "update"
+ 1828  cls
+ 1829  git push origin master
+ 1830  git add --all
+ 1831  csl
+ 1832  cls
+ 1833  git commit -m "update files"
+ 1834  cls
+ 1835  git push origin master
+ 1836  git add --all
+ 1837  cls
+ 1838  git commit -m "update files"
+ 1839  cls
+ 1840  code
+ 1841  ls
+ 1842  ./ls
+ 1843  cls
+ 1844  ./ls -R ~
+ 1845  CLS
+ 1846  cls
+ 1847  ./ls -R /dev
+ 1848  ./ls -R /bin
+ 1849  cls
+ 1850  ./ls -R /proc
+ 1851  cls
+ 1852  lc
+ 1853  slc
+ 1854  slcs
+ 1855  lc
+ 1856  slc
+ 1857  ls
+ 1858  cls
+ 1859  cl
+ 1860  slcs
+ 1861  lcs
+ 1862  ll;cs\ll
+ 1863  csl
+ 1864  cls
+ 1865  lc
+ 1866  sllcs
+ 1867  lcs
+ 1868  cls
+ 1869  g++ 贪心算法
+ 1870  g++ 贪心算法/6.cpp
+ 1871  CKS
+ 1872  CLS
+ 1873  LCS
+ 1874  cls
+ 1875  a.c a.out
+ 1876  cls
+ 1877  git add --all
+ 1878  cls
+ 1879  git commit -m "update 6.cpp"
+ 1880  cls
+ 1881  code
+ 1882  git add --all
+ 1883  cls
+ 1884  git commit -m "update files"
+ 1885  c cls
+ 1886  cls
+ 1887  git push o
+ 1888  \tgit push origin master
+ 1889  git add --all
+ 1890  cls
+ 1891  git commit -m "update files"
+ 1892  clks
+ 1893  cls
+ 1894  git push origin master
+ 1895  wechat
+ 1896  ./map容器
+ 1897  wechat 
+ 1898  shutdown
+ 1899  shutdown now
+ 1900  git add --all
+ 1901  cls
+ 1902  git commit -m "update files"
+ 1903  cls
+ 1904  git push origin master
+ 1905  git add --all
+ 1906  cls
+ 1907  git commit -m "update "
+ 1908  cls
+ 1909  git push origin master
+ 1910  git add --all
+ 1911  cls
+ 1912  git commit -m "update files"
+ 1913  cls
+ 1914  git push origin master
+ 1915  cls
+ 1916  cl
+ 1917  sc;s
+ 1918  zlc
+ 1919  scls
+ 1920  lcs
+ 1921  cls
+ 1922  git add --all
+ 1923  cl
+ 1924  sgcl
+ 1925  cls
+ 1926  git commit -m "update files"
+ 1927  cls
+ 1928  git push origin master 
+ 1929  git add --all
+ 1930  cls
+ 1931  git commit -m "ui"
+ 1932  cle
+ 1933  cke
+ 1934  cle
+ 1935  c,l.
+ 1936  scls
+ 1937  cls
+ 1938  git push origin master
+ 1939  git add --all
+ 1940  cls
+ 1941  git commit -m "update files"
+ 1942  cls
+ 1943  git push origin master
+ 1944  git add --all
+ 1945  cls
+ 1946  git commit -m "update files"
+ 1947  git push origin master
+ 1948  cls
+ 1949  clclclc
+ 1950  cls
+ 1951  ./ls
+ 1952  cls
+ 1953  ./ls c15/bin
+ 1954  cls
+ 1955  ./ls -R
+ 1956  ./ls -R /HOME
+ 1957  ./ls -R /home
+ 1958  cls
+ 1959  ./ls -R 
+ 1960  ./ls -R -a
+ 1961  cls
+ 1962  ./ls -Ra
+ 1963  ls -Ra
+ 1964  cls
+ 1965  ls -a
+ 1966  ./ls -a
+ 1967  cls
+ 1968  ./ls -R
+ 1969  cls
+ 1970  ./ls
+ 1971  cls
+ 1972  ./ls
+ 1973  cls
+ 1974  ./ls
+ 1975  cls
+ 1976  ./ls
+ 1977  ./ls -a
+ 1978  ./ls -al
+ 1979  ls -al
+ 1980  cls
+ 1981  ./ls -R
+ 1982  ./ls -R ~
+ 1983  CLS
+ 1984  cls
+ 1985  ./ls -R /
+ 1986  cls
+ 1987  ls -R /
+ 1988  CLS
+ 1989  cls
+ 1990  ./ls -R /
+ 1991  CLS
+ 1992  cls
+ 1993  ./ls
+ 1994  cls
+ 1995  ./ls /bin
+ 1996  cls
+ 1997  ./ls /bin
+ 1998  cls
+ 1999  ./ls -R
+ 2000  ./ls -R /proc
+ 2001  cls
+ 2002  ./ls 
+ 2003  ./ls /bin
+ 2004  cls
+ 2005  ./ls
+ 2006  ./ls /
+ 2007  cls
+ 2008  ./ls
+ 2009  ./ls -R ~
+ 2010  cls
+ 2011  ls
+ 2012  cls 1
+ 2013  cls
+ 2014  cd c18
+ 2015  cls
+ 2016  ./ls
+ 2017  ls
+ 2018  ./ls
+ 2019  cls
+ 2020  ./ls
+ 2021  cls
+ 2022  ./ls
+ 2023  cls
+ 2024  cd ..
+ 2025  cls
+ 2026  ./ls
+ 2027  ./ls /bin
+ 2028  cls
+ 2029  ./ls /tmp
+ 2030  cl
+ 2031  scls
+ 2032  cls
+ 2033  ./ls ls.c
+ 2034  cls
+ 2035  ./ls ls
+ 2036  lcs
+ 2037  cls
+ 2038  ./ls 
+ 2039  cls
+ 2040  cd c18
+ 2041  cls
+ 2042  ./ls
+ 2043  cls
+ 2044  ./ls /bin
+ 2045  cls
+ 2046  lcs
+ 2047  cls
+ 2048  ./ls
+ 2049  cls
+ 2050  ./ls -R
+ 2051  CLS
+ 2052  cls
+ 2053  ./ls
+ 2054  cls
+ 2055  ./ls R
+ 2056  ./ls -R
+ 2057  cls
+ 2058  cd ..
+ 2059  csl
+ 2060  cls
+ 2061  ./ls
+ 2062  ./ls /bin
+ 2063  cls
+ 2064  lcs
+ 2065  cls
+ 2066  lcs
+ 2067  cls
+ 2068  lc
+ 2069  slc
+ 2070  sl
+ 2071  c
+ 2072  lsz
+ 2073  cls
+ 2074  lc
+ 2075  sl
+ 2076  csl
+ 2077  cls
+ 2078  lc
+ 2079  sl
+ 2080  cls
+ 2081  l
+ 2082  clcsxz
+ 2083  cls
+ 2084  ./ls
+ 2085  cl
+ 2086  scls
+ 2087  cls
+ 2088  cd c18
+ 2089  cls
+ 2090  ./ls
+ 2091  ./ls -a
+ 2092  ./ls -al
+ 2093  cls
+ 2094  ./ls -ar
+ 2095  cls
+ 2096  ./ls -t
+ 2097  cls
+ 2098  ./ls -s
+ 2099  ls -s
+ 2100  cls
+ 2101  ./ls
+ 2102  ./ls -R
+ 2103  cls
+ 2104  ./ls
+ 2105  cls
+ 2106  ./ls -R
+ 2107  cls
+ 2108  lcs
+ 2109  lc
+ 2110  slc
+ 2111  sl
+ 2112  cls
+ 2113  lcs
+ 2114  lc
+ 2115  sl
+ 2116  lcs
+ 2117  lc
+ 2118  slc
+ 2119  llcs
+ 2120  lc
+ 2121  sl
+ 2122  cls
+ 2123  ./ls
+ 2124  cls
+ 2125  cd ..
+ 2126  cls
+ 2127  ./ls
+ 2128  cls
+ 2129  ./ls . ..
+ 2130  csl
+ 2131  cls
+ 2132  cd c18
+ 2133  cls
+ 2134  ls -R /home /bin
+ 2135  ./ls -R /home /bin
+ 2136  cl
+ 2137  scls
+ 2138  cls
+ 2139  cd c18
+ 2140  cd ..
+ 2141  cls
+ 2142  ./ls -R /home /bin
+ 2143  cls
+ 2144  lcs
+ 2145  cls
+ 2146  ./ls -r
+ 2147  ./ls -R
+ 2148  cls
+ 2149  ./ls -R
+ 2150  CLS
+ 2151  cls
+ 2152  ./ls -
+ 2153  cls
+ 2154  ./ls
+ 2155  ./ls -R
+ 2156  ./ls -R .
+ 2157  ./ls -R ..
+ 2158  ./ls -R .. .
+ 2159  ./ls -R .. 1
+ 2160  csl
+ 2161  cls
+ 2162  ./ls
+ 2163  cls
+ 2164  ./ls -R
+ 2165  cls
+ 2166  ./ls
+ 2167  cl
+ 2168  slcs
+ 2169  cls
+ 2170  ./ls -R
+ 2171  CLS
+ 2172  cls
+ 2173  ./ls -R
+ 2174  ./ls -RCLS
+ 2175  CLS
+ 2176  cls
+ 2177  ./ls- R
+ 2178  CLS
+ 2179  cls
+ 2180  ./ls -R
+ 2181  CLS
+ 2182  cls
+ 2183  ./LS -r
+ 2184  cls
+ 2185  ./ls -R
+ 2186  cls
+ 2187  ./ls
+ 2188  cls
+ 2189  ./ls
+ 2190  ./ls -R
+ 2191  cls
+ 2192  ./ls -R
+ 2193  cks
+ 2194  cls
+ 2195  ./ls -R
+ 2196  ./LS
+ 2197  cls
+ 2198  ./ls
+ 2199  cls
+ 2200  cd c18
+ 2201  cls
+ 2202  ./ls
+ 2203  cls
+ 2204  ./ls -R
+ 2205  git add --all
+ 2206  cls
+ 2207  git commit -m "update files"
+ 2208  cls
+ 2209  git push origin master
+ 2210  ./ls
+ 2211  cls
+ 2212  ./ls -R
+ 2213  CLS
+ 2214  cls
+ 2215  ./ls -R
+ 2216  cls
+ 2217  ./ls -R
+ 2218  CLS
+ 2219  lcs
+ 2220  cls
+ 2221  cd c18
+ 2222  cls
+ 2223  ./ls -R
+ 2224  CLS
+ 2225  cls
+ 2226  ./ls
+ 2227  ./ls -R
+ 2228  cls
+ 2229  ./ls
+ 2230  ./ls -R
+ 2231  ls
+ 2232  cls
+ 2233  ./LS
+ 2234  CLS
+ 2235  cls
+ 2236  ./ls
+ 2237  ./ls -r
+ 2238  ./ls -R
+ 2239  cls
+ 2240  ./ls -R
+ 2241  ls -R
+ 2242  ./ls
+ 2243  cls
+ 2244  ./ls -R
+ 2245  ./ls
+ 2246  ./ls -R
+ 2247  cls
+ 2248  ./ls -R
+ 2249  CLS
+ 2250  cls
+ 2251  ./ls -R
+ 2252  cls
+ 2253  ./ls -R
+ 2254  cls
+ 2255  ./ls
+ 2256  ./ls -R
+ 2257  cls
+ 2258  ./ls
+ 2259  ./ls -R
+ 2260  cls
+ 2261  ./ls -R
+ 2262  cls
+ 2263  ./ls
+ 2264  cls
+ 2265  ./ls
+ 2266  cl
+ 2267  scls
+ 2268  cls
+ 2269  ./ls
+ 2270  cls
+ 2271  ls
+ 2272  cls
+ 2273  csl
+ 2274  l
+ 2275  cls
+ 2276  dir 1
+ 2277  cls
+ 2278  mkdir 1
+ 2279  mkdir 2
+ 2280  cls
+ 2281  ./ls
+ 2282  cls
+ 2283  ./ls
+ 2284  cls
+ 2285  ./ls
+ 2286  cls
+ 2287  ./ls
+ 2288  cls
+ 2289  ./ls
+ 2290  cls
+ 2291  ./ls
+ 2292  csl
+ 2293  cls
+ 2294  ./ls
+ 2295  cls
+ 2296  ./ls
+ 2297  cls
+ 2298  ./ls
+ 2299  csl
+ 2300  cls
+ 2301  ./ls
+ 2302  cl
+ 2303  cld
+ 2304  cls
+ 2305  ./ls
+ 2306  cls
+ 2307  ./ls
+ 2308  cls
+ 2309  ./ls
+ 2310  cls
+ 2311  ./ls
+ 2312  cls
+ 2313  ./ls
+ 2314  cls
+ 2315  ./ls
+ 2316  cls
+ 2317  ./ls
+ 2318  cl
+ 2319  scls
+ 2320  cls
+ 2321  ./ls
+ 2322  cls
+ 2323  ./ls
+ 2324  cls
+ 2325  ./ls
+ 2326  cls
+ 2327  ./ls
+ 2328  cls
+ 2329  ./ls
+ 2330  cls
+ 2331  ./ls
+ 2332  cls
+ 2333  ./ls
+ 2334  cls
+ 2335  ./ls
+ 2336  cls
+ 2337  ./ls
+ 2338  cls
+ 2339  ./ls
+ 2340  csl
+ 2341  cls
+ 2342  ./ls /
+ 2343  cls
+ 2344  ./ls 
+ 2345  cls
+ 2346  ./ls
+ 2347  cls
+ 2348  ./ls
+ 2349  cls
+ 2350  ./ls
+ 2351  ls -R
+ 2352  cls
+ 2353  ./ls
+ 2354  cls
+ 2355  ./ls
+ 2356  ls -Ra
+ 2357  cls
+ 2358  ./ls
+ 2359  ./ls -R
+ 2360  cls
+ 2361  ./ls
+ 2362  ls -R
+ 2363  cls
+ 2364  ./ls
+ 2365  ls -R
+ 2366  cls
+ 2367  ./ls -R
+ 2368  ./ls /
+ 2369  cls
+ 2370  ./ls
+ 2371  cls
+ 2372  ./ls /
+ 2373  cls
+ 2374  ./ls
+ 2375  ./ls ~
+ 2376  cls
+ 2377  ./ls /
+ 2378  cls
+ 2379  ./ls /bin
+ 2380  csl
+ 2381  cls
+ 2382  1./ls
+ 2383  ./ls
+ 2384  ./ls /BIN
+ 2385  CLS
+ 2386  cks
+ 2387  csl
+ 2388  cls
+ 2389  ./ls /bin
+ 2390  cls
+ 2391  ./ls
+ 2392  cls
+ 2393  ./ls ~
+ 2394  CLS
+ 2395  cls
+ 2396  ls ~
+ 2397  ls ~ -r
+ 2398  CLS
+ 2399  cls
+ 2400  ls -R ~
+ 2401  cls
+ 2402  ./ls /
+ 2403  cls
+ 2404  ./ls
+ 2405  ls
+ 2406  csl
+ 2407  cls
+ 2408  ./ls /bin
+ 2409  cls
+ 2410  ./ft
+ 2411  cd ..
+ 2412  cls
+ 2413  ./ft
+ 2414  ./ft /bin
+ 2415  cls
+ 2416  ./ft
+ 2417  ./ft /bin
+ 2418  cls
+ 2419  ./ft -R /
+ 2420  cls
+ 2421  ./ft
+ 2422  ./ft -R /
+ 2423  cls
+ 2424  ./ls -R ~
+ 2425  cls
+ 2426  cd c18
+ 2427  cls
+ 2428  ./ls
+ 2429  cls
+ 2430  ./ls -R
+ 2431  ./ls ~
+ 2432  CLS
+ 2433  cls
+ 2434  ./ls /home
+ 2435  cls
+ 2436  ./ls 
+ 2437  cls
+ 2438  ./ls /bin
+ 2439  cls
+ 2440  ./ls
+ 2441  cls
+ 2442  ./ls /proc
+ 2443  cls
+ 2444  ls /proc
+ 2445  ./ls /proc
+ 2446  cls
+ 2447  ./ls 
+ 2448  ./ls ~
+ 2449  csl
+ 2450  cls
+ 2451  ./ls 
+ 2452  ls -R
+ 2453  cls
+ 2454  ./ls
+ 2455  cls
+ 2456  ./ls
+ 2457  cks
+ 2458  cls
+ 2459  ./ls
+ 2460  cls
+ 2461  ./ls
+ 2462  vclcls
+ 2463  cls
+ 2464  ./ls
+ 2465  ls
+ 2466  cvls
+ 2467  cls
+ 2468  ./ls
+ 2469  clks
+ 2470  cls
+ 2471  ./ls
+ 2472  csl
+ 2473  cls
+ 2474  ./ls
+ 2475  cls
+ 2476  ./ls
+ 2477  cd ..
+ 2478  lcs
+ 2479  cls
+ 2480  cd c18
+ 2481  cls
+ 2482  cd ..
+ 2483  cls
+ 2484  ./ft
+ 2485  ../ft
+ 2486  .../ft
+ 2487  cls
+ 2488  /home/user/CODE/tlpi/TLPI/ft.c
+ 2489  cd c18
+ 2490  cls
+ 2491  ls
+ 2492  cls
+ 2493  cd ...
+ 2494  cd TLPI/
+ 2495  csl
+ 2496  cls
+ 2497  ./ls
+ 2498  ./ft
+ 2499  cls
+ 2500  ./ls
+ 2501  ./ft
+ 2502  cls
+ 2503  ./ls
+ 2504  ./ls -R
+ 2505  cls
+ 2506  ./ls
+ 2507  cls
+ 2508  cd c18
+ 2509  cls
+ 2510  ./ls /bin
+ 2511  cls
+ 2512  ./ls
+ 2513  cls
+ 2514  ./ls
+ 2515  cls
+ 2516  ./ls
+ 2517  cls
+ 2518  ./ls
+ 2519  csl
+ 2520  cls
+ 2521  ./ls
+ 2522  cls
+ 2523  ./ls ~
+ 2524  cls
+ 2525  ./ls
+ 2526  cls
+ 2527  ./ls
+ 2528  cls
+ 2529  ./ls
+ 2530  csl
+ 2531  cls
+ 2532  ./ls
+ 2533  cls
+ 2534  ./ls
+ 2535  cl
+ 2536  cls
+ 2537  ./ls
+ 2538  cls
+ 2539  ./ls
+ 2540  cls
+ 2541  ./ls
+ 2542  cls
+ 2543  ./ls
+ 2544  cls
+ 2545  ./ls
+ 2546  cls
+ 2547  ./ls
+ 2548  cls
+ 2549  ./ls
+ 2550  cls
+ 2551  ./ls
+ 2552  ls
+ 2553  csl
+ 2554  cls
+ 2555  ./.lks
+ 2556  cks
+ 2557  \cks
+ 2558  cls
+ 2559  ./ls
+ 2560  ls
+ 2561  cls
+ 2562  ./ls
+ 2563  cls
+ 2564  ./ls
+ 2565  csl
+ 2566  cls
+ 2567  ./ls
+ 2568  cls
+ 2569  ./ls
+ 2570  cls
+ 2571  ./ls
+ 2572  ls
+ 2573  csl
+ 2574  cls
+ 2575  ./ls
+ 2576  ls
+ 2577  cls
+ 2578  ./ls
+ 2579  cls
+ 2580  ./ls
+ 2581  ls
+ 2582  cls
+ 2583  ./ls
+ 2584  ls
+ 2585  cls
+ 2586  ./ls
+ 2587  ls
+ 2588  csl
+ 2589  cls
+ 2590  ls
+ 2591  ls -R
+ 2592  ls -R /
+ 2593  cls
+ 2594  ls
+ 2595  ls ..
+ 2596  cls
+ 2597  ls ..
+ 2598  cls
+ 2599  ./ls
+ 2600  ./ls ..
+ 2601  cls
+ 2602  ls
+ 2603  ls ..
+ 2604  cls
+ 2605  ls ..
+ 2606  ls ...
+ 2607  cls
+ 2608  ls
+ 2609  cls
+ 2610  ./ls
+ 2611  cls
+ 2612  ./ls
+ 2613  cls
+ 2614  ./ls
+ 2615  csl
+ 2616  cls
+ 2617  ./ls
+ 2618  cls
+ 2619  ./ls
+ 2620  csl
+ 2621  cls
+ 2622  ./ls
+ 2623  csl
+ 2624  cls
+ 2625  ./ls ~
+ 2626  cls
+ 2627  ls -R
+ 2628  ls -R ~
+ 2629  ./ls -R ~
+ 2630  CLS
+ 2631  cls
+ 2632  ./ls -R /
+ 2633  cls
+ 2634  ./ls -R /
+ 2635  cls
+ 2636  ls /bin
+ 2637  ls /bin -R
+ 2638  cls
+ 2639  ls
+ 2640  lcs
+ 2641  cls
+ 2642  ls /bin
+ 2643  cls
+ 2644  ls /bin.usr-is-merged
+ 2645  ls
+ 2646  cls
+ 2647  ls /bin/a.c
+ 2648  ls /bin/systemd-umount
+ 2649  cls
+ 2650  ./ls /proc
+ 2651  ls /proc
+ 2652  cls
+ 2653  ./bin
+ 2654  cls
+ 2655  ./ls /bin
+ 2656  csl
+ 2657  cls
+ 2658  ./ls /bin
+ 2659  cls
+ 2660  ./ls -R /bin
+ 2661  cls
+ 2662  csl
+ 2663  cls
+ 2664  ./ls /
+ 2665  cls
+ 2666  ./ls
+ 2667  cls
+ 2668  ./ls -R
+ 2669  ./ls /
+ 2670  CVLS
+ 2671  CLS
+ 2672  cls
+ 2673  cd ..
+ 2674  cls
+ 2675  ./ft
+ 2676  ./ft /in
+ 2677  ./ft /bin
+ 2678  cls
+ 2679  ./ft
+ 2680  ./ft /
+ 2681  ./ft / -R
+ 2682  cls
+ 2683  ./ls
+ 2684  cls
+ 2685  cd c18
+ 2686  cls
+ 2687  ./ls
+ 2688  cls
+ 2689  ./ls
+ 2690  ./ls -R /
+ 2691  cls
+ 2692  ./ls /
+ 2693  CLS
+ 2694  cls
+ 2695  ./ls /
+ 2696  cls
+ 2697  ./ls
+ 2698  cls
+ 2699  ./ls /
+ 2700  cls
+ 2701  ./ls
+ 2702  ./ls /
+ 2703  cls
+ 2704  ./ls /
+ 2705  cls
+ 2706  ./ls
+ 2707  cls
+ 2708  ./ls /
+ 2709  cls
+ 2710  ls -R/
+ 2711  ls -R /
+ 2712  cls
+ 2713  ls -R /
+ 2714  cls
+ 2715  ./ls
+ 2716  ./ls /
+ 2717  cls
+ 2718  ./ls /
+ 2719  cls
+ 2720  ls /bin
+ 2721  clks
+ 2722  cls
+ 2723  ./ls /
+ 2724  cls
+ 2725  ./ls
+ 2726  ./ls /
+ 2727  cls
+ 2728  ./ls ~
+ 2729  /ls /home
+ 2730  /ls ~
+ 2731  cls
+ 2732  ./ls ~
+ 2733  ls -R ~
+ 2734  cls
+ 2735  ./ls /bi
+ 2736  ./ls /bin
+ 2737  cls
+ 2738  ./ls /bin
+ 2739  cls
+ 2740  ./ls /bin
+ 2741  cvls
+ 2742  cls
+ 2743  ./ls /bin
+ 2744  cls
+ 2745  ./ls /
+ 2746  cls
+ 2747  cd /bin
+ 2748  cls
+ 2749  l,.s
+ 2750  cls
+ 2751  lc
+ 2752  scls
+ 2753  cls
+ 2754  ls
+ 2755  ll
+ 2756  cls
+ 2757  ls 
+ 2758  ls /bin
+ 2759  ls /bin -R
+ 2760  cls
+ 2761  ./ls /
+ 2762  cls
+ 2763  cd 
+ 2764  cd CODE/tlpi
+ 2765  cd TLPI/
+ 2766  cd c18
+ 2767  cls
+ 2768  ls
+ 2769  ./ls /
+ 2770  cls
+ 2771  ./ls /bin
+ 2772  cls
+ 2773  ./ls /
+ 2774  ./ls /bin
+ 2775  ls
+ 2776  wc | ./ls /bin
+ 2777  ./ls /bin | wc -k
+ 2778  ./ls /bin | wc -l
+ 2779  ls -l /bin | wc -l
+ 2780  ls -l /bin/ | wc -l
+ 2781  ls /bin
+ 2782  ls
+ 2783  cls
+ 2784  ./ls /
+ 2785  cls
+ 2786  ./ls /
+ 2787  ./ls / | wc -l
+ 2788  ls -lR / | wc -l
+ 2789  cls
+ 2790  lcs
+ 2791  lc
+ 2792  slcs
+ 2793  cls
+ 2794  ./ls
+ 2795  cls
+ 2796  ./ls 
+ 2797  cls
+ 2798  ./ls /
+ 2799  cls
+ 2800  ./ls
+ 2801  ./ls /
+ 2802  csl
+ 2803  cls
+ 2804  ./ls
+ 2805  csl
+ 2806  cls
+ 2807  ./ls /
+ 2808  cls
+ 2809  ./ls
+ 2810  ./ls /
+ 2811  cls
+ 2812  ./ls
+ 2813  ./ls /
+ 2814  ./ls / | wc -l
+ 2815  cls
+ 2816  ./ls
+ 2817  ./ls /
+ 2818  cls
+ 2819  ./ls
+ 2820  ./ls /
+ 2821  ls -R /
+ 2822  cls
+ 2823  ./ls /
+ 2824  cls
+ 2825  ./ls /
+ 2826  cls
+ 2827  ./ls -R / | wc -l
+ 2828  cls
+ 2829  ./ls ~ | wc -l ; ls ~ -R | wc -l
+ 2830  ./ls ~ | wc -l 
+ 2831  ls ~ -Rl | wc -l
+ 2832  cls
+ 2833  ./ls ~ -R
+ 2834  ./ls ~ -R | wc -l
+ 2835  ls -R ~ -R
+ 2836  ls -R ~ -R | wc -l
+ 2837  ls -R ~ -R
+ 2838  cls
+ 2839  ./ls -R /
+ 2840  cls
+ 2841  ./ls -R ~ | wc -l
+ 2842  ./ls -R ~ -R | wc -l
+ 2843  ls -R ~ -R | wc -l
+ 2844  csl
+ 2845  cls
+ 2846  csl
+ 2847  cls
+ 2848  ls ~ -Rl | wc -l
+ 2849  ./ls ~ | wc -l
+ 2850  ls ~ -Rl | wc -l
+ 2851  ./ls ~ | wc -l
+ 2852  cls
+ 2853  ./ls -R ~
+ 2854  cls
+ 2855  ./ls
+ 2856  ./ls /
+ 2857  cls
+ 2858  ./ls ~
+ 2859  cls
+ 2860  ls ~ -R
+ 2861  ls -l -R
+ 2862  cls
+ 2863  csl
+ 2864  cls
+ 2865  cl
+ 2866  scls
+ 2867  lc
+ 2868  scls
+ 2869  lcs
+ 2870  cl
+ 2871  sxcls
+ 2872  lc
+ 2873  scl
+ 2874  slc
+ 2875  scls
+ 2876  cl
+ 2877  scl
+ 2878  slc
+ 2879  scl
+ 2880  slc
+ 2881  s
+ 2882  cls
+ 2883  ./ls
+ 2884  ./ls /
+ 2885  cls
+ 2886  lc
+ 2887  slc
+ 2888  sl
+ 2889  cslcs
+ 2890  lcs
+ 2891  lc
+ 2892  sl
+ 2893  lcs
+ 2894  cl
+ 2895  slc
+ 2896  scl
+ 2897  cl
+ 2898  scls
+ 2899  cl
+ 2900  scls
+ 2901  lc
+ 2902  slcs
+ 2903  lc
+ 2904  s
+ 2905  lcs
+ 2906  lcsl
+ 2907  cslllcs
+ 2908  l
+ 2909  cl
+ 2910  scl
+ 2911  c
+ 2912  s
+ 2913  cls
+ 2914  git add --all
+ 2915  cls
+ 2916  git commit -m "update files"
+ 2917  cls
+ 2918  git push origin master
+ 2919  ./ft
+ 2920  cls
+ 2921  lc
+ 2922  slc
+ 2923  s
+ 2924  slc
+ 2925  s
+ 2926  cls
+ 2927  cd ..
+ 2928  cls
+ 2929  ./ls 22
+ 2930  cd ..
+ 2931  cls
+ 2932  cd TLPI
+ 2933  cd c18
+ 2934  cls
+ 2935  ls 1
+ 2936  cls
+ 2937  cl
+ 2938  scl
+ 2939  slc
+ 2940  lcs
+ 2941  cl
+ 2942  slc
+ 2943  slcs
+ 2944  lcs
+ 2945  cls
+ 2946  ./ls
+ 2947  cls
+ 2948  ./ls
+ 2949  ./ls /
+ 2950  cls
+ 2951  ./ls
+ 2952  ./ls -R
+ 2953  CLS
+ 2954  cls
+ 2955  ./ls
+ 2956  ./ls -R /
+ 2957  cls
+ 2958  \cls
+ 2959  cl
+ 2960  scls
+ 2961  lc
+ 2962  sxlc
+ 2963  slc
+ 2964  ls
+ 2965  clszlc
+ 2966  s
+ 2967  csl
+ 2968  lc
+ 2969  slcs
+ 2970  cl
+ 2971  scl
+ 2972  s
+ 2973  cls
+ 2974  ./ls ~
+ 2975  cls
+ 2976  ./ls ~ > t.txt
+ 2977  ls ~ -R > t.txt
+ 2978  ./ls ~ > t.txt
+ 2979  cls
+ 2980  ./ls -R /
+ 2981  cls
+ 2982  ./ls -R ~
+ 2983  ./ls -R ~ > t.txt
+ 2984  cls
+ 2985  ./ls 
+ 2986  cls
+ 2987  ./ls
+ 2988  ./ls -R
+ 2989  cls
+ 2990  ./ls -R ~
+ 2991  CLS
+ 2992  cls
+ 2993  ./ls -R
+ 2994  cls
+ 2995  ./ls -a
+ 2996  cls
+ 2997  ./ls /
+ 2998  cls
+ 2999  lc
+ 3000  \slc
+ 3001  slc
+ 3002  sl
+ 3003  cslc
+ 3004  slcls
+ 3005  cls
+ 3006  lclcs
+ 3007  lcs
+ 3008  cls
+ 3009  ./ls -R /
+ 3010  cls
+ 3011  ./ls ~
+ 3012  ./ls /
+ 3013  cls
+ 3014  ./LS
+ 3015  ./ls
+ 3016  cls
+ 3017  ./ls 
+ 3018  cls
+ 3019  ./ls /
+ 3020  cls
+ 3021  ./ls
+ 3022  ./ls /
+ 3023  cls
+ 3024  ./ls
+ 3025  ./ls /
+ 3026  cls
+ 3027  ./ls /
+ 3028  cls
+ 3029  ./ls /
+ 3030  cls
+ 3031  ./ls /
+ 3032  cls
+ 3033  ./ls ~
+ 3034  cls
+ 3035  ./ls
+ 3036  ./ls ~
+ 3037  ./ls ~ | wc -l
+ 3038  cls
+ 3039  ./ls /
+ 3040  CLS
+ 3041  cls
+ 3042  ./ls ~
+ 3043  cls
+ 3044  ./ls ~
+ 3045  cls
+ 3046  ./ls -R | wc
+ 3047  ./ls -R | wc -l
+ 3048  ./ls -R -l | wc -l
+ 3049  ./ls -R / | wc -l
+ 3050  ls -R / | wc -l
+ 3051  cls
+ 3052  ./ls -R -l | wc -l
+ 3053  ls -R / | wc -l
+ 3054  cls
+ 3055  ./ls ~ 
+ 3056  cls
+ 3057  ./ls ~ | wc -l
+ 3058  ./ls /home | wc -l
+ 3059  ./ls / | wc -l
+ 3060  ./ls /home | wc -l
+ 3061  ./ls /home/CODE | wc -l
+ 3062  ./ls /home/user/CODE | wc -l
+ 3063  ls /home/user/CODE -l | wc -l
+ 3064  ls /home/user/CODE  | wc -l
+ 3065  ll /home/user/CODE  | wc -l
+ 3066  ll /home/user/CODE
+ 3067  ls -lR /home/user/CODE  | wc -l
+ 3068  ./ls -lR /home/user/CODE  | wc -l
+ 3069  ./ls -R /home/user/CODE  | wc -l
+ 3070  ls -lR /home/user/CODE  | wc -l
+ 3071  ls -l /home/user/CODE  | wc -l
+ 3072  ls -lR /home/user/CODE  | wc -l
+ 3073  cls
+ 3074  ./ls /bin
+ 3075  cls
+ 3076  ./ls -lR /home/user/CODE
+ 3077  ./ls -lR /home/user/CODE | wc
+ 3078  ./ls -lR /home/user/CODE | wc -l
+ 3079  ls -lR /home/user/CODE | wc -l
+ 3080  lcs
+ 3081  cls
+ 3082  ./ls
+ 3083  ./ls /
+ 3084  cls
+ 3085  ./ls ~
+ 3086  ./ls ~ | wc -l
+ 3087  ls ~ | wc -l
+ 3088  ls -Rl  ~ | wc -l
+ 3089  cls
+ 3090  ./ls /
+ 3091  cls
+ 3092  ./ls ~
+ 3093  ./ls ~ | wc -l
+ 3094  ls -Rl ~ | wc -l
+ 3095  cls
+ 3096  ls -R 
+ 3097  ./ls -R 
+ 3098  ls -Rl
+ 3099  cls
+ 3100  ./ls
+ 3101  ./ls ~
+ 3102  cls
+ 3103  ./ls ~ | wc -l
+ 3104  ls -lR ~ | wc -l
+ 3105  ls -lR ~ | wc 
+ 3106  ls -lR ~ | wc -line
+ 3107  ls -lR ~ | wc -l
+ 3108  ls -lR ~ | wc -s
+ 3109  ls -lR ~ | wc -l
+ 3110  cls
+ 3111  ./ls -R
+ 3112  ls -lRa ~ | wc -l
+ 3113  ./ls -R ~ | wc -l
+ 3114  cls
+ 3115  ./ls ~ | wc -l
+ 3116  ls ~ | wc -l
+ 3117  ls -Ral ~ | wc -l
+ 3118  ls -Ral / | wc -l
+ 3119  cls
+ 3120  lcs
+ 3121  cls
+ 3122  ./ls -R /
+ 3123  cls
+ 3124  ./lsa
+ 3125  lcs
+ 3126  cls
+ 3127  .ls
+ 3128  ./ls
+ 3129  cls
+ 3130  ./ls /
+ 3131  cls
+ 3132  ./ls ~
+ 3133  cls
+ 3134  ./ls
+ 3135  ./ls -R
+ 3136  cls
+ 3137  ./ls /
+ 3138  cls
+ 3139  ./ls /
+ 3140  cls
+ 3141  ./ls
+ 3142  ./ls /
+ 3143  cls
+ 3144  ./ls /
+ 3145  cls
+ 3146  ./ls
+ 3147  ./ls /
+ 3148  cls
+ 3149  ./ls /
+ 3150  cls
+ 3151  ./ls
+ 3152  cls
+ 3153  ./ls -R /
+ 3154  cls
+ 3155  ./ls
+ 3156  ./ls -R
+ 3157  cls
+ 3158  ./ls /
+ 3159  cls
+ 3160  ./ls
+ 3161  cls
+ 3162  ./ls
+ 3163  cls
+ 3164  ./ls
+ 3165  cls
+ 3166  ./ls
+ 3167  cls
+ 3168  ./ls /
+ 3169  ./ls -R  /
+ 3170  CLS
+ 3171  cls
+ 3172  ./ls -R ~ | wc -l 
+ 3173  ls -R ~ | wc -l 
+ 3174  cls
+ 3175  ls -R ~ | wc -l 
+ 3176  ls -Rl ~ | wc -l 
+ 3177  ./ls -Rl ~ | wc -l 
+ 3178  lcs
+ 3179  cls
+ 3180  cl
+ 3181  slc
+ 3182  scl
+ 3183  scls
+ 3184  cls
+ 3185  ./ls
+ 3186  cd c18
+ 3187  cls
+ 3188  ./ls
+ 3189  ./ls /
+ 3190  ./ls ~
+ 3191  cls
+ 3192  ./ls
+ 3193  ./ls /
+ 3194  ./ls 
+ 3195  ./ls cls
+ 3196  cls
+ 3197  ./ls
+ 3198  cls
+ 3199  ./ls
+ 3200  cls
+ 3201  ./ls
+ 3202  cls
+ 3203  cls./ls
+ 3204  ./ls
+ 3205  cls
+ 3206  ./ls
+ 3207  ls
+ 3208  cls
+ 3209  ls /
+ 3210  cls
+ 3211  ./ls 
+ 3212  ls proc
+ 3213  ls /proc
+ 3214  cls
+ 3215  ls /proc
+ 3216  ls /
+ 3217  ./ls /proc
+ 3218  cls
+ 3219  ./ls
+ 3220  cls
+ 3221  ./ls
+ 3222  cls
+ 3223  ./ls
+ 3224  cls
+ 3225  ./ls
+ 3226  cls
+ 3227  ./ls
+ 3228  cls
+ 3229  ./ls
+ 3230  cl
+ 3231  scls
+ 3232  cls
+ 3233  ./ls
+ 3234  cls
+ 3235  ./ls
+ 3236  cls
+ 3237  ./ls
+ 3238  ./ls ~
+ 3239  cls
+ 3240  ./ls ~
+ 3241  cls
+ 3242  ./ls .
+ 3243  cls
+ 3244  ./ls /bin
+ 3245  ./ls /bin /proc
+ 3246  cls
+ 3247  ./ls /proc
+ 3248  ls /proc
+ 3249  ls /proc -R
+ 3250  ./ls /proc
+ 3251  cls
+ 3252  ./ls /bin
+ 3253  cls
+ 3254  ./ls /proc
+ 3255  cls
+ 3256  ./ls
+ 3257  cls
+ 3258  ./ls
+ 3259  cls
+ 3260  ./ls
+ 3261  cd //etc/credstore
+ 3262  cls
+ 3263  sudo ./ls /
+ 3264  //etc/credstore
+ 3265  //home/user/CODE/LeetCode/.git/objects/2f
+ 3266  ls
+ 3267  cls
+ 3268  //home/user/CODE/LeetCode/.git/objects/2f
+ 3269  cls
+ 3270  cd ~/CODE/tlpi/TLPI/c18
+ 3271  CKLS
+ 3272  cls
+ 3273  ./ls
+ 3274  sudo ./ls
+ 3275  cls
+ 3276  ./ls
+ 3277  cls
+ 3278  ./ls /
+ 3279  cls
+ 3280  ./ls
+ 3281  cls
+ 3282  ./ls
+ 3283  cls
+ 3284  ./ls
+ 3285  cls
+ 3286  ./ls
+ 3287  ./ls | wc -l
+ 3288  cls
+ 3289  ./ls -R / | wc -l
+ 3290  ./ls -R /
+ 3291  cls
+ 3292  ./ls -R /
+ 3293  ./ls -R / | wc -l
+ 3294  sudo ./ls -R / | wc -l
+ 3295  cls
+ 3296  ./ ls -R /
+ 3297  ./ls -R /
+ 3298  CLS
+ 3299  Ccls
+ 3300  cls
+ 3301  ./ls -R / > t.txt
+ 3302  ls -R / > t.txt
+ 3303  cls
+ 3304  lc
+ 3305  sl
+ 3306  cslcs
+ 3307  lcs
+ 3308  cls
+ 3309  ./ls -Ra > t.txt
+ 3310  ls -Ra > t.txt
+ 3311  ls -Ra / > t.txt
+ 3312  cls
+ 3313  lc
+ 3314  slcs
+ 3315  lcs
+ 3316  cl
+ 3317  scl
+ 3318  lcs
+ 3319  cls
+ 3320  ./ls /
+ 3321  CLS
+ 3322  lcs
+ 3323  cls
+ 3324  ./ls -R /
+ 3325  ls -R /
+ 3326  ./ls -R /
+ 3327  cls
+ 3328  reboot
+ 3329  ./ls
+ 3330  cls
+ 3331  cd c18
+ 3332  cls
+ 3333  ./ls
+ 3334  cls
+ 3335  ./ls
+ 3336  cls
+ 3337  ./ls
+ 3338  ./ls -R
+ 3339  csl
+ 3340  cls
+ 3341  ./ls
+ 3342  ./ls /
+ 3343  ./ls / -R
+ 3344  cls
+ 3345  ./ls
+ 3346  ./ls -R /
+ 3347  ls -R /
+ 3348  ./ls -R /
+ 3349  ./ls -Rl /
+ 3350  ls -Rl /
+ 3351  ./ls -R /
+ 3352  ls -Rl /
+ 3353  cls
+ 3354  ls -Rl / | wc -l
+ 3355  ls -R / | wc -l
+ 3356  ./ls -R / | wc -l
+ 3357  cls
+ 3358  ./ls -R / | wc -l
+ 3359  ls -Rla / | wc -l
+ 3360  cls
+ 3361  ./ls -Rla /
+ 3362  ls -Rla /
+ 3363  ./ls -R /
+ 3364  ls -Ral /
+ 3365  ./ls -R /
+ 3366  ls -R /
+ 3367  lcs
+ 3368  cls
+ 3369  ls -Rla / | wc -l
+ 3370  ./ls / | wc -l
+ 3371  ./ls -R  / | wc -l
+ 3372  ./ls -R  / > T.TXT
+ 3373  LS /
+ 3374  ls /
+ 3375  ls -R  / > T.TXT
+ 3376  ls -Ra  / > T.TXT
+ 3377  ls -Ral  / > T.TXT
+ 3378  cls
+ 3379  ./ls -R  / 
+ 3380  cls
+ 3381  ./ls -R /
+ 3382  cls
+ 3383  ./ls -R /
+ 3384  cls
+ 3385  ls -R / /
+ 3386  ls -R / / | wc -l
+ 3387  ls -Ral / / | wc -l
+ 3388  cls
+ 3389  ls -Ral / / | wc -l
+ 3390  ls /var/tmp/systemd-private-8685a4daff2247d19a3ab2e03b535e0c-upower.service-kEvJ8J'
+ 3391  ls /var/tmp/systemd-private-8685a4daff2247d19a3ab2e03b535e0c-upower.service-kEvJ8J
+ 3392  cls
+ 3393  sudo ls -R /
+ 3394  cls
+ 3395  sudo ls -R /
+ 3396  cls
+ 3397  ls /var/tmp/systemd-private-8685a4daff2247d19a3ab2e03b535e0c-upower.service-kEvJ8J
+ 3398  ./ls
+ 3399  cls
+ 3400  ./ls -R /
+ 3401  cl;s
+ 3402  cls
+ 3403  ./ls -R /
+ 3404  cls
+ 3405  ./ls -R /
+ 3406  lc;s
+ 3407  cls
+ 3408  ./ls / -R 
+ 3409  cls
+ 3410  ./ls -R .
+ 3411  ./ls -R /
+ 3412  cls
+ 3413  ./ls
+ 3414  ./ls / -R 
+ 3415  ckls
+ 3416  cls
+ 3417  ./ls
+ 3418  ./ls -R
+ 3419  ./ls -R /
+ 3420  lcs
+ 3421  cls
+ 3422  ./ls -R /
+ 3423  cls
+ 3424  ./ls -R /
+ 3425  clks
+ 3426  cls
+ 3427  ./ls -R /
+ 3428  cls
+ 3429  ./ls -R 
+ 3430  ./ls -R /
+ 3431  ./ls -R
+ 3432  cls
+ 3433  ./ls
+ 3434  ./ls -R
+ 3435  ./ls -R ~
+ 3436  ./ls -R /
+ 3437  CLS
+ 3438  cls
+ 3439  ./ls -R /
+ 3440  cls
+ 3441  ./ls -R /
+ 3442  sudo ./ls -R /
+ 3443  sudo ./ls /
+ 3444  cls
+ 3445  sudo ./ls / -R
+ 3446  ./ls //VAR
+ 3447  ./ls //var
+ 3448  sudo ./ls //var
+ 3449  sudo ./ls /var
+ 3450  cls
+ 3451  ./ft -R /
+ 3452  ../ft -R /
+ 3453  sudo ../ft -R /
+ 3454  cls
+ 3455  sudo ./ls /
+ 3456  sudo ./ls / -R
+ 3457  CL;S
+ 3458  CLS
+ 3459  cls
+ 3460  ./ls
+ 3461  ./ls -R
+ 3462  cls
+ 3463  ./ls -R /
+ 3464  lcsx
+ 3465  cls
+ 3466  ./ls -R /
+ 3467  sudo ./ls -R /
+ 3468  //home/user/.oh-my-zsh
+ 3469  cd 
+ 3470  _cdcd 
+ 3471  _cdcd  ~/CODE
+ 3472  cd
+ 3473  cls
+ 3474  ./ls
+ 3475  cls
+ 3476  cd c18
+ 3477  cd /c18
+ 3478  cls
+ 3479  cd CODE/tlpi/TLPI
+ 3480  cd c18
+ 3481  cld
+ 3482  cls
+ 3483  ./ls
+ 3484  LS
+ 3485  SL
+ 3486  ls
+ 3487  cls
+ 3488  ls
+ 3489  ./ls
+ 3490  c;ls
+ 3491  lcs
+ 3492  cls
+ 3493  ./ls -R /
+ 3494  sudo ./ls -R /
+ 3495  cls
+ 3496  cl
+ 3497  scls
+ 3498  cl
+ 3499  scl
+ 3500  s
+ 3501  cls
+ 3502  ./ls -R ~
+ 3503  cls
+ 3504  ./ls -R /
+ 3505  ls -Rl /
+ 3506  ls -Rl /cls
+ 3507  cls
+ 3508  ./ls -R /
+ 3509  ./ls -Rl /
+ 3510  ls -Rl /
+ 3511  ./ls -Rl /
+ 3512  ./ls -R /
+ 3513  ls -R /
+ 3514  cls
+ 3515  ls -R
+ 3516  ls -RL
+ 3517  ls -l
+ 3518  cls
+ 3519  git add --all
+ 3520  cls
+ 3521  git commit -m "update files"
+ 3522  cls
+ 3523  git push origin master
+ 3524  cls
+ 3525  git add --all
+ 3526  cls
+ 3527  git commit -m "update files"
+ 3528  cls
+ 3529  git push origin master
+ 3530  cls
+ 3531  ./ls -R 
+ 3532  ./ls -R /
+ 3533  cls
+ 3534  sudo ./ls -R /
+ 3535  cls
+ 3536  ./ls
+ 3537  ./ls -l
+ 3538  ./ls -lR
+ 3539  ./ls -lR -R
+ 3540  cls
+ 3541  ./ls -lR /
+ 3542  clsl
+ 3543  cls
+ 3544  ./ls -R
+ 3545  ./ls -Rl
+ 3546  cls
+ 3547  ./ls -Rl ~
+ 3548  cls
+ 3549  ./ls -Ra
+ 3550  ./ls -Ra /
+ 3551  ./ls -R /
+ 3552  cls
+ 3553  ./ls -Ra /
+ 3554  lcs
+ 3555  cls
+ 3556  ./ls -Ra ~
+ 3557  ./ls -Ral /
+ 3558  ./ls -Ral / | wc -l
+ 3559  ./ls -R / | wc -l
+ 3560  cls
+ 3561  ./ls -R / 
+ 3562  cls
+ 3563  ./ls
+ 3564  lcs
+ 3565  CLS
+ 3566  cls
+ 3567  ./ls
+ 3568  cl
+ 3569  scls
+ 3570  cls
+ 3571  ./ls
+ 3572  ./ls -R
+ 3573  cls
+ 3574  ./ls
+ 3575  cls
+ 3576  ./ls -R 
+ 3577  cls
+ 3578  ./ls -R
+ 3579  cls
+ 3580  ./ls
+ 3581  ./ls -R
+ 3582  cls
+ 3583  ./ls
+ 3584  ./ls -R
+ 3585  cls
+ 3586  code
+ 3587  ./ls
+ 3588  ./ls -R
+ 3589  CLS
+ 3590  clxs
+ 3591  cls
+ 3592  ./sl
+ 3593  ./ls
+ 3594  ./ls -R
+ 3595  ./ls -Rl
+ 3596  ./ls -Rl /
+ 3597  c;s
+ 3598  cls
+ 3599  ./ls -Rl /
+ 3600  c;s
+ 3601  lcs
+ 3602  cls
+ 3603  ./ls -R /
+ 3604  cls
+ 3605  ./ls
+ 3606  ./ls -R
+ 3607  cls
+ 3608  ./ls -R
+ 3609  ./ls -R ~
+ 3610  ls -R ~
+ 3611  ./ls -R ~
+ 3612  ./ls -R ~ | wc -l
+ 3613  ls -R ~ | wc -l
+ 3614  ls -Rla ~ | wc -l
+ 3615  lcs
+ 3616  cls
+ 3617  ls -Rla ~ | wc -l
+ 3618  cls
+ 3619  ls -aRl
+ 3620  ls -aRl /
+ 3621  cls
+ 3622  ls -aRl ~
+ 3623  ./ls -a ~
+ 3624  cls
+ 3625  ./ls -R /
+ 3626  ls -Rla /
+ 3627  cls
+ 3628  ./ls -Rl /
+ 3629  cls
+ 3630  ./ls -R /
+ 3631  ls -Ral /
+ 3632  clxs
+ 3633  cls
+ 3634  ./ls -R /
+ 3635  ./ls -RL /
+ 3636  ./ls -Rl /
+ 3637  cls
+ 3638  ./ls -R
+ 3639  CLS
+ 3640  cls
+ 3641  ./ls -RL
+ 3642  ./ls -RLcls
+ 3643  CLS
+ 3644  cls
+ 3645  ./ls -Rl /
+ 3646  cls
+ 3647  ./ls -Rl /
+ 3648  cls
+ 3649  ls -al
+ 3650  lcs
+ 3651  cls
+ 3652  ./ls -Rl 
+ 3653  cls
+ 3654  ./ls
+ 3655  cl
+ 3656  scls
+ 3657  cls
+ 3658  ./ls -R /
+ 3659  cls
+ 3660  ls -a
+ 3661  ls -z
+ 3662  ls -p
+ 3663  ls -er
+ 3664  cls
+ 3665  git add --all
+ 3666  cls
+ 3667  git commit -m "1"
+ 3668  cls
+ 3669  git push origin master
+ 3670  ./sl
+ 3671  cls
+ 3672  ./ls -R
+ 3673  ./ls -Rl
+ 3674  ./ls -Rl /
+ 3675  cls
+ 3676  ./ls -Rl /
+ 3677  cls
+ 3678  ./ls -Rla
+ 3679  ./ls -Rla /
+ 3680  cls
+ 3681  ./ls -Rla /
+ 3682  cls
+ 3683  ls -a -l
+ 3684  ./ls -a -l
+ 3685  cls
+ 3686  ls -a /home
+ 3687  ./ls -a /home
+ 3688  cls
+ 3689  ./ls -alR /\n
+ 3690  cls
+ 3691  ./ls -t
+ 3692  ls -t
+ 3693  ./ls -t
+ 3694  cls
+ 3695  ./ls -t
+ 3696  ls -t
+ 3697  cls
+ 3698  ./ls -t
+ 3699  ls -t
+ 3700  cls
+ 3701  ./ls -t
+ 3702  ls -t
+ 3703  cls
+ 3704  ./ls
+ 3705  ./ls -t
+ 3706  cls
+ 3707  ./ls -t
+ 3708  ls -t
+ 3709  cls
+ 3710  ./ls -t
+ 3711  ls -t
+ 3712  cls
+ 3713  ./ls
+ 3714  ./ls -t
+ 3715  ls -t
+ 3716  cls
+ 3717  ./ls -t
+ 3718  ls -t
+ 3719  cls
+ 3720  ./ls -t
+ 3721  ls -t
+ 3722  cls
+ 3723  ./ls -t
+ 3724  ../ft -t
+ 3725  ls -t
+ 3726  cls
+ 3727  ./ls
+ 3728  ./ls -t
+ 3729  ls -t
+ 3730  cls
+ 3731  ./ls -t
+ 3732  ls -t
+ 3733  cls
+ 3734  ls .. -t
+ 3735  ./ls .. -t
+ 3736  cls
+ 3737  ./ls .. -t
+ 3738  ls .. -t
+ 3739  cls
+ 3740  ls -t
+ 3741  cls
+ 3742  ls 
+ 3743  ./ls
+ 3744  cls
+ 3745  ./ls
+ 3746  cls
+ 3747  ./ls
+ 3748  ls
+ 3749  cls
+ 3750  ./ls
+ 3751  ls
+ 3752  cls
+ 3753  ./ls
+ 3754  ls
+ 3755  ./ls
+ 3756  cls
+ 3757  ./ls
+ 3758  lcs
+ 3759  cls
+ 3760  ./ls
+ 3761  clx
+ 3762  sckls
+ 3763  lcs
+ 3764  ckls
+ 3765  cls
+ 3766  ./sl
+ 3767  cls
+ 3768  ./ls
+ 3769  ./ls -t
+ 3770  ls -t
+ 3771  cks
+ 3772  cls
+ 3773  ls -t
+ 3774  ./ls -t
+ 3775  cls
+ 3776  ./ls
+ 3777  ./ls -t
+ 3778  cskl
+ 3779  cks
+ 3780  cls
+ 3781  ls -t
+ 3782  ./ls -t
+ 3783  cls
+ 3784  ./ls -ai -t /home
+ 3785  ls -ai -t /home
+ 3786  cls
+ 3787  ls -i /home /etc
+ 3788  ./ls -i /home /etc
+ 3789  clds
+ 3790  cls
+ 3791  ./ls -ai -t /home
+ 3792  cls
+ 3793  ls -aiRtris
+ 3794  ls -aiRtris /
+ 3795  cls
+ 3796  ./ls -aiRtris /
+ 3797  ./ls -aiRtri /
+ 3798  ./ls -aiRtr /
+ 3799  ./ls -aiRt /
+ 3800  ./ls -aRt /
+ 3801  ./ls -Rt /
+ 3802  ./ls -R /
+ 3803  ./ls  /
+ 3804  cls
+ 3805  ./ls -R
+ 3806  ./ls -R /
+ 3807  cls
+ 3808  ./ls -R ~
+ 3809  cls
+ 3810  ./ls -R
+ 3811  ./ls -R /
+ 3812  CLS
+ 3813  cls
+ 3814  ./ls
+ 3815  ./ls -R
+ 3816  ./ls -R /
+ 3817  cls
+ 3818  ./ls -R /
+ 3819  ./my_ls_12_7_reset -R /
+ 3820  cls
+ 3821  ./ls -R `
+ 3822  cls
+ 3823  ./ls -R ~
+ 3824  cls
+ 3825  ./ls -R ~
+ 3826  cls
+ 3827  ./ls -R 
+ 3828  ./ls -R ~
+ 3829  cls
+ 3830  ./ls
+ 3831  ./ls -R /
+ 3832  cls
+ 3833  ./ls -R /
+ 3834  CLS
+ 3835  CL
+ 3836  Scls
+ 3837  cls
+ 3838  ./ls -R
+ 3839  ./ls -R /
+ 3840  lcs
+ 3841  cls
+ 3842  ./ls -R
+ 3843  ./ls -R /
+ 3844  CLS
+ 3845  clas
+ 3846  cls
+ 3847  ck
+ 3848  scls
+ 3849  cls
+ 3850  ./ls -R /
+ 3851  CLS
+ 3852  cls
+ 3853  ./ls -R /
+ 3854  cls
+ 3855  ./ls
+ 3856  cls
+ 3857  ./ls -R
+ 3858  ./ls -R /
+ 3859  cls
+ 3860  ./ls -R /
+ 3861  cls
+ 3862  cls./ls
+ 3863  cls
+ 3864  ./ls
+ 3865  ./ls -R
+ 3866  cls
+ 3867  ./ls -R
+ 3868  ./ls -R /
+ 3869  CLS
+ 3870  cls
+ 3871  ./ls -R /
+ 3872  CLS
+ 3873  CL
+ 3874  cls
+ 3875  ./ls -R -l /
+ 3876  cls
+ 3877  ./ls -lR
+ 3878  ./ls -lR /
+ 3879  cls
+ 3880  ./ls -R -l /
+ 3881  cls
+ 3882  ./ls -R -l /
+ 3883  ls -R -l /
+ 3884  ./ls -R -l /
+ 3885  ls -Ra -l /
+ 3886  ls -Ra -l / | wc -l
+ 3887  ./ls -Ra -l / | wc -l
+ 3888  ./ls -R -l / | wc -l
+ 3889  cls
+ 3890  lcs
+ 3891  cls
+ 3892  ./ls -R /
+ 3893  sudo ./ls -R /
+ 3894  cls
+ 3895  cl
+ 3896  scl
+ 3897  slc
+ 3898  scls
+ 3899  cls
+ 3900  cl
+ 3901  scls
+ 3902  c
+ 3903  slcls
+ 3904  lcs
+ 3905  cls
+ 3906  ./ls
+ 3907  ./ls -R
+ 3908  cls
+ 3909  ./ls
+ 3910  ./ls -R /
+ 3911  cls
+ 3912  ./ls -R ~
+ 3913  cls
+ 3914  ./ls
+ 3915  ./ls -R
+ 3916  ./ls -Ra
+ 3917  cls
+ 3918  ./ls -R
+ 3919  ls -a
+ 3920  cls
+ 3921  ./ls -R
+ 3922  ./ls -Ra
+ 3923  cls
+ 3924  ./ls -a
+ 3925  CLS
+ 3926  cls
+ 3927  cd c18
+ 3928  cls
+ 3929  ./ls
+ 3930  ./ls -R
+ 3931  ./ls -Ra
+ 3932  cls
+ 3933  ls
+ 3934  ls ..
+ 3935  cls
+ 3936  ./ls
+ 3937  cl
+ 3938  scls
+ 3939  cl
+ 3940  scl
+ 3941  szcl
+ 3942  scl
+ 3943  slc
+ 3944  s
+ 3945  cls
+ 3946  ./ls .
+ 3947  ./ls 
+ 3948  ./ls ..
+ 3949  ./ls /
+ 3950  ./ls -arti 
+ 3951  ./ls -arti /
+ 3952  ./ls -arti / .
+ 3953  ./ls -arti / ..
+ 3954  cls
+ 3955  lcks
+ 3956  lc
+ 3957  slcs
+ 3958  lcs
+ 3959  cls
+ 3960  ./ls
+ 3961  ./ls -a
+ 3962  ./ls -R /
+ 3963  ./ls -Rl /
+ 3964  ./ls -R -l /
+ 3965  cls
+ 3966  xxd
+ 3967  clear
+ 3968  xxd ./ls
+ 3969  clear
+ 3970  clks
+ 3971  lc
+ 3972  slc
+ 3973  slcs
+ 3974  cls
+ 3975  ./ls
+ 3976  ./ls -l
+ 3977  cls
+ 3978  ./ls -r
+ 3979  ./ls -astri
+ 3980  ls -astri
+ 3981  cks
+ 3982  cls
+ 3983  ./ls -R  /
+ 3984  CLS
+ 3985  cls
+ 3986  ./ls
+ 3987  ./ls -R
+ 3988  cls
+ 3989  ./ls -R /
+ 3990  cls
+ 3991  ./ls -R /
+ 3992  cls
+ 3993  ./ls -R ~
+ 3994  ./ls -R /
+ 3995  cls
+ 3996  ./ls -R
+ 3997  ./ls -R /
+ 3998  cls
+ 3999  ./ls
+ 4000  cls
+ 4001  ./ls
+ 4002  cls
+ 4003  ./ls -R /
+ 4004  cl;s
+ 4005  cls
+ 4006  ./ls -R /
+ 4007  cls
+ 4008  ./ls -R /
+ 4009  cls
+ 4010  ./ls -R /
+ 4011  cls
+ 4012  ls -R /
+ 4013  ls
+ 4014  cls
+ 4015  ls -R /
+ 4016  CLS
+ 4017  cls
+ 4018  ./ls -R -a /
+ 4019  ./ls -Ra /
+ 4020  ./ls -R -a /
+ 4021  cls
+ 4022  ./ls -R -a / | wc -l
+ 4023  ls -R -a / | wc -l
+ 4024  ls -lR / |wc -l
+ 4025  ls -lRa / |wc -l
+ 4026  ./ls -lR / |wc -l
+ 4027  ./ls -R / | wc -l
+ 4028  ./ls -R -a / | wc -l
+ 4029  ls -lR / |wc -l
+ 4030  cls
+ 4031  ls -R /
+ 4032  ls -Rla /
+ 4033  cls
+ 4034  git add --all
+ 4035  cls
+ 4036  git commit -m "update filesz"
+ 4037  cls
+ 4038  git push origin m
+ 4039  git push origin master
+ 4040  lcs
+ 4041  cls
+ 4042  ./ls -R
+ 4043  ./ls -Rr
+ 4044  ./ls -R -r
+ 4045  cls
+ 4046  ./ls 
+ 4047  ./ls -r
+ 4048  ./ls -Rr
+ 4049  cls
+ 4050  ./ls -R
+ 4051  ./ls -R -r
+ 4052  ./ls -Rr
+ 4053  cls
+ 4054  ./ls -Rr
+ 4055  ./ls -R
+ 4056  cls
+ 4057  ./ls -Rr /
+ 4058  cls
+ 4059  ./ls -R -r /
+ 4060  cls
+ 4061  ./ls -R -r /
+ 4062  ./ls -R -r -a /
+ 4063  ls -R -r -a /
+ 4064  lcs
+ 4065  cls
+ 4066  ./ls
+ 4067  cl
+ 4068  scls
+ 4069  cls
+ 4070  ./ls -R
+ 4071  ./ls -RI
+ 4072  ./ls -Ri
+ 4073  clks
+ 4074  cls
+ 4075  ./ls -Ri
+ 4076  ./ls -Rs
+ 4077  ./ls -Rsi
+ 4078  ls -Rsi
+ 4079  cls
+ 4080  ./ls 
+ 4081  ls
+ 4082  cls
+ 4083  ./ls
+ 4084  ./ls -R
+ 4085  cls
+ 4086  ./ls -R ~
+ 4087  ./ls -Ris ~
+ 4088  cls
+ 4089  ./ls
+ 4090  cl
+ 4091  scl
+ 4092  scls
+ 4093  cl
+ 4094  slc
+ 4095  scl
+ 4096  s
+ 4097  cls
+ 4098  ./ls
+ 4099  ./ls -R
+ 4100  cls
+ 4101  ./ls -Rla /
+ 4102  cls
+ 4103  ./ls
+ 4104  cls
+ 4105  ./ls -R
+ 4106  ./ls -R /
+ 4107  CLS
+ 4108  cls
+ 4109  ./ls -R /
+ 4110  cls
+ 4111  ./ls -R /
+ 4112  cls
+ 4113  ./ls
+ 4114  ./ls -R
+ 4115  ./ls -R /
+ 4116  cls
+ 4117  ./ls -Ra
+ 4118  ./ls -R -a /
+ 4119  cls
+ 4120  ./ls -R
+ 4121  ./ls -R /
+ 4122  CLS
+ 4123  cls
+ 4124  ./ls -R /
+ 4125  ./ls 
+ 4126  clc
+ 4127  slcs
+ 4128  cls
+ 4129  ./ls -R /
+ 4130  cls
+ 4131  sudo ./ls / -R
+ 4132  sudo ./ls / ~
+ 4133  sudo ./ls -R ~
+ 4134  cls
+ 4135  ./ls -R
+ 4136  ./ls -a
+ 4137  ./ls -a -p
+ 4138  cls
+ 4139  ./ls
+ 4140  ls
+ 4141  cls
+ 4142  ./ls
+ 4143  cls
+ 4144  ./ls
+ 4145  cl
+ 4146  scls
+ 4147  cls
+ 4148  ./sl -R /
+ 4149  ./LS -R /
+ 4150  ./ls -R /
+ 4151  cls
+ 4152  ./ls -R /
+ 4153  cls
+ 4154  ./ls
+ 4155  ./ls -a
+ 4156  ./ls -ar
+ 4157  ./ls -art
+ 4158  cls
+ 4159  ./ls
+ 4160  ./ls -aRrtis /
+ 4161  ./ls -aRrtisL /
+ 4162  CLS
+ 4163  LCS
+ 4164  CL
+ 4165  Scls
+ 4166  lcs
+ 4167  cl
+ 4168  scls
+ 4169  cls
+ 4170  ./ls -aRrtisl /
+ 4171  cls
+ 4172  ./ls
+ 4173  ./ls -a
+ 4174  cls
+ 4175  sudo apt-get install valgrind
+ 4176  cd CODE
+ 4177  cls
+ 4178  ls
+ 4179  cd tlpi/TLPI/c18/
+ 4180  cls
+ 4181  ls
+ 4182  cls
+ 4183  valgrind --leak-check=full ./ls
+ 4184  cls
+ 4185  valgrind --leak-check=full ./ls
+ 4186  cls
+ 4187  ./ls
+ 4188  cls
+ 4189  ./ls
+ 4190  cl
+ 4191  slcs
+ 4192  cls
+ 4193  ./ls
+ 4194  cls
+ 4195  ./ls
+ 4196  cls
+ 4197  ./ls
+ 4198  valgrind --leak-check=full ./ls
+ 4199  cks
+ 4200  CKS
+ 4201  CSK
+ 4202  cks
+ 4203  kcs
+ 4204  cls
+ 4205  cd c18
+ 4206  cl;s
+ 4207  cls
+ 4208  valgrind --leak-check=full ./ls
+ 4209  valgrind --leak-check=full ../ls
+ 4210  cls
+ 4211  gcc -fsanitize=memory ls.c
+ 4212  cls
+ 4213  valgrind --leak-check=full ./ls
+ 4214  cls
+ 4215  valgrind --leak-check=full ./ls
+ 4216  cls
+ 4217  valgrind --leak-check=full ./ls
+ 4218  valgrind --leak-check=full ./lscls
+ 4219  lc
+ 4220  scls
+ 4221  cls
+ 4222  valgrind \[ cls
+ 4223  cls
+ 4224  valgrind --leak-check=full ./ls
+ 4225  ls
+ 4226  cls
+ 4227  ./ls
+ 4228  cl
+ 4229  scls
+ 4230  cl
+ 4231  scls
+ 4232  cl
+ 4233  scls
+ 4234  cls
+ 4235  git add --all
+ 4236  csl
+ 4237  cls
+ 4238  git commit -m "update files"
+ 4239  clsw
+ 4240  cls
+ 4241  git push origin master
+ 4242  cls
+ 4243  cl
+ 4244  valgrind --leak-check=full ./ls
+ 4245  cls
+ 4246  ./ls
+ 4247  valgrind --leak-check=full ./ls
+ 4248  cls
+ 4249  valgrind --leak-check=full ./ls
+ 4250  cls
+ 4251  ./ls
+ 4252  cls
+ 4253  ./ls
+ 4254  cls
+ 4255  ./LS /
+ 4256  cls
+ 4257  ./ls /
+ 4258  cls
+ 4259  ./ls
+ 4260  ./ls /
+ 4261  ./ls /bin
+ 4262  cls
+ 4263  ./ls
+ 4264  ./ls /bin
+ 4265  cls
+ 4266  ./ls
+ 4267  cls
+ 4268  valgrind ./ls 
+ 4269  cls
+ 4270  valgrind --leak-cheak-full ./ls 
+ 4271  valgrind --leak-cheak=full ./ls 
+ 4272  cls
+ 4273  valgrind --leak-check=full ./ls
+ 4274  cl
+ 4275  slc
+ 4276  sl
+ 4277  cls
+ 4278  valgrind --leak-check=full ./ls
+ 4279  cls
+ 4280  cl
+ 4281  sl
+ 4282  cscls
+ 4283  lc
+ 4284  slc
+ 4285  scls
+ 4286  lc
+ 4287  s
+ 4288  cls
+ 4289  valgrind --leak-check=full ./ls
+ 4290  cls
+ 4291  valgrind --leak-
+ 4292  valgrind --leak-check=full ./ls
+ 4293  firefox
+ 4294  cls
+ 4295  valgrind --leak-check=full ./ls
+ 4296  cls
+ 4297  valgrind --leak-check=full ./ls
+ 4298  valgrind --leak-check=full ./ls -R
+ 4299  valgrind --leak-check=full ./ls -R /
+ 4300  cls
+ 4301  cl
+ 4302  scls
+ 4303  cls
+ 4304  valgrind --leak-check=full ./ls -R
+ 4305  cls
+ 4306  valgrind --leak-check=full ./ls
+ 4307  valgrind --leak-check=full ./ls -R
+ 4308  cls
+ 4309  valgrind --leak-check=full ./ls
+ 4310  valgrind --leak-check=full ./ls -R
+ 4311  valgrind --leak-check=full ./ls -R /
+ 4312  cls
+ 4313  valgrind --leak-check=full ./ls
+ 4314  valgrind --leak-check=full ./ls -R ~
+ 4315  cls
+ 4316  lc
+ 4317  sl
+ 4318  cscl
+ 4319  slcs
+ 4320  lc
+ 4321  slc
+ 4322  scl
+ 4323  s
+ 4324  cls
+ 4325  ./ls -R /
+ 4326  cls
+ 4327  valgrind --leak-check=full ./ls
+ 4328  valgrind --leak-check=full ./ls -R
+ 4329  cls
+ 4330  valgrind --leak-check=full ./ls -R ~
+ 4331  csl
+ 4332  lcs
+ 4333  lc
+ 4334  s
+ 4335  lcs
+ 4336  cls
+ 4337  cl
+ 4338  slcs
+ 4339  cls
+ 4340  cl
+ 4341  slc
+ 4342  slcs
+ 4343  cls
+ 4344  ls 
+ 4345  ./ls
+ 4346  mkdir A
+ 4347  ls
+ 4348  cls
+ 4349  lc
+ 4350  sl
+ 4351  csl
+ 4352  cs
+ 4353  cls
+ 4354  cl
+ 4355  scl
+ 4356  slc
+ 4357  sl
+ 4358  csl
+ 4359  cslc
+ 4360  slc
+ 4361  sl
+ 4362  cslcs
+ 4363  cl
+ 4364  scl
+ 4365  scls
+ 4366  lcs
+ 4367  cls
+ 4368  lcs
+ 4369  cls
+ 4370  ./ls -islt
+ 4371  ./ls -isltr
+ 4372  cls
+ 4373  ls -islt
+ 4374  ls -isltr
+ 4375  cls
+ 4376  ./ls -tl
+ 4377  ls -tl
+ 4378  cls
+ 4379  cxls
+ 4380  cls
+ 4381  ./ls
+ 4382  ./ls -R
+ 4383  cls
+ 4384  ./ls -R
+ 4385  ./ls -R /
+ 4386  CLS
+ 4387  LCS
+ 4388  lcs
+ 4389  cls
+ 4390  ./ls -R -a /
+ 4391  ./ls -R -a -l /
+ 4392  cls
+ 4393  sudo ./ls -R -a -l /
+ 4394  sudo ./ls -R -a  /
+ 4395  sudo ./ls -R   /
+ 4396  sudo ./ls -R  ~
+ 4397  cls
+ 4398  ./ls
+ 4399  cl
+ 4400  scls
+ 4401  lcs
+ 4402  cl
+ 4403  scl
+ 4404  s
+ 4405  lcs
+ 4406  cl
+ 4407  slc
+ 4408  cls
+ 4409  git add --allc
+ 4410  git add --all
+ 4411  ckls
+ 4412  clks
+ 4413  cl
+ 4414  scls
+ 4415  cls
+ 4416  git commit -m "update files"
+ 4417  cls
+ 4418  git push origin master
+ 4419  cls
+ 4420  lc
+ 4421  slc
+ 4422  scl
+ 4423  s
+ 4424  cls
+ 4425  ./ls
+ 4426  ./ls -R
+ 4427  cl;s
+ 4428  cls
+ 4429  ./ls
+ 4430  ./ls -R
+ 4431  cls
+ 4432  ./ls -R /
+ 4433  cls
+ 4434  ./ls
+ 4435  ./ls -R
+ 4436  ./ls -R /
+ 4437  sudo ./ls -R /
+ 4438  cls
+ 4439  localsend_app
+ 4440  cd ..
+ 4441  cls
+ 4442  ./ft
+ 4443  ./ls
+ 4444  cls
+ 4445  ./ls
+ 4446  cd c18/ls
+ 4447  cd ./c18/ls
+ 4448  ./c18/ls 
+ 4449  ls
+ 4450  ./ft 
+ 4451  ./ft 1
+ 4452  ./ft 11111111111111111111111111
+ 4453  ls 1
+ 4454  ls 0-89890-8029
+ 4455  ls ft
+ 4456  ./ft adhuahdjkhajskhdsjlkhdjalkj.xasx
+ 4457  cls
+ 4458  ./ft -R
+ 4459  ./ls ~
+ 4460  cls
+ 4461  cl
+ 4462  scl
+ 4463  slcs
+ 4464  lcs
+ 4465  cls
+ 4466  ./ls
+ 4467  cls
+ 4468  cd c18
+ 4469  cls
+ 4470  ./ls
+ 4471  ./ls -Ra /./ls
+ 4472  ./ls -Ra /
+ 4473  cls
+ 4474  ./ls -Ra /
+ 4475  ./ls -R /
+ 4476  cls
+ 4477  ./ls -Ra /
+ 4478  ./ls
+ 4479  cl
+ 4480  scls
+ 4481  cls
+ 4482  ./ls -Ra /
+ 4483  ./ls -aR /
+ 4484  cls
+ 4485  ./ls -Ra /
+ 4486  cls
+ 4487  ./ls -R /
+ 4488  cls
+ 4489  ./ls -Ra /
+ 4490  cls
+ 4491  ./ls -Ral /
+ 4492  cls
+ 4493  ./ls
+ 4494  ./ls -Ra
+ 4495  cls
+ 4496  ./ls -l
+ 4497  cls
+ 4498  ./ls
+ 4499  ./ls -l
+ 4500  cls
+ 4501  ./ls
+ 4502  ./ls -l
+ 4503  cls
+ 4504  ./ls -k
+ 4505  ./ls -l
+ 4506  cls
+ 4507  ./ls -l
+ 4508  ./ls -Ra /
+ 4509  ./ls -R -a /
+ 4510  cls
+ 4511  ./ls
+ 4512  cls
+ 4513  ./ls
+ 4514  ./ls -Ra /
+ 4515  cls
+ 4516  ./ls
+ 4517  ./ls . ..
+ 4518  ./ls . .. -a
+ 4519  ./ls ... .. -a
+ 4520  cls
+ 4521  git add --all
+ 4522  cls
+ 4523  git commit -m "update files"
+ 4524  cls
+ 4525  git push origin master
+ 4526  git add --all
+ 4527  cls
+ 4528  git commit  -m "update fiels"
+ 4529  cls
+ 4530  git push origin m 
+ 4531  git push origin master
+ 4532  cls
+ 4533  ./ls
+ 4534  cls
+ 4535  ./ls
+ 4536  ./ls -a
+ 4537  cls
+ 4538  ./ls -a
+ 4539  ./ls -al
+ 4540  ./ls -als
+ 4541  ./ls -alsr
+ 4542  ./ls -alsrt
+ 4543  ./ls -alsrti
+ 4544  ./ls -alsrtiR
+ 4545  ./ls -alsrtR
+ 4546  ./ls -aR
+ 4547  ./ls -alsrti
+ 4548  cls
+ 4549  ./ls
+ 4550  ./ls R
+ 4551  ./ls -R
+ 4552  cls
+ 4553  ./ls -a
+ 4554  ./ls -s
+ 4555  cls
+ 4556  ./ls
+ 4557  ./ls -aisrt
+ 4558  ./ls -aisrtl
+ 4559  ./ls -aisrtlR
+ 4560  ./ls -aisrtlR /
+ 4561  cls
+ 4562  git add --all
+ 4563  cls
+ 4564  git commit -m "update files"
+ 4565  cls
+ 4566  git push origin master
+ 4567  ./ls
+ 4568  ./ls 下载
+ 4569  cls
+ 4570  cd 
+ 4571  cls
+ 4572  shutdown now
+ 4573  cls
+ 4574  cl
+ 4575  scls
+ 4576  lcs
+ 4577  l
+ 4578  cls
+ 4579  ./ls
+ 4580  cls
+ 4581  lcs
+ 4582  cls
+ 4583  ./ls
+ 4584  cls
+ 4585  ./ls
+ 4586  cls
+ 4587  ./my_ls_12_7_
+ 4588  ./my_ls_12_7_2
+ 4589  cls
+ 4590  git add --all
+ 4591  clxzs
+ 4592  cls
+ 4593  git commit -m "update fiels"
+ 4594  cls
+ 4595  git push origin master
+ 4596  cls
+ 4597  ./ls / -Ral | wc -l
+ 4598  ls / -Ral | wc -l
+ 4599  cls
+ 4600  ./ls -lR /
+ 4601  ./ls -lR / | wc -l
+ 4602  ls -lR / | wc -l
+ 4603  sudo ./ls -al /
+ 4604  sudo ./ls -Rl /
+ 4605  sudo ./ls -Rl / | wc -l
+ 4606  sudo ls -Rl / | wc -l
+ 4607  cls
+ 4608  ./ls
+ 4609  ./ls -R
+ 4610  cls
+ 4611  ./ls
+ 4612  cls
+ 4613  ./ls
+ 4614  valgcls
+ 4615  cls
+ 4616  code
+ 4617  cls
+ 4618  lc
+ 4619  slc
+ 4620  slcs
+ 4621  cls
+ 4622  lcs
+ 4623  cls
+ 4624  lc.s
+ 4625  cls
+ 4626  lcs
+ 4627  lc
+ 4628  scls
+ 4629  cls
+ 4630  reboot
+ 4631  code
+ 4632  ./ls
+ 4633  cls
+ 4634  ./ls
+ 4635  ls
+ 4636  ./ls
+ 4637  ls
+ 4638  cls
+ 4639  ./ls -l
+ 4640  ls -l
+ 4641  cls
+ 4642  ./ls -a
+ 4643  ls -a
+ 4644  cls
+ 4645  ./ls -t
+ 4646  ls -t
+ 4647  ../ft 
+ 4648  ../ft -t
+ 4649  cls
+ 4650  ../ft -t 
+ 4651  ls -t
+ 4652  ./ls -t
+ 4653  cls
+ 4654  ./ls ~
+ 4655  ./ls -t
+ 4656  cls
+ 4657  ./ls ~
+ 4658  CLS
+ 4659  cl
+ 4660  scl
+ 4661  s
+ 4662  cls
+ 4663  git add --all
+ 4664  cls
+ 4665  git commit -m "update files"
+ 4666  c l
+ 4667  scls
+ 4668  cl
+ 4669  scl
+ 4670  s
+ 4671  cls
+ 4672  git push origin master
+ 4673  cls
+ 4674  ./ls
+ 4675  cls
+ 4676  ./ls -a
+ 4677  cls
+ 4678  ls -a -l
+ 4679  ./ls -a -l
+ 4680  cls
+ 4681  ls -a /home
+ 4682  .ls -a /home
+ 4683  ./ls -a /home
+ 4684  cl
+ 4685  cls
+ 4686  ./ls -alR /
+ 4687  sudo ./ls -alR /
+ 4688  cls
+ 4689  ls -t
+ 4690  ./ls -t
+ 4691  cls
+ 4692  ls -ai -t /home
+ 4693  ./ls -ai -t /home
+ 4694  cls
+ 4695  ls -i /home /etc
+ 4696  ./ls -i /home /etc
+ 4697  cls
+ 4698  git add --all
+ 4699  cls
+ 4700  git commit -m "update files"
+ 4701  cls
+ 4702  git push origin master
+ 4703  local
+ 4704  localsend_app
+ 4705  cls
+ 4706  lc
+ 4707  scl
+ 4708  scls
+ 4709  cls
+ 4710  ./ls -t
+ 4711  ls -t
+ 4712  code
+ 4713  ./ls
+ 4714  ls
+ 4715  cls
+ 4716  ./ls -R
+ 4717  ./ls -Ra
+ 4718  cls
+ 4719  ./ls -R
+ 4720  cls
+ 4721  ls -a
+ 4722  ls 
+ 4723  cls
+ 4724  ls -R
+ 4725  ./ls -R
+ 4726  cls
+ 4727  ./ls
+ 4728  cls
+ 4729  ./ls -R
+ 4730  CLS
+ 4731  cl
+ 4732  scls
+ 4733  cls
+ 4734  cl
+ 4735  scls
+ 4736  cls
+ 4737  ./ls
+ 4738  ls
+ 4739  cls
+ 4740  ./ls
+ 4741  ./ls -R /
+ 4742  sudo ./ls -R /
+ 4743  cls
+ 4744  git add --all
+ 4745  cls
+ 4746  git commit -m "update files"
+ 4747  cls
+ 4748  git push origin master
+ 4749  cls
+ 4750  cls&
+ 4751  csl
+ 4752  cls
+ 4753  zsh
+ 4754  cls
+ 4755  git add --all
+ 4756  clsx
+ 4757  cls
+ 4758  git remote add git@github.com:Aetherance/ish.git
+ 4759  git remote add origin git@github.com:Aetherance/ish.git
+ 4760  git init
+ 4761  cls
+ 4762  git remote add origin git@github.com:Aetherance/ish.git
+ 4763  cls
+ 4764  git add --all
+ 4765  cls
+ 4766  git commit -m "update fiels"
+ 4767  cls
+ 4768  git push origin master
+ 4769  cls
+ 4770  git add --all
+ 4771  cls
+ 4772  git commit -m "update files"
+ 4773  cls
+ 4774  git push origin master
+ 4775  cls
+ 4776  shutdown now
+ 4777  git add --all
+ 4778  cls
+ 4779  git commit -m "update files"
+ 4780  cls
+ 4781  git push origin
+ 4782  cls
+ 4783  git commit -m up
+ 4784  git push origin master
+ 4785  cls
+ 4786  git add --all
+ 4787  cls
+ 4788  git commit -m update
+ 4789  cls
+ 4790  git push origin master
+ 4791  cls
+ 4792  git add --all
+ 4793  csk
+ 4794  scls
+ 4795  cls
+ 4796  git commit -a -m "update "
+ 4797  cls
+ 4798  git push origin master
+ 4799  ./ls
+ 4800  cd c18
+ 4801  cls
+ 4802  ./ls
+ 4803  ./ls -R
+ 4804  ./ls -RA
+ 4805  CLS
+ 4806  cls
+ 4807  ./ls -RA
+ 4808  ./ls -Ra
+ 4809  csl;
+ 4810  lcs
+ 4811  cls
+ 4812  ./ls -Ral ~
+ 4813  cls
+ 4814  ./ls -Ral /
+ 4815  sudo ./ls -Ral /
+ 4816  cls
+ 4817  lcs
+ 4818  cls
+ 4819  sudo ./ls -Ral /
+ 4820  cls
+ 4821  ./ls
+ 4822  cl
+ 4823  scls
+ 4824  cls
+ 4825  ./ls
+ 4826  ls
+ 4827  ./ls -a
+ 4828  ls -a
+ 4829  cls
+ 4830  ./ls -r
+ 4831  ls -r
+ 4832  cl
+ 4833  scls
+ 4834  cls
+ 4835  ./ls -Rislart /
+ 4836  ./ls -Rislart / | wc -l
+ 4837  sudo ./ls -Rislart /
+ 4838  cls
+ 4839  git commit -a -m update f
+ 4840  git commit -a -m "update files"
+ 4841  cls
+ 4842  git push origin master
+ 4843  cls
+ 4844  git commit -m -a "update files" -all
+ 4845  git commit -m -a "update files" 
+ 4846  git commit -m -a "update files"  --all
+ 4847  git commit -m "update files" -a --all
+ 4848  git commit -a -all -m "update files"
+ 4849  git commit -a --all -m "update files"
+ 4850  cls
+ 4851  git add --all
+ 4852  cls
+ 4853  git commit -m "update files"
+ 4854  cl
+ 4855  scls
+ 4856  cl
+ 4857  scl
+ 4858  skcs
+ 4859  cls
+ 4860  git push origin master
+ 4861  cls\\nlcs
+ 4862  slcs
+ 4863  cls
+ 4864  ls -Ral
+ 4865  ls -Ral /
+ 4866  cls
+ 4867  cd / .
+ 4868  cd .
+ 4869  cls
+ 4870  cd 1 12
+ 4871  cls
+ 4872  cd 1
+ 4873  cd ..
+ 4874  csl
+ 4875  cls
+ 4876  cd 9
+ 4877  cd 9 0
+ 4878  cd 99
+ 4879  cd 99 1
+ 4880  cd 99 ./1
+ 4881  cls
+ 4882  cd . /
+ 4883  cls
+ 4884  ls
+ 4885  cl
+ 4886  scls
+ 4887  cls
+ 4888  pwd
+ 4889  cd ..
+ 4890  cls
+ 4891  pwd
+ 4892  cl
+ 4893  s
+ 4894  cls
+ 4895  cd c6
+ 4896  cls
+ 4897  ./ls
+ 4898  cl
+ 4899  scl
+ 4900  scls
+ 4901  cls
+ 4902  ./cd
+ 4903  ./cd 1
+ 4904  cls
+ 4905  ./cd
+ 4906  cls
+ 4907  ./cd 1
+ 4908  ./cd .
+ 4909  cls
+ 4910  ./cd .
+ 4911  ./cd /
+ 4912  cls
+ 4913  ./cd
+ 4914  cls
+ 4915  ls /
+ 4916  cls
+ 4917  ./cd
+ 4918  cls
+ 4919  ls /usr
+ 4920  ls /home
+ 4921  ls /home/user
+ 4922  cls
+ 4923  ./ls
+ 4924  cls
+ 4925  ./cd
+ 4926  cls
+ 4927  sudo ./cd 
+ 4928  sudo ./cd
+ 4929  cls
+ 4930  ./cd
+ 4931  cls
+ 4932  ./cd
+ 4933  cls
+ 4934  ./cd
+ 4935  cls
+ 4936  ./cd
+ 4937  cls
+ 4938  ./ls
+ 4939  cls
+ 4940  ./cd
+ 4941  cls
+ 4942  cl
+ 4943  s
+ 4944  c
+ 4945  cls
+ 4946  ./cd
+ 4947  cls
+ 4948  csl
+ 4949  cl
+ 4950  s
+ 4951  cls
+ 4952  cd -
+ 4953  cd ./-
+ 4954  cd ./ -
+ 4955  cd - ./ 
+ 4956  cd - ..
+ 4957  cls
+ 4958  git add --all
+ 4959  cls
+ 4960  git commit -m "update files"
+ 4961  cl
+ 4962  s
+ 4963  cls
+ 4964  git push origin master
+ 4965  lcs
+ 4966  cls
+ 4967  ./ls -Rla /
+ 4968  ../ls -Rla /
+ 4969  ../c18//ls -Rla /
+ 4970  ../c18/ls -Rla /
+ 4971  c18/ls -Rla /
+ 4972  cls
+ 4973  c18/ls -Rla /
+ 4974  cls
+ 4975  c18/ls -Rla /
+ 4976  cls\\n
+ 4977  s
+ 4978  cls
+ 4979  exit
+ 4980  zsh c15
+ 4981  cls
+ 4982  sh
+ 4983  cls
+ 4984  bash
+ 4985  csl
+ 4986  sl
+ 4987  cls
+ 4988  zsh 1
+ 4989  cls
+ 4990  zsh --help
+ 4991  zsh --printe
+ 4992  zsh --print
+ 4993  zsh --printeightbit
+ 4994  zsh --printexitvalue
+ 4995  cls
+ 4996  ,.ks
+ 4997  cls
+ 4998  a../
+ 4999  cls
+ 5000  ./ls
+ 5001  cls
+ 5002  ./ls
+ 5003  cls
+ 5004  zsh --printeightbit -m
+ 5005  k
+ 5006  ./ls
+ 5007  cls
+ 5008  ./ls
+ 5009  cls
+ 5010  l
+ 5011  cls
+ 5012  l
+ 5013  cls
+ 5014  cd c20
+ 5015  cls
+ 5016  ./signal
+ 5017  cls
+ 5018  ./signal
+ 5019  cls
+ 5020  ./
+ 5021  cls
+ 5022  ./signal
+ 5023  cls
+ 5024  ./l
+ 5025  .
+ 5026  ../
+ 5027  cd c20
+ 5028  cls
+ 5029  ./
+ 5030  cls
+ 5031  ./signal
+ 5032  cls
+ 5033  ./signal
+ 5034  cls
+ 5035  ./signal
+ 5036  CLS
+ 5037  cls
+ 5038  ./signal
+ 5039  cls
+ 5040  ./signal
+ 5041  cls
+ 5042  ./signal
+ 5043  lcs
+ 5044  cl
+ 5045  scls
+ 5046  cls
+ 5047  ./signal
+ 5048  cls
+ 5049  ./signal
+ 5050  cls
+ 5051  ./signal
+ 5052  cls
+ 5053  ./signal
+ 5054  cls
+ 5055  ./signal
+ 5056  cls
+ 5057  ./signal
+ 5058  cls
+ 5059  ./signal
+ 5060  cls
+ 5061  ./ls
+ 5062  cls
+ 5063  ./c20
+ 5064  cls
+ 5065  ./signal
+ 5066  cls
+ 5067  ./signal
+ 5068  cls
+ 5069  fg
+ 5070  cls
+ 5071  fg
+ 5072  cls
+ 5073  bg
+ 5074  cls
+ 5075  ls ..
+ 5076  ls ../c18
+ 5077  ../c18/ls
+ 5078  ../c18/ls -Ral /
+ 5079  cls
+ 5080  ./signal
+ 5081  fg
+ 5082  fg 
+ 5083  fg fg
+ 5084  fg
+ 5085  bg
+ 5086  cls
+ 5087  bg
+ 5088  fg
+ 5089  cls
+ 5090  kill 2740
+ 5091  kill 42740
+ 5092  cls
+ 5093  git add --all
+ 5094  cls
+ 5095  git commit -m "update files"
+ 5096  cls
+ 5097  git push origin master
+ 5098  cls
+ 5099  cl
+ 5100  scls
+ 5101  cls
+ 5102  ./signal.c
+ 5103  cd ..
+ 5104  cklas
+ 5105  cls
+ 5106  ls
+ 5107  cd c20
+ 5108  cls
+ 5109  ls
+ 5110  cls
+ 5111  ./signal
+ 5112  cls
+ 5113  ./signal
+ 5114  ps
+ 5115  kill 40416
+ 5116  ps
+ 5117  cls
+ 5118  ps
+ 5119  cls
+ 5120  ps
+ 5121  kill 42740
+ 5122  cls
+ 5123  ps
+ 5124  cls
+ 5125  kill 41458
+ 5126  kill 42740
+ 5127  cls
+ 5128  ps
+ 5129  ls 42740
+ 5130  kill 42740
+ 5131  cls
+ 5132  ps
+ 5133  kill 42740
+ 5134  cls
+ 5135  ps
+ 5136  cls
+ 5137  ps
+ 5138  cls
+ 5139  ps
+ 5140  cls
+ 5141  ps
+ 5142  cls
+ 5143  cd ..
+ 5144  cls
+ 5145  ls
+ 5146  cd ..
+ 5147  cls
+ 5148  ls
+ 5149  cd TLPI
+ 5150  cls
+ 5151  ls
+ 5152  cd c18
+ 5153  cls
+ 5154  ls
+ 5155  cd ..
+ 5156  cls
+ 5157  ls
+ 5158  cd c6
+ 5159  cls
+ 5160  ls
+ 5161  ./cd 
+ 5162  c
+ 5163  cls
+ 5164  ./cd
+ 5165  bg
+ 5166  cls
+ 5167  ps
+ 5168  kill 50683
+ 5169  cls
+ 5170  ps
+ 5171  kill 42740
+ 5172  cls
+ 5173  ps
+ 5174  cls
+ 5175  LS
+ 5176  CLS
+ 5177  cls
+ 5178  ls
+ 5179  ls ..
+ 5180  ../ls
+ 5181  cls
+ 5182  ./cd
+ 5183  cls
+ 5184  pause
+ 5185  cls
+ 5186  ./cd
+ 5187  cls
+ 5188  clear
+ 5189  cls
+ 5190  cl
+ 5191  scsl
+ 5192  cl s
+ 5193  cls
+ 5194  cl
+ 5195  s
+ 5196  csl
+ 5197  cls
+ 5198  ssk
+ 5199  sk
+ 5200  hdjxshndjahjsd
+ 5201  cls
+ 5202  ckls
+ 5203  cls
+ 5204  sjjcijasdjklujcjsaudlkc
+ 5205  dksakd
+ 5206  dssldsklaj
+ 5207  jdkajdika
+ 5208  cls
+ 5209  l
+ 5210  cks
+ 5211  lcs
+ 5212  cls
+ 5213  osdoidjk
+ 5214  cls
+ 5215  da
+ 5216  ls -Rla /
+ 5217  cls
+ 5218  ls -Rla /
+ 5219  cls
+ 5220  ls -aLR /
+ 5221  ls -alR /
+ 5222  clear
+ 5223  printf("1");
+ 5224  cls
+ 5225  echo 1
+ 5226  echo 11
+ 5227  echo 113
+ 5228  echo 114
+ 5229  echo 1145
+ 5230  echo 11451
+ 5231  echo 114514
+ 5232  cls
+ 5233  cls 1
+ 5234  cls
+ 5235  a
+ 5236  cls
+ 5237  cks
+ 5238  cls
+ 5239  ls > wc
+ 5240  ls | wc
+ 5241  ls | 1
+ 5242  cls
+ 5243  g++ -g
+ 5244  g++ -g ish.cpp
+ 5245  g++ -g ish.cpp shell.hpp
+ 5246  cl
+ 5247  scls
+ 5248  cls
+ 5249  ./shell.hpp
+ 5250  ./ish
+ 5251  ckls
+ 5252  cls
+ 5253  ./ish
+ 5254  cls
+ 5255  git commit -ma "update files"
+ 5256  cls
+ 5257  git commit -ma "update files"
+ 5258  git commit -ma --all "update files"
+ 5259  git commit -ma --all
+ 5260  cls
+ 5261  git add --all
+ 5262  cls
+ 5263  git commit -m "update files"
+ 5264  cls
+ 5265  git push origin master
+ 5266  ./shell.hpp.gch
+ 5267  cls
+ 5268  ./ish
+ 5269  cls
+ 5270  ./ish
+ 5271  cls
+ 5272  ./ish
+ 5273  cls
+ 5274  ./ish
+ 5275  cls
+ 5276  ./sh
+ 5277  cls
+ 5278  ./ish
+ 5279  cl
+ 5280  cls
+ 5281  ./ish
+ 5282  cls
+ 5283  ./ish
+ 5284  cls
+ 5285  resize
+ 5286  cls
+ 5287  ./ish
+ 5288  cls
+ 5289  ./ish
+ 5290  cls
+ 5291  ckls
+ 5292  cls
+ 5293  ./ish
+ 5294  cls
+ 5295  ./ish
+ 5296  cls
+ 5297  cd CODE/ish
+ 5298  cls
+ 5299  ls
+ 5300  cl
+ 5301  scls
+ 5302  cls
+ 5303  ./ish
+ 5304  cls
+ 5305  ./ish
+ 5306  cls
+ 5307  cl
+ 5308  ./ish
+ 5309  cls
+ 5310  ./ish
+ 5311  cls
+ 5312  resize
+ 5313  resize 10
+ 5314  resize 10 10
+ 5315  resize ish
+ 5316  cls
+ 5317  resize2fs
+ 5318  resizecons
+ 5319  resizecons 10 25
+ 5320  resizecons 100 100
+ 5321  resizecons stdout 100 100
+ 5322  cls
+ 5323  echo -e “\e[8;50;100t
+ 5324  echo -e “\e[8;50;100
+ 5325  cls
+ 5326  resize -s 100 100
+ 5327  resizecons -s 100 100
+ 5328  resizecons -s 100*100
+ 5329  cls
+ 5330  resize 
+ 5331  cls
+ 5332  bash
+ 5333  cls
+ 5334  stty
+ 5335  stty 100 100
+ 5336  stty rows 10 cols 10
+ 5337  csl
+ 5338  cls
+ 5339  ./ish
+ 5340  cls
+ 5341  cd CODE/ish
+ 5342  cls
+ 5343  ls
+ 5344  ./ish
+ 5345  cls
+ 5346  ./ish
+ 5347  cls
+ 5348  ./ish
+ 5349  cls
+ 5350  ./ish
+ 5351  ckls
+ 5352  cls
+ 5353  ./ish
+ 5354  cls
+ 5355  ./ish
+ 5356  cls
+ 5357  ./ish
+ 5358  cls
+ 5359  ./ish
+ 5360  cks
+ 5361  cls
+ 5362  ./ish
+ 5363  cls
+ 5364  ./ish
+ 5365  cls
+ 5366  ./ish
+ 5367  cls
+ 5368  ./ish
+ 5369  cls
+ 5370  ./ish
+ 5371  cls
+ 5372  ./ish
+ 5373  cls
+ 5374  ./ish
+ 5375  cls
+ 5376  ./ish
+ 5377  cls
+ 5378  ./ish
+ 5379  cls
+ 5380  ./ish
+ 5381  cls
+ 5382  ./ish
+ 5383  cls
+ 5384  ./ish
+ 5385  CLS
+ 5386  cls
+ 5387  ./i
+ 5388  ./ish
+ 5389  CSL
+ 5390  cls
+ 5391  ./ish
+ 5392  cls
+ 5393  ./ish
+ 5394  cls
+ 5395  ./ish
+ 5396  cls
+ 5397  ./ish
+ 5398  cls
+ 5399  ./ish
+ 5400  cls
+ 5401  ./ish
+ 5402  cls
+ 5403  ./ish
+ 5404  cls
+ 5405  ,.is
+ 5406  cls
+ 5407  ./ish
+ 5408  cls
+ 5409  ./ish
+ 5410  cls
+ 5411  ./ish
+ 5412  cls
+ 5413  ./ish
+ 5414  cls
+ 5415  ./ish
+ 5416  cl
+ 5417  scls
+ 5418  lcs
+ 5419  cls
+ 5420  ./ish
+ 5421  /home/user/CODE/ish/
+ 5422  cls
+ 5423  ./ish
+ 5424  cls
+ 5425  ./ish
+ 5426  cls
+ 5427  ./ish
+ 5428  cls
+ 5429  ./ish
+ 5430  cls
+ 5431  ./ish
+ 5432  cls
+ 5433  ./ish
+ 5434  cls
+ 5435  ./ish
+ 5436  cls
+ 5437  git add --all
+ 5438  cls
+ 5439  git commit -m "添加了炫酷的动画"
+ 5440  git push origin master
+ 5441  cls
+ 5442  ./ish
+ 5443  cls
+ 5444  ./ish
+ 5445  cls
+ 5446  ./ish
+ 5447  cls
+ 5448  ./ish
+ 5449  cls
+ 5450  ,.i
+ 5451  cls
+ 5452  ./ish
+ 5453  cls
+ 5454  ./ish
+ 5455  csl
+ 5456  cls
+ 5457  ./ish
+ 5458  cls
+ 5459  ./ish
+ 5460  cls
+ 5461  ./ish
+ 5462  cl
+ 5463  scls
+ 5464  cls
+ 5465  ./ish
+ 5466  cls
+ 5467  ./ish
+ 5468  cls
+ 5469  ./ish
+ 5470  sl
+ 5471  cls
+ 5472  ./ish
+ 5473  cls
+ 5474  ./ish
+ 5475  cls
+ 5476  ./ish
+ 5477  cls
+ 5478  ./ish
+ 5479  cls
+ 5480  ./ish
+ 5481  cls
+ 5482  ./ish
+ 5483  csl
+ 5484  cls
+ 5485  ./ish
+ 5486  cls
+ 5487  ./ish
+ 5488  cls
+ 5489  ./ish
+ 5490  cks
+ 5491  cls
+ 5492  ./ish
+ 5493  cls
+ 5494  ./ish
+ 5495  clds
+ 5496  cls
+ 5497  git add --all
+ 5498  cls
+ 5499  git commit -m "update files"
+ 5500  cls
+ 5501  git push origin master
+ 5502  cls
+ 5503  ./ish 
+ 5504  cls
+ 5505  ./ish
+ 5506  cls
+ 5507  ./ish
+ 5508  cls
+ 5509  ./ish
+ 5510  csl
+ 5511  cls
+ 5512  ./ish
+ 5513  cls
+ 5514  ./ish
+ 5515  cls
+ 5516  ./ish
+ 5517  csl
+ 5518  cls
+ 5519  clks
+ 5520  cls
+ 5521  ./ish
+ 5522  cls
+ 5523  git add --all
+ 5524  cls
+ 5525  git commit -m "update files"
+ 5526  cls
+ 5527  git push origin master
+ 5528  cls
+ 5529  ./ish
+ 5530  cls
+ 5531  ./ish.cpp
+ 5532  cls
+ 5533  ./ish
+ 5534  cls
+ 5535  ./is
+ 5536  cls
+ 5537  ./ish
+ 5538  cls
+ 5539  ./ish
+ 5540  cl
+ 5541  scls
+ 5542  CLS
+ 5543  cls
+ 5544  ./ish
+ 5545  cls
+ 5546  ./ish
+ 5547  cls
+ 5548  ./ish
+ 5549  cls
+ 5550  ./ish
+ 5551  csl
+ 5552  cls
+ 5553  ./ish
+ 5554  cls
+ 5555  ./ish
+ 5556  cls
+ 5557  ./ish
+ 5558  cls
+ 5559  ./ish
+ 5560  cls
+ 5561  ./ish
+ 5562  cls
+ 5563  ./ish
+ 5564  clks
+ 5565  cls
+ 5566  ./ish
+ 5567  cls
+ 5568  ./ish
+ 5569  cls
+ 5570  ./ish
+ 5571  cls
+ 5572  ./ish
+ 5573  csl
+ 5574  cls
+ 5575  ./is
+ 5576  cls
+ 5577  ./ish
+ 5578  cls
+ 5579  ./ish
+ 5580  clks
+ 5581  cls
+ 5582  ./ish
+ 5583  cls
+ 5584  ./ish
+ 5585  cls
+ 5586  ./ish
+ 5587  cls
+ 5588  ./ish
+ 5589  cls
+ 5590  ./ish
+ 5591  cls
+ 5592  ./ish
+ 5593  cls
+ 5594  ./ish
+ 5595  cls
+ 5596  ./ish
+ 5597  cls
+ 5598  ./ish
+ 5599  cls
+ 5600  ./ish
+ 5601  cls
+ 5602  ./ish
+ 5603  cl
+ 5604  scls
+ 5605  ./ish
+ 5606  cls
+ 5607  ./ish
+ 5608  cls
+ 5609  ./ish
+ 5610  cls
+ 5611  ./ish
+ 5612  cls
+ 5613  ./ish
+ 5614  cls
+ 5615  ./ish
+ 5616  cls
+ 5617  ./ish
+ 5618  cls
+ 5619  ./ish
+ 5620  cls
+ 5621  ./ish
+ 5622  cls
+ 5623  bash
+ 5624  cls
+ 5625  ./ish
+ 5626  cls
+ 5627  ./ish
+ 5628  cls
+ 5629  ./ish
+ 5630  cls
+ 5631  ./ish
+ 5632  cls
+ 5633  ./ish
+ 5634  cls
+ 5635  git rev-parse --abbrev-ref HEAD
+ 5636  git rev-parse --abbrev-ref 
+ 5637  git rev-parse --abbrev-ref HEAD
+ 5638  c;s
+ 5639  cls
+ 5640  ls .git
+ 5641  ls .git/HEAD
+ 5642  ls .git/refs
+ 5643  ls .git/refs/heads
+ 5644  cls
+ 5645  ls .git/refs/heads
+ 5646  ls .git/refs/heads/master
+ 5647  cls
+ 5648  ls .git/HEAD
+ 5649  cat .git/HEAD
+ 5650  cls
+ 5651  ./ish
+ 5652  cl
+ 5653  slcs
+ 5654  cls
+ 5655  ./ish
+ 5656  cls
+ 5657  ./ish
+ 5658  cls
+ 5659  git add --all
+ 5660  cls
+ 5661  git commit -m "update files"
+ 5662  cls
+ 5663  git push origin master
+ 5664  cls
+ 5665  ./ish
+ 5666  ,.is
+ 5667  cls
+ 5668  ./ish
+ 5669  cls
+ 5670  ./ish
+ 5671  cls
+ 5672  ./ish
+ 5673  cls
+ 5674  ./ish
+ 5675  cks
+ 5676  clks
+ 5677  lc
+ 5678  scls
+ 5679  cls
+ 5680  ./ish
+ 5681  cls
+ 5682  cl
+ 5683  scl
+ 5684  cls
+ 5685  ./ish
+ 5686  cls
+ 5687  ./ish
+ 5688  c;s
+ 5689  cls
+ 5690  ./ish
+ 5691  CLS
+ 5692  cls
+ 5693  ./ish
+ 5694  s
+ 5695  cls
+ 5696  ./ish
+ 5697  cls
+ 5698  ls -l
+ 5699  ls -s
+ 5700  cls
+ 5701  cl
+ 5702  slcs
+ 5703  lcs
+ 5704  cls
+ 5705  csl
+ 5706  cls
+ 5707  ./lcs
+ 5708  lcs
+ 5709  cls
+ 5710  ./ls
+ 5711  cls
+ 5712  ./ish
+ 5713  cls
+ 5714  ls
+ 5715  cls
+ 5716  ls -R
+ 5717  clS
+ 5718  cls
+ 5719  ./ish
+ 5720  cls
+ 5721  ./ish
+ 5722  cls
+ 5723  ./ish
+ 5724  cls
+ 5725  ls -R /
+ 5726  cls
+ 5727  ls -R ~
+ 5728  cls
+ 5729  ls
+ 5730  ./ish
+ 5731  cl;s
+ 5732  cls
+ 5733  ./ish
+ 5734  cls
+ 5735  git add --all
+ 5736  cls
+ 5737  git commit -m "up"
+ 5738  cls
+ 5739  git push origin master
+ 5740  cls
+ 5741  git push origin master
+ 5742  cslz
+ 5743  cls
+ 5744  shutdown now
+ 5745  cls
+ 5746  ./ish
+ 5747  cls
+ 5748  ./ish
+ 5749  zsh 
+ 5750  csl
+ 5751  cls
+ 5752  zsh --version 
+ 5753  zsh --version_oh my zsh
+ 5754  zsh --version oh my zsh
+ 5755  zsh --
+ 5756  zsh --hlep
+ 5757  zsh --help
+ 5758  cls
+ 5759  ./ish
+ 5760  cls
+ 5761  ./isq
+ 5762  cls
+ 5763  ./ish
+ 5764  csl
+ 5765  cls
+ 5766  ./ish
+ 5767  csl
+ 5768  cls
+ 5769  ./ish
+ 5770  cls
+ 5771  ./ish
+ 5772  cls
+ 5773  ./ish
+ 5774  cls
+ 5775  ./ish
+ 5776  cls
+ 5777  ./ish
+ 5778  csl
+ 5779  cls
+ 5780  ./ish
+ 5781  cls
+ 5782  ./ish
+ 5783  cls
+ 5784  ./ish
+ 5785  cls
+ 5786  ./ish
+ 5787  cls
+ 5788  ./ish
+ 5789  cls
+ 5790  ./ish
+ 5791  ls
+ 5792  cls
+ 5793  ./ish
+ 5794  cls
+ 5795  ./ish
+ 5796  cls
+ 5797  ./ish
+ 5798  cls
+ 5799  ./ish
+ 5800  cls
+ 5801  ./ish
+ 5802  cls
+ 5803  ./is
+ 5804  cls
+ 5805  ./ish
+ 5806  cls
+ 5807  ./ish
+ 5808  cls
+ 5809  ./ish
+ 5810  cls
+ 5811  ./ish
+ 5812  csl
+ 5813  cls
+ 5814  ./ish
+ 5815  csl
+ 5816  cl
+ 5817  scls
+ 5818  lcs
+ 5819  cls
+ 5820  ./ish
+ 5821  cls
+ 5822  ./isxz
+ 5823  cls
+ 5824  ./ish
+ 5825  lcls
+ 5826  cls
+ 5827  ./ish
+ 5828  cls
+ 5829  ./ish
+ 5830  cls
+ 5831  ./ish
+ 5832  cls
+ 5833  ./ish
+ 5834  cls
+ 5835  ./ish
+ 5836  cls
+ 5837  ./ish
+ 5838  cls
+ 5839  git add --all
+ 5840  csl
+ 5841  cls
+ 5842  git commit -m "update files"
+ 5843  cls
+ 5844  git push origin master
+ 5845  ./ish
+ 5846  cls
+ 5847  ./ish
+ 5848  lcs
+ 5849  cls
+ 5850  ./ish
+ 5851  cls
+ 5852  ls
+ 5853  s
+ 5854  cls
+ 5855  ./ish
+ 5856  cks
+ 5857  cls
+ 5858  ./ish
+ 5859  cls
+ 5860  ./ish
+ 5861  csl
+ 5862  cls
+ 5863  ls
+ 5864  sl
+ 5865  cls
+ 5866  ./ish
+ 5867  c
+ 5868  cl
+ 5869  cls
+ 5870  ./ish
+ 5871  cls
+ 5872  ./ish
+ 5873  cls
+ 5874  ./ish
+ 5875  clsx
+ 5876  cls
+ 5877  lsl
+ 5878  cls
+ 5879  ./ish
+ 5880  cls
+ 5881  ./ish
+ 5882  cls
+ 5883  ./ish
+ 5884  cls
+ 5885  ./ish
+ 5886  cls
+ 5887  ./ish
+ 5888  cls
+ 5889  ./ish
+ 5890  cls
+ 5891  ./ish
+ 5892  cs
+ 5893  cls
+ 5894  ./ish
+ 5895  cls
+ 5896  git add --allc
+ 5897  git add --all
+ 5898  cls
+ 5899  git commit -m "update files"
+ 5900  cls
+ 5901  git push origin master
+ 5902  cls
+ 5903  lcs
+ 5904  cls
+ 5905  lcs
+ 5906  lcls
+ 5907  lcs
+ 5908  lc
+ 5909  sl
+ 5910  csllsc
+ 5911  l
+ 5912  cls
+ 5913  ./zsh
+ 5914  cls
+ 5915  ./ish
+ 5916  cls
+ 5917  ls
+ 5918  sl
+ 5919  cls
+ 5920  ./ish
+ 5921  cls
+ 5922  ./ish
+ 5923  cls
+ 5924  ./ish
+ 5925  cls
+ 5926  ./ish
+ 5927  cls
+ 5928  ./ish
+ 5929  cls
+ 5930  ./ish
+ 5931  csl
+ 5932  ./ish
+ 5933  cls
+ 5934  ./ish
+ 5935  cls
+ 5936  ./ish
+ 5937  cls
+ 5938  ./ish
+ 5939  cls
+ 5940  ./ish
+ 5941  cls
+ 5942  ./ish
+ 5943  cls
+ 5944  ./ish
+ 5945  cls
+ 5946  ./ish
+ 5947  cls
+ 5948  exit
+ 5949  zsh --
+ 5950  cls
+ 5951  exit
+ 5952  exit 1
+ 5953  cls
+ 5954  exit 
+ 5955  cls
+ 5956  ./ish
+ 5957  cls
+ 5958  cl
+ 5959  scls
+ 5960  cl
+ 5961  scl
+ 5962  scls
+ 5963  cls
+ 5964  ./ish
+ 5965  cls
+ 5966  ./ish
+ 5967  cl
+ 5968  ecls
+ 5969  cls
+ 5970  c;s
+ 5971  cls
+ 5972  ./ish
+ 5973  cls
+ 5974  ./ish
+ 5975  cls
+ 5976  zsh
+ 5977  zsh&
+ 5978  fg
+ 5979  clks
+ 5980  cks
+ 5981  cls
+ 5982  ps
+ 5983  kill zsh
+ 5984  kill 42501
+ 5985  kill zsh
+ 5986  kill 42501
+ 5987  kill 42501B
+ 5988  kill 42501B 42556
+ 5989  ckls
+ 5990  cls
+ 5991  exit
+ 5992  fg
+ 5993  exit
+ 5994  cls
+ 5995  ./ish.cpp
+ 5996  cls
+ 5997  ./ish.cpp
+ 5998  ./IO
+ 5999  CLS
+ 6000  cls
+ 6001  .i
+ 6002  CLS
+ 6003  cls
+ 6004  ./i
+ 6005  ./ish
+ 6006  cle
+ 6007  acls
+ 6008  cls
+ 6009  ./ish
+ 6010  cls
+ 6011  ./ish
+ 6012  cls
+ 6013  ./ish
+ 6014  cls
+ 6015  ./ish
+ 6016  cls
+ 6017  ./ish
+ 6018  cls
+ 6019  ./ish
+ 6020  cls
+ 6021  ./ish
+ 6022  exit
+ 6023  cls
+ 6024  ./ish
+ 6025  cls
+ 6026  ./ish
+ 6027  cls
+ 6028  ./ish
+ 6029  cls
+ 6030  ./ish
+ 6031  cls
+ 6032  code
+ 6033  cls
+ 6034  ./ish
+ 6035  cls
+ 6036  ./ish
+ 6037  cls
+ 6038  ./ish
+ 6039  cls
+ 6040  exit
+ 6041  cls
+ 6042  ./ish
+ 6043  cls
+ 6044  ./ish
+ 6045  cls
+ 6046  su
+ 6047  cls
+ 6048  su
+ 6049  cls
+ 6050  su
+ 6051  cls
+ 6052  ./ish
+ 6053  cls
+ 6054  ./ish
+ 6055  cls
+ 6056  ./ish
+ 6057  cls
+ 6058  code
+ 6059  ls ..
+ 6060  ls ../c18
+ 6061  ls ../c18/ls
+ 6062  ../c18/ls
+ 6063  cls
+ 6064  ./fork
+ 6065  cls
+ 6066  ./fork
+ 6067  ps
+ 6068  cls
+ 6069  ps
+ 6070  cls
+ 6071  ps
+ 6072  cls
+ 6073  ./fork
+ 6074  ckls
+ 6075  cls
+ 6076  ./fork
+ 6077  ps
+ 6078  cls
+ 6079  ./fork
+ 6080  vlds
+ 6081  cls
+ 6082  ./fork
+ 6083  cls
+ 6084  ./fork
+ 6085  cls
+ 6086  ./fork
+ 6087  xla
+ 6088  cls
+ 6089  ./fork
+ 6090  cls
+ 6091  ./fork
+ 6092  cls
+ 6093  ls
+ 6094  cls
+ 6095  ./ls
+ 6096  cls
+ 6097  ./fork
+ 6098  ckls
+ 6099  cls
+ 6100  ./fork
+ 6101  cls
+ 6102  ./fork
+ 6103  cls
+ 6104  /bin/ls
+ 6105  cls
+ 6106  ./f
+ 6107  cls
+ 6108  ./f
+ 6109  cls
+ 6110  ./f
+ 6111  cls
+ 6112  ./fork
+ 6113  clks
+ 6114  cls
+ 6115  ./fork
+ 6116  cls
+ 6117  ./f
+ 6118  cls
+ 6119  ./fork
+ 6120  cls
+ 6121  ./i
+ 6122  cls
+ 6123  ./fork
+ 6124  cls
+ 6125  ./fork
+ 6126  cls
+ 6127  ./fork
+ 6128  cls
+ 6129  ./fork
+ 6130  cls
+ 6131  ./fork
+ 6132  cls
+ 6133  ./fork
+ 6134  cls
+ 6135  ./fork
+ 6136  clsa
+ 6137  cls
+ 6138  ./f
+ 6139  cls
+ 6140  ./fork
+ 6141  cl
+ 6142  scls
+ 6143  cls
+ 6144  ./fork
+ 6145  cls
+ 6146  ./fork
+ 6147  cls
+ 6148  ./fork
+ 6149  cls
+ 6150  ls
+ 6151  cls
+ 6152  cl
+ 6153  slcs
+ 6154  cls
+ 6155  ls
+ 6156  cls
+ 6157  /bin
+ 6158  cd ~/CODE/tlpi/TLPI/c24
+ 6159  cls
+ 6160  g++ fork.cpp
+ 6161  ./a.out
+ 6162  zsh
+ 6163  ls
+ 6164  cls
+ 6165  ./t
+ 6166  cls
+ 6167  ./a
+ 6168  cls
+ 6169  ./a
+ 6170  cls
+ 6171  /bin/ls
+ 6172  /bin/ls --color=auto
+ 6173  /bin/ls --color=auto /
+ 6174  cls
+ 6175  cd c24
+ 6176  cls
+ 6177  ./f
+ 6178  ./fork
+ 6179  cl
+ 6180  scls
+ 6181  cls
+ 6182  git add --all
+ 6183  cls
+ 6184  git commit -m "update filesz"
+ 6185  cls
+ 6186  git push origin master
+ 6187  git add --all
+ 6188  cl
+ 6189  cls
+ 6190  git commit -m "update files"
+ 6191  cls
+ 6192  git push origin master
+ 6193  cls
+ 6194  ./ish
+ 6195  cls
+ 6196  ./ish
+ 6197  cls
+ 6198  ./ish
+ 6199  cls
+ 6200  ./ish
+ 6201  cls
+ 6202  lcs
+ 6203  lc
+ 6204  sl
+ 6205  cls
+ 6206  ./ish
+ 6207  cls
+ 6208  ./ish
+ 6209  cls
+ 6210  ./ish
+ 6211  cls
+ 6212  ./ish
+ 6213  cls
+ 6214  ./ish
+ 6215  kill zsh
+ 6216  kill 80690
+ 6217  kill 86602
+ 6218  cls
+ 6219  xesweeedexexecls
+ 6220  lcs
+ 6221  code
+ 6222  ./ish
+ 6223  cls
+ 6224  ./ish
+ 6225  cls
+ 6226  ./ish
+ 6227  cls
+ 6228  ./ish
+ 6229  csl
+ 6230  cls
+ 6231  ./ish
+ 6232  cls
+ 6233  ./ish
+ 6234  cls
+ 6235  ./ish
+ 6236  cls
+ 6237  lc
+ 6238  scls
+ 6239  cls
+ 6240  ./ish
+ 6241  cls
+ 6242  ./ish
+ 6243  ls
+ 6244  cls
+ 6245  cl
+ 6246  scls
+ 6247  cls
+ 6248  ./ish
+ 6249  cls
+ 6250  ./ish
+ 6251  cls
+ 6252  ./ish
+ 6253  ckls
+ 6254  cls
+ 6255  ./ish
+ 6256  cls
+ 6257  ./ish
+ 6258  cls
+ 6259  ./ish
+ 6260  cls
+ 6261  ls  1
+ 6262  ./ish
+ 6263  cls
+ 6264  ./ish
+ 6265  cls
+ 6266  ls
+ 6267  cls
+ 6268  cls./i
+ 6269  cls
+ 6270  ./1
+ 6271  cls
+ 6272  cd c24
+ 6273  cls
+ 6274  ls
+ 6275  cls
+ 6276  ./1
+ 6277  cls
+ 6278  ./1
+ 6279  ls
+ 6280  cls
+ 6281  ./1
+ 6282  cls
+ 6283  ./1
+ 6284  s
+ 6285  cls
+ 6286  ./1
+ 6287  cls
+ 6288  ./1
+ 6289  hello world linux
+ 6290  ./1
+ 6291  cls
+ 6292  ./ish
+ 6293  cls
+ 6294  ./1
+ 6295  ./ish
+ 6296  cls
+ 6297  ./ish
+ 6298  cls
+ 6299  ./ish
+ 6300  cls
+ 6301  ./ish
+ 6302  cls
+ 6303  ./ish
+ 6304  cls
+ 6305  ./ish
+ 6306  cls
+ 6307  git add --all
+ 6308  cls
+ 6309  git commit -m "up"
+ 6310  cls
+ 6311  git push origin master
+ 6312  shutdown now
+ 6313  code
+ 6314  cxls
+ 6315  cls
+ 6316  ./ls
+ 6317  ./lscls
+ 6318  cls
+ 6319  ./ls
+ 6320  cls
+ 6321  ./ls
+ 6322  cls
+ 6323  ls
+ 6324  cls
+ 6325  ls
+ 6326  cls
+ 6327  clds
+ 6328  cls
+ 6329  ./ls
+ 6330  cls
+ 6331  ./ls
+ 6332  cl;s
+ 6333  cls
+ 6334  ./ls
+ 6335  cls
+ 6336  ./ls
+ 6337  cls
+ 6338  ./i
+ 6339  cls
+ 6340  git add --all
+ 6341  csl
+ 6342  gc
+ 6343  cls
+ 6344  git commit -m "up"
+ 6345  cls
+ 6346  git push origin master
+ 6347  cls
+ 6348  ./ish
+ 6349  cls
+ 6350  ./ish cls
+ 6351  cls
+ 6352  ./ish
+ 6353  cls
+ 6354  ./ish
+ 6355  code
+ 6356  ./up
+ 6357  cls
+ 6358  1
+ 6359  ckls
+ 6360  lcs
+ 6361  cls
+ 6362  ./1
+ 6363  cls
+ 6364  ./1
+ 6365  cls
+ 6366  ./1
+ 6367  cls
+ 6368  ./1
+ 6369  s
+ 6370  cls
+ 6371  ./i
+ 6372  cls
+ 6373  ./1
+ 6374  cls
+ 6375  ./1
+ 6376  cls
+ 6377  clsclscls
+ 6378  cls
+ 6379  ./1
+ 6380  cls
+ 6381  c;ls
+ 6382  cl;s
+ 6383  cls
+ 6384  ./1
+ 6385  cls
+ 6386  ./1
+ 6387  cs
+ 6388  lcs
+ 6389  cls
+ 6390  ./up
+ 6391  cls
+ 6392  ./up
+ 6393  cls
+ 6394  ./up
+ 6395  cls
+ 6396  ./up
+ 6397  cls
+ 6398  ./ish
+ 6399  cls
+ 6400  ./ish
+ 6401  cls
+ 6402  ./ish
+ 6403  ckl
+ 6404  cls
+ 6405  ./ish
+ 6406  cls
+ 6407  ./ish
+ 6408  cls
+ 6409  cls./i
+ 6410  cls
+ 6411  ./ish
+ 6412  cls
+ 6413  ./ish
+ 6414  cls
+ 6415  code
+ 6416  cls
+ 6417  ./1
+ 6418  ccls
+ 6419  cls
+ 6420  ./1
+ 6421  cls
+ 6422  ./1
+ 6423  cls
+ 6424  3.12
+ 6425  cls
+ 6426  ./1
+ 6427  cls
+ 6428  ./1
+ 6429  cls
+ 6430  ./1
+ 6431  cls
+ 6432  ./1
+ 6433  cls
+ 6434  ./1 
+ 6435  ./1 ./i
+ 6436  cls
+ 6437  ./1
+ 6438  cls
+ 6439  ./i
+ 6440  cls
+ 6441  ./1 
+ 6442  cls
+ 6443  ./ish
+ 6444  cls
+ 6445  ./ish
+ 6446  cls
+ 6447  ./ish
+ 6448  cls
+ 6449  ./ish
+ 6450  cls
+ 6451  ./ish
+ 6452  cls
+ 6453  ./ish
+ 6454  cls
+ 6455  git add --all
+ 6456  cls
+ 6457  git commit -m "update files"
+ 6458  cls
+ 6459  git push origin master
+ 6460  cls
+ 6461  ./ish
+ 6462  cls
+ 6463  ./ish
+ 6464  cls
+ 6465  ./cls
+ 6466  cls
+ 6467  ./ish.cpp
+ 6468  cls
+ 6469  ./ish.cpp
+ 6470  cls
+ 6471  ./ish
+ 6472  cls
+ 6473  ./ish
+ 6474  cls
+ 6475  ./ish
+ 6476  cls
+ 6477  ./ish
+ 6478  cls
+ 6479  ./ish
+ 6480  cls
+ 6481  ./ish
+ 6482  cls
+ 6483  lsx
+ 6484  cls
+ 6485  ./ish
+ 6486  cls
+ 6487  ls -a
+ 6488  cls
+ 6489  ./ish
+ 6490  cls
+ 6491  g++ ish.cpp -o -g 1
+ 6492  g++ ish.cpp -o 1 -g
+ 6493  cls
+ 6494  ./ish
+ 6495  cls
+ 6496  ./ish
+ 6497  cls
+ 6498  ./ish
+ 6499  cls
+ 6500  ./ish
+ 6501  cls
+ 6502  ./ish
+ 6503  cls
+ 6504  ./ish
+ 6505  cks
+ 6506  ck
+ 6507  skcs
+ 6508  cls
+ 6509  ./ish
+ 6510  cls
+ 6511  ./ish
+ 6512  cls
+ 6513  ./ish
+ 6514  cls
+ 6515  ./ish
+ 6516  cls
+ 6517  ./ish
+ 6518  cls
+ 6519  ./ish
+ 6520  csl
+ 6521  cls
+ 6522  ./ish
+ 6523  cls
+ 6524  ./ish
+ 6525  cls
+ 6526  ./ish
+ 6527  cls
+ 6528  bash 
+ 6529  cls
+ 6530  ./ish
+ 6531  cls
+ 6532  ./ish
+ 6533  cls
+ 6534  ./ish
+ 6535  cls
+ 6536  ./ish
+ 6537  cls
+ 6538  ./fork
+ 6539  ./ish
+ 6540  cls
+ 6541  ./ish
+ 6542  cls
+ 6543  ./ish
+ 6544  cls
+ 6545  ./ish
+ 6546  cls
+ 6547  ./ish
+ 6548  cls
+ 6549  ./ish
+ 6550  cls
+ 6551  ./ish
+ 6552  cls
+ 6553  ./ish
+ 6554  cls
+ 6555  ./ish
+ 6556  cls
+ 6557  ./ish
+ 6558  cls
+ 6559  ./ish
+ 6560  cls
+ 6561  ./ish
+ 6562  cls
+ 6563  ./ish
+ 6564  cls
+ 6565  ./ish
+ 6566  cls
+ 6567  ./ish
+ 6568  cls
+ 6569  ./ish
+ 6570  csl
+ 6571  cls
+ 6572  ./ish
+ 6573  csl
+ 6574  cls
+ 6575  ./ish
+ 6576  cls
+ 6577  ./ish
+ 6578  csl
+ 6579  cls
+ 6580  ./ish
+ 6581  cls
+ 6582  ./ish
+ 6583  lcs
+ 6584  cls
+ 6585  ./ish
+ 6586  csl
+ 6587  cls
+ 6588  ./ish
+ 6589  cls
+ 6590  ./ish
+ 6591  cls
+ 6592  ./ish
+ 6593  cls
+ 6594  ./ish
+ 6595  cls
+ 6596  1./i
+ 6597  cls
+ 6598  ./ish
+ 6599  csl
+ 6600  cls
+ 6601  ./ish
+ 6602  cls
+ 6603  ./ish
+ 6604  cls
+ 6605  ./ish
+ 6606  cls
+ 6607  ./ish
+ 6608  cls
+ 6609  ./ish
+ 6610  csl
+ 6611  cls
+ 6612  ./ish
+ 6613  csl
+ 6614  cls
+ 6615  ./ish
+ 6616  cls
+ 6617  ./ish
+ 6618  cls
+ 6619  ls &
+ 6620  zsh &
+ 6621  kill 13385
+ 6622  kill 27571
+ 6623  cls
+ 6624  ps
+ 6625  kill 73103
+ 6626  cls
+ 6627  ps
+ 6628  cls
+ 6629  ./ish
+ 6630  csl
+ 6631  cls
+ 6632  git add --all
+ 6633  cls
+ 6634  git commit -m "update files"
+ 6635  cls
+ 6636  git push origin master
+ 6637  cks
+ 6638  cls
+ 6639  ./ish
+ 6640  cls
+ 6641  ./ish
+ 6642  cls
+ 6643  ./ish
+ 6644  cls
+ 6645  ./ish
+ 6646  cls
+ 6647  ./ish
+ 6648  csl
+ 6649  cls
+ 6650  git add --all
+ 6651  cls
+ 6652  git commit -m "update files"
+ 6653  cls
+ 6654  git push origin master
+ 6655  cls
+ 6656  git add --all
+ 6657  cls
+ 6658  git commit -m "update    files"
+ 6659  cls
+ 6660  git push origin master
+ 6661  cls
+ 6662  cd -
+ 6663  cls
+ 6664  c d-
+ 6665  cls
+ 6666  c d-
+ 6667  cls
+ 6668  cd -
+ 6669  cls
+ 6670  ./ish
+ 6671  cls
+ 6672  ./ish
+ 6673  cls
+ 6674  ./ish
+ 6675  cls
+ 6676  ./ish
+ 6677  cls
+ 6678  lc
+ 6679  sc
+ 6680  s
+ 6681  c
+ 6682  code
+ 6683  l
+ 6684  code
+ 6685  cls
+ 6686  ./ish
+ 6687  cls
+ 6688  ./ish
+ 6689  csl
+ 6690  cls
+ 6691  ./ish
+ 6692  csl
+ 6693  cls
+ 6694  ./ish
+ 6695  cls
+ 6696  ./ish
+ 6697  cls
+ 6698  ./ish
+ 6699  cls
+ 6700  ./ish
+ 6701  cls
+ 6702  ./ish
+ 6703  cls
+ 6704  ./ish
+ 6705  cls
+ 6706  ./ish
+ 6707  cls
+ 6708  ./ish
+ 6709  csl
+ 6710  cls
+ 6711  ./ish
+ 6712  csl
+ 6713  cls
+ 6714  ./ish
+ 6715  cls
+ 6716  ./ish
+ 6717  cls
+ 6718  ./ish
+ 6719  cls
+ 6720  l
+ 6721  lc
+ 6722  sc
+ 6723  ./ish
+ 6724  cls
+ 6725  ./ish
+ 6726  cls
+ 6727  ./ish
+ 6728  cls
+ 6729  ./ish
+ 6730  cls
+ 6731  ./ish
+ 6732  cls
+ 6733  ./ish
+ 6734  cls
+ 6735  ./ish
+ 6736  cls
+ 6737  ./ish
+ 6738  cls
+ 6739  ./ish
+ 6740  cls
+ 6741  ./ish
+ 6742  csl
+ 6743  cls
+ 6744  ./ish
+ 6745  cls
+ 6746  sdfjsof
+ 6747  cls
+ 6748  ./ish
+ 6749  cls
+ 6750  cd ..
+ 6751  cls 
+ 6752  csl
+ 6753  cls
+ 6754  ./ish
+ 6755  cls
+ 6756  cd .
+ 6757  cls
+ 6758  ./ish
+ 6759  lcls
+ 6760  ls
+ 6761  c ls
+ 6762  csl
+ 6763  cls
+ 6764  ./ish
+ 6765  cls
+ 6766  ./ish
+ 6767  cls
+ 6768  ./ish
+ 6769  cls
+ 6770  ./ish
+ 6771  cls
+ 6772  ./ish
+ 6773  cls
+ 6774  git add --all
+ 6775  cls
+ 6776  git commit -m "update files"
+ 6777  cls
+ 6778  git push origin master
+ 6779  cls
+ 6780  ./ish
+ 6781  .
+ 6782  cls
+ 6783  ./ish
+ 6784  cls
+ 6785  ./ish
+ 6786  cls
+ 6787  ./ish
+ 6788  csl;
+ 6789  cls
+ 6790  ./ish
+ 6791  csl
+ 6792  cls
+ 6793  cd -
+ 6794  cd ..
+ 6795  cls
+ 6796  ./ish
+ 6797  cls
+ 6798  ./ish
+ 6799  csl
+ 6800  cls
+ 6801  ./ish
+ 6802  cls
+ 6803  ./ish
+ 6804  cls
+ 6805  ./ish
+ 6806  cls
+ 6807  ./ish
+ 6808  cos
+ 6809  cls
+ 6810  ./ish
+ 6811  cls
+ 6812  cl
+ 6813  scls
+ 6814  cls
+ 6815  git add --all
+ 6816  cls
+ 6817  git commit -m "update files"
+ 6818  cls
+ 6819  git push origin master
+ 6820  cls
+ 6821  shutdown now
+ 6822  clsd
+ 6823  cls
+ 6824  ./ish
+ 6825  lc
+ 6826  sc
+ 6827  ps
+ 6828  kill 5593
+ 6829  cls
+ 6830  ./ish 
+ 6831  csl
+ 6832  cls
+ 6833  ./ish
+ 6834  cls
+ 6835  code
+ 6836  cls
+ 6837  !
+ 6838  ./func.cpp
+ 6839  cls
+ 6840  ./a
+ 6841  fg
+ 6842  cls
+ 6843  从的-
+ 6844  csl
+ 6845  cls
+ 6846  cd -
+ 6847  cls
+ 6848  cd --
+ 6849  cls
+ 6850  cd 
+ 6851  cd ---
+ 6852  csl
+ 6853  cls
+ 6854  cd -
+ 6855  cls
+ 6856  cd /
+ 6857  cd -
+ 6858  csl
+ 6859  cls
+ 6860  cd CODE/ish
+ 6861  cd -
+ 6862  csl
+ 6863  cls
+ 6864  ./ish
+ 6865  cls
+ 6866  csl
+ 6867  cls
+ 6868  ./ish
+ 6869  cls
+ 6870  ./ish
+ 6871  cls
+ 6872  ./ish
+ 6873  cls
+ 6874  ps
+ 6875  csl
+ 6876  cls
+ 6877  ./ish
+ 6878  csl
+ 6879  cls
+ 6880  ./ish
+ 6881  cls
+ 6882  ./ish
+ 6883  cls
+ 6884  ./ish
+ 6885  cls
+ 6886  ./ish
+ 6887  csl
+ 6888  cls
+ 6889  ./ish
+ 6890  csl
+ 6891  cls
+ 6892  ./ish
+ 6893  cls
+ 6894  ./ish
+ 6895  csl
+ 6896  cls
+ 6897  cd
+ 6898  csk
+ 6899  cls
+ 6900  cd -
+ 6901  csl
+ 6902  cls
+ 6903  ./ish
+ 6904  csl
+ 6905  cls
+ 6906  ./ish
+ 6907  csl
+ 6908  cd -
+ 6909  cls
+ 6910  cd -
+ 6911  cls
+ 6912  ./ish
+ 6913  cls
+ 6914  ./ish
+ 6915  csl
+ 6916  cls
+ 6917  ./ish
+ 6918  csl
+ 6919  cls
+ 6920  ./ish
+ 6921  csl
+ 6922  cls
+ 6923  cd ..
+ 6924  cls
+ 6925  cd ..
+ 6926  cls
+ 6927  cd ..
+ 6928  cls
+ 6929  c d-
+ 6930  cd -
+ 6931  cd - - -
+ 6932  cd -
+ 6933  cd /home/user/CODE/ish/
+ 6934  cls
+ 6935  ./ish
+ 6936  csl
+ 6937  cls
+ 6938  cd . ..
+ 6939  csl
+ 6940  cls
+ 6941  ls &
+ 6942  cls
+ 6943  ls&
+ 6944  cks
+ 6945  cls
+ 6946  cd ..
+ 6947  cd -
+ 6948  cls;
+ 6949  csl;
+ 6950  cls
+ 6951  ls
+ 6952  cls
+ 6953  ls || wc -l
+ 6954  1 || wc -l
+ 6955  1
+ 6956  cls
+ 6957  2
+ 6958  3
+ 6959  4
+ 6960  5
+ 6961  cls
+ 6962  cd /home/user/CODE/ish/
+ 6963  clxsz
+ 6964  cls
+ 6965  ./ish
+ 6966  csl
+ 6967  cls
+ 6968  ./ish
+ 6969  cls
+ 6970  csl
+ 6971  cls
+ 6972  ./ish
+ 6973  cls
+ 6974  ./ish
+ 6975  ckls
+ 6976  cls
+ 6977  ./ish
+ 6978  sl
+ 6979  cls
+ 6980  ./ish
+ 6981  git pull cls
+ 6982  cls
+ 6983  ./ish
+ 6984  cls
+ 6985  ./ish
+ 6986  cls
+ 6987  code
+ 6988  ./openfd
+ 6989  cls
+ 6990  ./openfd
+ 6991  cls
+ 6992  ./openfd
+ 6993  cls
+ 6994  ./openfd
+ 6995  cls
+ 6996  ./openfd
+ 6997  cls
+ 6998  git add --all
+ 6999  cls
+ 7000  git commit -m "update files"
+ 7001  cls
+ 7002  git push origin master
+ 7003  cls
+ 7004  l&
+ 7005  fg
+ 7006  cls
+ 7007  bg
+ 7008  cls
+ 7009  ./ish
+ 7010  cls
+ 7011  ./ish
+ 7012  cls
+ 7013  sc
+ 7014  ./ish
+ 7015  cls
+ 7016  ./ish
+ 7017  csl
+ 7018  cls
+ 7019  ls | ls
+ 7020  cls
+ 7021  ls | la
+ 7022  cls
+ 7023  ls | ls
+ 7024  cls
+ 7025  ./ish
+ 7026  cls
+ 7027  ./ish
+ 7028  csl
+ 7029  cls
+ 7030  git add --all
+ 7031  cls
+ 7032  git commit -m "update files"
+ 7033  cls
+ 7034  git push origin master
+ 7035  cls
+ 7036  ls
+ 7037  cls
+ 7038  la
+ 7039  cls
+ 7040  ll
+ 7041  cls
+ 7042  la
+ 7043  cls
+ 7044  code
+ 7045  ./ls -Ral / | wc -l
+ 7046  cls
+ 7047  ./ls -Rla / | wc -l
+ 7048  cls
+ 7049  ./ls
+ 7050  ./ls -Ral /
+ 7051  ./ls -Ral / | wc -l
+ 7052  sudo ./ls -Ral / | wc -l
+ 7053  cls
+ 7054  ./ls -Rla / | wc -l
+ 7055  cls
+ 7056  ./ls -Rla / | wc -l
+ 7057  sudo ./ls -Rla / | wc -l
+ 7058  clsx
+ 7059  cls
+ 7060  code
+ 7061  ./openfd
+ 7062  cls
+ 7063  ./openfd
+ 7064  cls
+ 7065  ./ish
+ 7066  cls
+ 7067  ./ish
+ 7068  cls
+ 7069  ls
+ 7070  cls
+ 7071  ./ish
+ 7072  csl
+ 7073  cls
+ 7074  ./ish
+ 7075  cls
+ 7076  ./ish
+ 7077  cls
+ 7078  ./ish
+ 7079  cls
+ 7080  cl
+ 7081  cls
+ 7082  git add --all
+ 7083  cls
+ 7084  git commit -m "update files"
+ 7085  cls
+ 7086  git push origin master
+ 7087  cls
+ 7088  ./ish
+ 7089  cls
+ 7090  ./ish
+ 7091  cls
+ 7092  ./ish
+ 7093  cls
+ 7094  vlds
+ 7095  vls
+ 7096  cls
+ 7097  ./ish
+ 7098  cls
+ 7099  ./ish
+ 7100  cls
+ 7101  ./ish
+ 7102  cls
+ 7103  ./ish
+ 7104  cls
+ 7105  ./ish
+ 7106  cls
+ 7107  ps
+ 7108  kill 44568
+ 7109  cls
+ 7110  ls
+ 7111  ./ish
+ 7112  cls
+ 7113  shutdown now
+ 7114  code
+ 7115  ./pipe
+ 7116  cls
+ 7117  ./pipe
+ 7118  cls
+ 7119  ./pipe
+ 7120  cls
+ 7121  code
+ 7122  cls
+ 7123  ./ish
+ 7124  cls
+ 7125  ./ish
+ 7126  csl
+ 7127  cls
+ 7128  ./ish
+ 7129  cls
+ 7130  ./ish
+ 7131  cls
+ 7132  wc 
+ 7133  cls
+ 7134  ./ish
+ 7135  cls
+ 7136  ./ish
+ 7137  ls
+ 7138  wc
+ 7139  cls
+ 7140  code
+ 7141  cls
+ 7142  cd ft
+ 7143  cls
+ 7144  ./func
+ 7145  cls
+ 7146  ps
+ 7147  kill 17635
+ 7148  cls
+ 7149  ps
+ 7150  cls
+ 7151  csl
+ 7152  cls
+ 7153  ./ish
+ 7154  csl
+ 7155  cls
+ 7156  ./ish
+ 7157  cls
+ 7158  ./ish
+ 7159  cls
+ 7160  ./ish
+ 7161  cls
+ 7162  ./ish
+ 7163  cls
+ 7164  ls -a |
+ 7165  cls
+ 7166  ./ish
+ 7167  cls
+ 7168  ./ish
+ 7169  cls
+ 7170  ./ish
+ 7171  cls
+ 7172  ./ish
+ 7173  cls
+ 7174  ./ish
+ 7175  cls
+ 7176  ./ish
+ 7177  cls
+ 7178  ./ish
+ 7179  cls
+ 7180  ./ish
+ 7181  cls
+ 7182  ./ish
+ 7183  cls
+ 7184  ./ish
+ 7185  cls
+ 7186  ./ish
+ 7187  csl
+ 7188  cls
+ 7189  ./ii
+ 7190  cls
+ 7191  ./ish
+ 7192  csl
+ 7193  cls
+ 7194  ./ish
+ 7195  cls
+ 7196  ls | wc
+ 7197  ls | wcc
+ 7198  csl
+ 7199  cls
+ 7200  ls | wc
+ 7201  ls
+ 7202  cls
+ 7203  ./ish
+ 7204  cls
+ 7205  ls | wcc
+ 7206  cls
+ 7207  ./ish
+ 7208  csl
+ 7209  cls
+ 7210  ./ish
+ 7211  cls
+ 7212  ./ish
+ 7213  csl
+ 7214  cls
+ 7215  ls | wc
+ 7216  cls
+ 7217  ./ish
+ 7218  cls
+ 7219  ./ish
+ 7220  csl
+ 7221  cls
+ 7222  ./ish
+ 7223  cls
+ 7224  ./ish
+ 7225  cls
+ 7226  ./ish
+ 7227  cls
+ 7228  zcls
+ 7229  lcsx
+ 7230  cls
+ 7231  csl
+ 7232  cls
+ 7233  git add --all
+ 7234  cls
+ 7235  git commit -m "up"
+ 7236  cls
+ 7237  git push origin master
+ 7238  cls
+ 7239  shutdown now
+ 7240  cls
+ 7241  code
+ 7242  ./9
+ 7243  cls
+ 7244  ./9
+ 7245  cls
+ 7246  git add --all
+ 7247  cls
+ 7248  git commit -m "update files"
+ 7249  cls
+ 7250  git push origin master
+ 7251  cls
+ 7252  git push origin master
+ 7253  cls
+ 7254  ./ish
+ 7255  cls
+ 7256  ls
+ 7257  cls
+ 7258  lcs
+ 7259  cls
+ 7260  ./ish
+ 7261  cls
+ 7262  ./ish
+ 7263  cls
+ 7264  ./ish
+ 7265  cls
+ 7266  ./ish
+ 7267  cls
+ 7268  git add -all
+ 7269  cls
+ 7270  git add --all
+ 7271  lc
+ 7272  cls
+ 7273  ./ish
+ 7274  cls
+ 7275  zsh
+ 7276  zhs
+ 7277  cls
+ 7278  zsh
+ 7279  zh
+ 7280  cls
+ 7281  clear
+ 7282  cela
+ 7283  clear
+ 7284  code
+ 7285  cls
+ 7286  ./2s
+ 7287  cls
+ 7288  ./2s
+ 7289  cls
+ 7290  ./2s
+ 7291  cls
+ 7292  ./2s
+ 7293  cls
+ 7294  ./2s
+ 7295  cls
+ 7296  ./2s
+ 7297  cls
+ 7298  ./2s
+ 7299  cls
+ 7300  ./2s
+ 7301  cls
+ 7302  ./2s
+ 7303  cls
+ 7304  ./2s
+ 7305  cls
+ 7306  ./2s
+ 7307  cls
+ 7308  ./2s
+ 7309  ls
+ 7310  ls | wc
+ 7311  cls
+ 7312  ./2s
+ 7313  cls
+ 7314  ./2s
+ 7315  cls
+ 7316  git add --all
+ 7317  cls
+ 7318  git commit -m "update files"
+ 7319  cls
+ 7320  git push origin master
+ 7321  cls
+ 7322  code
+ 7323  ls | wc 
+ 7324  cls
+ 7325  ./2s
+ 7326  cls
+ 7327  ./2s
+ 7328  cls
+ 7329  ./2s
+ 7330  cls
+ 7331  ./2s
+ 7332  cls
+ 7333  ./2s
+ 7334  cls
+ 7335  ./2s
+ 7336  cls
+ 7337  ./2s
+ 7338  cls
+ 7339  ./ish
+ 7340  cls
+ 7341  csl
+ 7342  cs
+ 7343  cls
+ 7344  ./ish
+ 7345  cls
+ 7346  ./ish
+ 7347  cls
+ 7348  ./ish
+ 7349  cls
+ 7350  ./ish
+ 7351  cls
+ 7352  ./ish
+ 7353  cls
+ 7354  ls
+ 7355  cls
+ 7356  ls
+ 7357  cls
+ 7358  ls
+ 7359  cls
+ 7360  ./ish
+ 7361  csl
+ 7362  cls
+ 7363  ./ish
+ 7364  csl
+ 7365  cls
+ 7366  ls | wc
+ 7367  cls
+ 7368  ./ish
+ 7369  cls
+ 7370  ./ish
+ 7371  cls
+ 7372  ./ish
+ 7373  cls
+ 7374  ./ish
+ 7375  cls
+ 7376  ./ish
+ 7377  scl
+ 7378  cls
+ 7379  ./ish
+ 7380  ccl;s
+ 7381  cls
+ 7382  ./ish
+ 7383  cls
+ 7384  localsend_app
+ 7385  code
+ 7386  cd 下载
+ 7387  cls
+ 7388  ls
+ 7389  valgrind ls.c 
+ 7390  ls ls.c
+ 7391  cls
+ 7392  valgrind --leak-check=fill ls.c
+ 7393  valgrind --leak-check=fill ls
+ 7394  cls
+ 7395  code
+ 7396  code 桌面/ls.c
+ 7397  ls
+ 7398  ls -a
+ 7399  clsd
+ 7400  cls
+ 7401  ./ls 
+ 7402  ./ls -asltr
+ 7403  ls -asltr
+ 7404  cls
+ 7405  valgrind --leak-check=full ls.c
+ 7406  valgrind ls.c --leak-check=full 
+ 7407  valgrind ls.c --leak-check=full ls
+ 7408  valgrind --leak-check=full ls
+ 7409  cls
+ 7410  valgrind --leak-check=full ls
+ 7411  valgrind --leak-check=full --show-leak-kinds=all ls
+ 7412  valgrind --leak-check=full --show-leak-kinds=all lscls
+ 7413  csl;
+ 7414  cls
+ 7415  ./ish
+ 7416  cls
+ 7417  ./ish
+ 7418  cls
+ 7419  ./ish
+ 7420  cls
+ 7421  ./ish
+ 7422  csl
+ 7423  cls
+ 7424  ./ish
+ 7425  clks
+ 7426  lcs
+ 7427  cls
+ 7428  ./ish
+ 7429  cls
+ 7430  ls ~
+ 7431  ls /home
+ 7432  cd ~
+ 7433  cls
+ 7434  ls ..
+ 7435  cls
+ 7436  csl
+ 7437  cls
+ 7438  ./I
+ 7439  cls
+ 7440  cd /home/user/CODE/ish/using.cpp
+ 7441  cls
+ 7442  cd /home/user/CODE/ish/
+ 7443  cls
+ 7444  ls
+ 7445  ./ish
+ 7446  cls
+ 7447  git add --all
+ 7448  cls
+ 7449  git commit -m "update files"
+ 7450  clsw
+ 7451  gcls
+ 7452  cls
+ 7453  git push origin master
+ 7454  cls
+ 7455  shutdown now
+ 7456  code CODE/my_ls/
+ 7457  ./ls
+ 7458  cls
+ 7459  ./ls -aRislt / | wc -l
+ 7460  sudo ./ls -aRislt / | wc -l
+ 7461  sudo ls -aRislt / | wc -l
+ 7462  ls -R / | wc -l
+ 7463  sudo ls -Ral / | wc -l
+ 7464  sudo ./ls -Ral / | wc -l
+ 7465  cls
+ 7466  ./ii
+ 7467  cls
+ 7468  ./ish
+ 7469  cls
+ 7470  git add --all
+ 7471  cls
+ 7472  git commit -m "update files"
+ 7473  cls
+ 7474  git push origin master
+ 7475  cls
+ 7476  csl
+ 7477  cls
+ 7478  ./ish
+ 7479  cls
+ 7480  ./ish
+ 7481  ckls
+ 7482  cls
+ 7483  ./ish
+ 7484  cls
+ 7485  ./ish
+ 7486  cls
+ 7487  ls -a
+ 7488  csl
+ 7489  cls
+ 7490  ./ish
+ 7491  cls
+ 7492  ls -l
+ 7493  cls
+ 7494  ls -a
+ 7495  csl
+ 7496  cls
+ 7497  ./ish
+ 7498  cls
+ 7499  ./ish
+ 7500  cls
+ 7501  ./ik
+ 7502  ./ish
+ 7503  cls
+ 7504  ./ish
+ 7505  c
+ 7506  sc
+ 7507  cls
+ 7508  sc
+ 7509  c
+ 7510  gcc ish.cpp -o ish -g
+ 7511  g++ ish.cpp -o ish -g
+ 7512  cls
+ 7513  g++ ish.cpp -o ish -g
+ 7514  g++13 ish.cpp -o ish -g
+ 7515  cls
+ 7516  g++ ish.cpp -o ish -g
+ 7517  cls
+ 7518  g++ ish.cpp -o ish -g
+ 7519  g++ ish.cpp -o ish
+ 7520  g++ ish.cpp
+ 7521  cls
+ 7522  g++ ish.cpp using.cpp -o ish -g
+ 7523  gdb ish --gui
+ 7524  gdb ish child
+ 7525  gdb ish
+ 7526  clz
+ 7527  cls
+ 7528  gdb ish --gui
+ 7529  gdb ish --nui
+ 7530  gdb --help
+ 7531  cls
+ 7532  gdb ish --tui
+ 7533  cls
+ 7534  gdb ish child
+ 7535  cls
+ 7536  gdb ish child
+ 7537  gdb ish
+ 7538  cls
+ 7539  gdb ish --tui
+ 7540  cls
+ 7541  gdb ish
+ 7542  cls
+ 7543  gdb ish --tui
+ 7544  cls
+ 7545  llls
+ 7546  ls
+ 7547  scls
+ 7548  cls
+ 7549  lc
+ 7550  sc
+ 7551  cls
+ 7552  lls
+ 7553  cls
+ 7554  lls
+ 7555  cls
+ 7556  ls
+ 7557  cls
+ 7558  cllccl
+ 7559  scls
+ 7560  lcs
+ 7561  cl
+ 7562  scls
+ 7563  cl
+ 7564  scl
+ 7565  sl
+ 7566  cls
+ 7567  ls -a
+ 7568  cls
+ 7569  ./ish
+ 7570  cls
+ 7571  ./ish
+ 7572  ckls
+ 7573  cls
+ 7574  ./ish
+ 7575  cls
+ 7576  ./ish
+ 7577  c;w
+ 7578  clw
+ 7579  cls
+ 7580  sc
+ 7581  ps
+ 7582  cls
+ 7583  ./ish
+ 7584  cls
+ 7585  ./ish
+ 7586  cls
+ 7587  ./ish
+ 7588  cls
+ 7589  ./ish
+ 7590  cls
+ 7591  ./ish
+ 7592  cls
+ 7593  ./ish
+ 7594  csl
+ 7595  cls
+ 7596  ./ish
+ 7597  skl
+ 7598  cks
+ 7599  cls
+ 7600  ./ish
+ 7601  cls
+ 7602  ./ish
+ 7603  cls
+ 7604  ,/i
+ 7605  ./ish
+ 7606  cls
+ 7607  ./ish
+ 7608  ckls
+ 7609  cls
+ 7610  ./ish
+ 7611  cls
+ 7612  ./ish
+ 7613  cls
+ 7614  ./ish
+ 7615  cls
+ 7616  ./ish
+ 7617  cls
+ 7618  ./ish
+ 7619  cls
+ 7620  ./ish
+ 7621  cls
+ 7622  ./ish
+ 7623  code
+ 7624  ./2s
+ 7625  cls
+ 7626  ./2s
+ 7627  cls
+ 7628  ./2s
+ 7629  cls
+ 7630  ./2s
+ 7631  cls
+ 7632  ./2s
+ 7633  cls
+ 7634  ./2s
+ 7635  cls
+ 7636  ./pipe
+ 7637  cls
+ 7638  ./2
+ 7639  cls
+ 7640  ./2s
+ 7641  cls
+ 7642  ./2s
+ 7643  cls
+ 7644  ./ish
+ 7645  cls
+ 7646  ./ish
+ 7647  c ls
+ 7648  cls
+ 7649  ./ish
+ 7650  ./2s
+ 7651  cls
+ 7652  ./ish
+ 7653  cls
+ 7654  ./ish
+ 7655  cls
+ 7656  ./ish
+ 7657  cls
+ 7658  ./ish
+ 7659  cls
+ 7660  ./ish
+ 7661  cls
+ 7662  ls | wc
+ 7663  cls
+ 7664  ls | wc
+ 7665  cls
+ 7666  ls | wc
+ 7667  cls
+ 7668  ls | wc | wc
+ 7669  ./ish
+ 7670  cls
+ 7671  ./ish
+ 7672  cls
+ 7673  ./ish
+ 7674  cls
+ 7675  ./ish
+ 7676  cls
+ 7677  ./ish
+ 7678  cls
+ 7679  ./ish
+ 7680  cls
+ 7681  ./ish
+ 7682  cls
+ 7683  ./ish
+ 7684  cls
+ 7685  git add --all
+ 7686  cls
+ 7687  git commit -m "update files"
+ 7688  cls
+ 7689  git push origin master
+ 7690  cls
+ 7691  csl
+ 7692  cls
+ 7693  ./ish
+ 7694  cls
+ 7695  ./ish
+ 7696  cls
+ 7697  ./ish
+ 7698  cls
+ 7699  ./ish
+ 7700  cls
+ 7701  ./ish
+ 7702  cls
+ 7703  ls | wc | wc
+ 7704  ./ish
+ 7705  cls
+ 7706  ./ish
+ 7707  cls
+ 7708  ./ish
+ 7709  cls
+ 7710  ./ish
+ 7711  csl
+ 7712  cls
+ 7713  ./ish
+ 7714  cls
+ 7715  ./ish
+ 7716  cls
+ 7717  ./ish
+ 7718  cls
+ 7719  ./ish
+ 7720  cls
+ 7721  ls | wc
+ 7722  ls | wc 
+ 7723  ls |
+ 7724  cls
+ 7725  ls | wc | wc
+ 7726  cls
+ 7727  ./ish
+ 7728  cls
+ 7729  ./ish
+ 7730  cls
+ 7731  ./ish
+ 7732  cls
+ 7733  ./ish
+ 7734  cls
+ 7735  ./ish
+ 7736  clks
+ 7737  cls
+ 7738  ./ish
+ 7739  csl
+ 7740  cls
+ 7741  ls | wc | wc
+ 7742  cls
+ 7743  ls | 
+ 7744  cls
+ 7745  ./ish
+ 7746  cls
+ 7747  ./ish
+ 7748  cls
+ 7749  ./ish
+ 7750  cls
+ 7751  ./ish
+ 7752  git add --all
+ 7753  cls
+ 7754  git commit -m "update files"
+ 7755  cls
+ 7756  git push origin master
+ 7757  cls
+ 7758  lcs
+ 7759  cll.s
+ 7760  lc
+ 7761  scls
+ 7762  cls
+ 7763  ./ish
+ 7764  cls
+ 7765  ls | wc | wc | wc
+ 7766  scls
+ 7767  cls
+ 7768  ./ish
+ 7769  csl
+ 7770  cls
+ 7771  ./ish
+ 7772  cls
+ 7773  ls | wc | wc | wc
+ 7774  cls
+ 7775  git add --all
+ 7776  cls
+ 7777  git commit -m "update files"
+ 7778  cls
+ 7779  git push origin master
+ 7780  cls
+ 7781  git add --all
+ 7782  cls
+ 7783  git commit -m "update files"
+ 7784  clw
+ 7785  csl
+ 7786  cls
+ 7787  git push origin master
+ 7788  cls
+ 7789  ./ish
+ 7790  cls
+ 7791  ./ish
+ 7792  cls
+ 7793  ./ish
+ 7794  cls
+ 7795  ./ish
+ 7796  cls
+ 7797  ./ish
+ 7798  csl
+ 7799  cls
+ 7800  ./ish
+ 7801  cls
+ 7802  ./ish
+ 7803  cls
+ 7804  ./ish
+ 7805  csl
+ 7806  cls
+ 7807  ./ish
+ 7808  c l
+ 7809  cls
+ 7810  ./ish
+ 7811  cslz
+ 7812  cls
+ 7813  ./ish
+ 7814  csl
+ 7815  cls
+ 7816  ./ish
+ 7817  csl
+ 7818  cls
+ 7819  ./ish
+ 7820  csl
+ 7821  cls
+ 7822  ./ish \
+ 7823  csl
+ 7824  cls
+ 7825  ./ish
+ 7826  csl
+ 7827  cls
+ 7828  ./ish
+ 7829  cls
+ 7830  ./ish
+ 7831  csl
+ 7832  cls
+ 7833  ./ish
+ 7834  cls
+ 7835  ./ish
+ 7836  cls
+ 7837  ./ish
+ 7838  cls
+ 7839  ls | wc | wc |wc
+ 7840  cls
+ 7841  zcls
+ 7842  cls
+ 7843  lcs
+ 7844  lc
+ 7845  sl
+ 7846  cls
+ 7847  lcslc
+ 7848  ls
+ 7849  cls
+ 7850  ls
+ 7851  cls
+ 7852  ./ish
+ 7853  cls
+ 7854  ls | wc | wc | wc
+ 7855  cls
+ 7856  ./ish
+ 7857  csl
+ 7858  cls
+ 7859  ./ish
+ 7860  csl
+ 7861  cls
+ 7862  git add --all
+ 7863  cls
+ 7864  git commit -m "update files"
+ 7865  cls
+ 7866  git push origin master
+ 7867  cls
+ 7868  ./ish
+ 7869  localsend_app
+ 7870  cls
+ 7871  ./ish
+ 7872  cls
+ 7873  ./ish
+ 7874  cls
+ 7875  ls -a | wc
+ 7876  ls -a | wc | wc
+ 7877  cls
+ 7878  123 |  grep -C 10 abc | grep -Lefd
+ 7879  cls
+ 7880  ./ft
+ 7881  cls
+ 7882  ls
+ 7883  ./func
+ 7884  cls
+ 7885  ls | wc
+ 7886  ls | wc | wc
+ 7887  ls | wc | wc | echo
+ 7888  cls
+ 7889  echo ls | wc
+ 7890  cls
+ 7891  ls&
+ 7892  cls
+ 7893  fg
+ 7894  bg
+ 7895  cls
+ 7896  ./ish
+ 7897  cls
+ 7898  ./ish
+ 7899  cls
+ 7900  ls &
+ 7901  cls
+ 7902  ./ish
+ 7903  cls
+ 7904  ./ish
+ 7905  clks
+ 7906  lcs
+ 7907  kcs
+ 7908  cls
+ 7909  ./ish
+ 7910  cls
+ 7911  ./ish
+ 7912  cls
+ 7913  git push origin master
+ 7914  ./ish
+ 7915  cls
+ 7916  ./ish
+ 7917  reboot
+ 7918  wechat
+ 7919  cls
+ 7920  reboot
+ 7921  localsend_app
+ 7922  reboot
+ 7923  cls
+ 7924  lcs
+ 7925  cls
+ 7926  v2raya.v2raya-browser-wrapper
+ 7927  code CODE/tlpi/TLPI/c24
+ 7928  cd yj
+ 7929  cls
+ 7930  ls
+ 7931  cls
+ 7932  gcc yjsj.c 
+ 7933  cls
+ 7934  gcc yjsj.c -lreadline
+ 7935  sudo apt-get install libreadline-dev
+ 7936  cls
+ 7937  gcc yjsj.c -lreadline
+ 7938  ./a.out
+ 7939  cls
+ 7940  clear
+ 7941  cls
+ 7942  ./ish
+ 7943  clscls
+ 7944  lcs
+ 7945  cls
+ 7946  ./ish
+ 7947  cls
+ 7948  l
+ 7949  cls
+ 7950  ./ish
+ 7951  cls
+ 7952  ls
+ 7953  cls
+ 7954  ls -R
+ 7955  cls
+ 7956  ./ish
+ 7957  cls
+ 7958  ./ish
+ 7959  cls
+ 7960  git add --all
+ 7961  cls
+ 7962  git commit -m "update fileszx"
+ 7963  cls
+ 7964  git push origin master
+ 7965  reboot
+ 7966  cls
+ 7967  lc
+ 7968  slcs
+ 7969  cls
+ 7970  ls
+ 7971  cls
+ 7972  ls 
+ 7973  cls
+ 7974  ls |
+ 7975  cls
+ 7976  ls |\nwc
+ 7977  cls
+ 7978  ls | \nwc | wc
+ 7979  cls
+ 7980  lcs
+ 7981  cls
+ 7982  g++ ish.cpp using.cpp -lreadline
+ 7983  cls
+ 7984  g++ ish.cpp using.cpp -lreadline
+ 7985  ./a.out
+ 7986  cls
+ 7987  ./a.out
+ 7988  csl
+ 7989  cls
+ 7990  ./a.out
+ 7991  cls
+ 7992  ./
+ 7993  cls
+ 7994  ./a.out
+ 7995  cls
+ 7996  ./a.out
+ 7997  clscls
+ 7998  cls
+ 7999  ./ish
+ 8000  cls
+ 8001  git add --all
+ 8002  cls
+ 8003  git commit -m "update files"
+ 8004  cls
+ 8005  git push origin master
+ 8006  cls
+ 8007  ./te
+ 8008  cls
+ 8009  ./te
+ 8010  cls
+ 8011  ./te.cpp
+ 8012  cls
+ 8013  g++ 3s.cpp
+ 8014  cls
+ 8015  ./a.out
+ 8016  ls
+ 8017  cls
+ 8018  g++ 3s.cpp
+ 8019  ./a.out
+ 8020  cls
+ 8021  ./3s
+ 8022  cls
+ 8023  ./3s
+ 8024  cls
+ 8025  ./3s
+ 8026  cls
+ 8027  ./3s
+ 8028  cls
+ 8029  gcc zhilu.c 
+ 8030  gcc zhilu.c -o 1
+ 8031  gcc zhilu.c -o 12
+ 8032  ./12
+ 8033  cls
+ 8034  ./12
+ 8035  cls
+ 8036  ls
+ 8037  ./12
+ 8038  cls
+ 8039  ./12 /
+ 8040  cls
+ 8041  ./12 /
+ 8042  cls
+ 8043  ./12 -Ral /
+ 8044  ./12 -Ral ~
+ 8045  cls
+ 8046  ./12
+ 8047  cls
+ 8048  ./12 1
+ 8049  cls
+ 8050  ./12 /
+ 8051  cls
+ 8052  ./12 -R /
+ 8053  ./12 -R ~
+ 8054  ./12 -R /
+ 8055  ./12 -R /bin
+ 8056  cls
+ 8057  ./3s
+ 8058  cls
+ 8059  !
+ 8060  cls
+ 8061  !
+ 8062  cls
+ 8063  !
+ 8064  cls
+ 8065  ?
+ 8066  cls
+ 8067  !
+ 8068  cls
+ 8069  ls!
+ 8070  cls
+ 8071  ls !
+ 8072  cls
+ 8073  ./ft/func
+ 8074  cls
+ 8075  ./pipe
+ 8076  cls
+ 8077  ./3s
+ 8078  cls
+ 8079  clear
+ 8080  c
+ 8081  lc
+ 8082  sls
+ 8083  cls
+ 8084  !
+ 8085  cls
+ 8086  !
+ 8087  cls
+ 8088  !
+ 8089  cls
+ 8090  !
+ 8091  cls
+ 8092  @
+ 8093  cls
+ 8094  !
+ 8095  cls
+ 8096  !
+ 8097  cls
+ 8098  !
+ 8099  cls
+ 8100  clscls
+ 8101  cls
+ 8102  !
+ 8103  cl
+ 8104  scls
+ 8105  cls
+ 8106  bash
+ 8107  cls
+ 8108  zsh
+ 8109  zshj
+ 8110  cls
+ 8111  ./ish
+ 8112  cls;
+ 8113  kill 19299
+ 8114  kill 21059
+ 8115  cls
+ 8116  ps
+ 8117  exit
+ 8118  echo 1>> 1
+ 8119  cls
+ 8120  1<
+ 8121  cls
+ 8122  1<2
+ 8123  cls
+ 8124  ./ish
+ 8125  ls<
+ 8126  cacl
+ 8127  clear
+ 8128  caclear
+ 8129  clear
+ 8130  l<c
+ 8131  s
+ 8132  cls
+ 8133  ./ish
+ 8134  cls
+ 8135  kill 25657
+ 8136  cls
+ 8137  kill 26532
+ 8138  cls
+ 8139  ps
+ 8140  cls
+ 8141  view
+ 8142  c;s
+ 8143  cls
+ 8144  vim
+ 8145  cls
+ 8146  git add --all
+ 8147  cls
+ 8148  git commit -m "update files"
+ 8149  cls
+ 8150  git push origin master
+ 8151  cls
+ 8152  code
+ 8153  /lost+found
+ 8154  cls
+ 8155  ./fo
+ 8156  cls
+ 8157  ls
+ 8158  cls
+ 8159  ./func n
+ 8160  cls
+ 8161  echo 1>1.txt
+ 8162  cls
+ 8163  ./ish.cpp
+ 8164  cls
+ 8165  ./ish.cpp
+ 8166  cls
+ 8167  ./ish
+ 8168  cls
+ 8169  echo 123
+ 8170  ehco 123 456
+ 8171  cls
+ 8172  echo1
+ 8173  echo 
+ 8174  echo 123 456
+ 8175  cls
+ 8176  echo 123 456
+ 8177  xlsa
+ 8178  xla
+ 8179  cls
+ 8180  echo "1" > 1
+ 8181  ./ish
+ 8182  csl
+ 8183  cls
+ 8184  ./ish
+ 8185  cls
+ 8186  ./ish
+ 8187  cls
+ 8188  ./ish
+ 8189  cls
+ 8190  ./ish
+ 8191  cls
+ 8192  ./ish
+ 8193  cls
+ 8194  ./ish
+ 8195  cls
+ 8196  ./ish
+ 8197  cls
+ 8198  ./ish
+ 8199  cls
+ 8200  ./ish
+ 8201  csl
+ 8202  cls
+ 8203  ./ish
+ 8204  cls
+ 8205  ./ish
+ 8206  cls
+ 8207  ./ish
+ 8208  cls
+ 8209  ./ish
+ 8210  cls
+ 8211  cat < 1
+ 8212  cls
+ 8213  ./ish
+ 8214  cls
+ 8215  ./ish
+ 8216  cls
+ 8217  ./ish
+ 8218  cls
+ 8219  git add  --all
+ 8220  cls
+ 8221  git commit -m "update files"
+ 8222  cls
+ 8223  git  push origin master
+ 8224  cls
+ 8225  ./ish
+ 8226  cls
+ 8227  ./ish
+ 8228  cls
+ 8229  ./ish
+ 8230  cls
+ 8231  tac >> 2.txt
+ 8232  cls
+ 8233  ./ish
+ 8234  cls
+ 8235  tac > 2.txt
+ 8236  ./ish
+ 8237  cls
+ 8238  tar -
+ 8239  tar --
+ 8240  cls
+ 8241  tar > 2.txt
+ 8242  cls
+ 8243  tar >> 2.txt
+ 8244  cls
+ 8245  ./ish
+ 8246  cls
+ 8247  ./ish
+ 8248  cls
+ 8249  ./ish
+ 8250  cls
+ 8251  ./ish
+ 8252  cls
+ 8253  ./ish
+ 8254  cls
+ 8255  ./ish
+ 8256  cls
+ 8257  ./ish
+ 8258  cl
+ 8259  scls
+ 8260  cls
+ 8261  ./ish
+ 8262  cls
+ 8263  tac > 3.txt
+ 8264  cls
+ 8265  tac 
+ 8266  cks
+ 8267  cls
+ 8268  ./ish
+ 8269  cls
+ 8270  lcs
+ 8271  cls
+ 8272  ./ish
+ 8273  cls
+ 8274  echo 1 > 1
+ 8275  cls
+ 8276  ./ish
+ 8277  cls
+ 8278  ./ish
+ 8279  cls
+ 8280  ./ish
+ 8281  cls
+ 8282  ./ish
+ 8283  cls
+ 8284  ./ish
+ 8285  cls
+ 8286  ./ish
+ 8287  cls
+ 8288  ./ish
+ 8289  cls
+ 8290  ./ish
+ 8291  csl
+ 8292  cls
+ 8293  kill 50407
+ 8294  cls
+ 8295  ./ish
+ 8296  cls
+ 8297  ./ish
+ 8298  cls
+ 8299  ./ish
+ 8300  s
+ 8301  cls
+ 8302  lcs
+ 8303  lc
+ 8304  slc
+ 8305  ls
+ 8306  cls
+ 8307  lc
+ 8308  ls
+ 8309  cls
+ 8310  clslc
+ 8311  ls
+ 8312  lcslcslcs
+ 8313  lc
+ 8314  s
+ 8315  cls
+ 8316  ./ish
+ 8317  CSL
+ 8318  CLS
+ 8319  LCcls
+ 8320  lcs
+ 8321  cls
+ 8322  ./ish
+ 8323  cls
+ 8324  ./ish
+ 8325  ckls
+ 8326  cls
+ 8327  ./ish
+ 8328  cls
+ 8329  ./ish
+ 8330  cls
+ 8331  ./ish
+ 8332  cls
+ 8333  sldsd
+ 8334  clsadlskdskdsdinaujisfhdnujiahjd
+ 8335  cls
+ 8336  zcskikfdjiosjafdiojiofdjsiojfdiossssssssssssssssssssssssssssssssssssssssssssssssssdddd
+ 8337  sidddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ 8338  ./ish
+ 8339  csl
+ 8340  cls
+ 8341  ./ish
+ 8342  cls
+ 8343  ./ish
+ 8344  cls
+ 8345  echo hello world > 1.txt
+ 8346  cat < 1 | wc
+ 8347  cls
+ 8348  cat < ./1 | wc
+ 8349  cls
+ 8350  ls
+ 8351  cls
+ 8352  cat < 1.txt | wc
+ 8353  cls
+ 8354  ./ish
+ 8355  csl
+ 8356  cls
+ 8357  ./ish
+ 8358  code
+ 8359  CLS
+ 8360  ,CS
+ 8361  cls
+ 8362  ./ish
+ 8363  ./te.cpp
+ 8364  cls
+ 8365  cd ..
+ 8366  cls
+ 8367  cd c6
+ 8368  cls
+ 8369  ls
+ 8370  cd ..
+ 8371  cls
+ 8372  cd c4
+ 8373  cls
+ 8374  ls
+ 8375  ./tee
+ 8376  ./tee 2
+ 8377  ./tee 2 
+ 8378  cls
+ 8379  ./tee
+ 8380  cls
+ 8381  ./tee
+ 8382  ./tee 1
+ 8383  skl
+ 8384  cks
+ 8385  lc
+ 8386  slc
+ 8387  slcls
+ 8388  cls
+ 8389  ./ish
+ 8390  cls
+ 8391  ./ish
+ 8392  clsxz
+ 8393  cls
+ 8394  ./ish
+ 8395  cls
+ 8396  cat < 1.txt | grep -C 10 abc | grep -Lefd | tac >> 2.txt
+ 8397  cls
+ 8398  ./ish
+ 8399  csl
+ 8400  cls
+ 8401  ls /
+ 8402  ls / -a
+ 8403  ./ish
+ 8404  csl
+ 8405  cls
+ 8406  ls /
+ 8407  ls -a /
+ 8408  cls
+ 8409  ./ish
+ 8410  csl
+ 8411  cls
+ 8412  ./ish
+ 8413  cls
+ 8414  ./ish
+ 8415  cs;l
+ 8416  c;s
+ 8417  lcs
+ 8418  cls
+ 8419  cat < 1.txt | grep -C 10 abc | grep -Lefd | tac >> 2.txt
+ 8420  cls
+ 8421  ./ish
+ 8422  cls
+ 8423  ./ish
+ 8424  csl
+ 8425  cls
+ 8426  ./ish
+ 8427  cls
+ 8428  ./ish
+ 8429  cls
+ 8430  ./ish
+ 8431  lcls
+ 8432  cls
+ 8433  ./ish
+ 8434  cls
+ 8435  ./ish
+ 8436  cls
+ 8437  ./ish
+ 8438  cls
+ 8439  ./ish
+ 8440  cls
+ 8441  ./ish
+ 8442  cls
+ 8443  ./ish
+ 8444  csl
+ 8445  cls
+ 8446  ./ish
+ 8447  cls
+ 8448  ./ish
+ 8449  cls
+ 8450  ./ish
+ 8451  cls
+ 8452  ./ish
+ 8453  csl
+ 8454  cls
+ 8455  ./ish
+ 8456  csl
+ 8457  cls
+ 8458  ./ish
+ 8459  csl
+ 8460  cls
+ 8461  ./ish
+ 8462  cls
+ 8463  ./ish
+ 8464  csl
+ 8465  cls
+ 8466  ./ish
+ 8467  cls
+ 8468  ./ish
+ 8469  csl
+ 8470  cl
+ 8471  scls
+ 8472  ls
+ 8473  cls
+ 8474  ./ish
+ 8475  csl
+ 8476  cls
+ 8477  ./ish
+ 8478  cls
+ 8479  ./ish
+ 8480  csl
+ 8481  cls
+ 8482  ./ish
+ 8483  csl
+ 8484  cls
+ 8485  ./ish
+ 8486  cslk
+ 8487  cls
+ 8488  ./ish
+ 8489  cls
+ 8490  ./ish
+ 8491  cls
+ 8492  help
+ 8493  cls
+ 8494  -help
+ 8495  cls
+ 8496  --help
+ 8497  cls
+ 8498  --help
+ 8499  cls
+ 8500  -h
+ 8501  cls
+ 8502  ./ish
+ 8503  csl;
+ 8504  lcs
+ 8505  cls
+ 8506  ./ish
+ 8507  csl
+ 8508  cls
+ 8509  ./ish
+ 8510  cls
+ 8511  ./ish
+ 8512  cls
+ 8513  ./ish
+ 8514  csl
+ 8515  cls
+ 8516  ./ish
+ 8517  cls
+ 8518  ./ish
+ 8519  cls
+ 8520  ./ish
+ 8521  cls
+ 8522  ./ish
+ 8523  cls
+ 8524  ./ish
+ 8525  cls
+ 8526  ./ish
+ 8527  cls
+ 8528  cl
+ 8529  s.c
+ 8530  cls
+ 8531  ./ish
+ 8532  cls
+ 8533  ./ish
+ 8534  cls
+ 8535  git add --all
+ 8536  cls
+ 8537  git commit -m "up"
+ 8538  cls
+ 8539  git push origin master
+ 8540  cd CODE/ish
+ 8541  ls
+ 8542  g++ using.cpp ish.cpp -o sh -g -Wall
+ 8543  ls
+ 8544  valgrind --tool=memcheck --leak-check-full ./sh
+ 8545  valgrind --tool=memcheck --leak-check=full ./sh
+ 8546  ./ish
+ 8547  ccls
+ 8548  cls
+ 8549  ./ish
+ 8550  ls
+ 8551  cls
+ 8552  ./ish
+ 8553  lcs
+ 8554  cls
+ 8555  ./ish
+ 8556  cls
+ 8557  ./ish
+ 8558  clks
+ 8559  cls
+ 8560  ./ish
+ 8561  cls
+ 8562  cl
+ 8563  scls
+ 8564  lcs
+ 8565  kcs
+ 8566  lcs
+ 8567  cls
+ 8568  ./ish
+ 8569  cls
+ 8570  cat < 12111.txt
+ 8571  cls
+ 8572  ./ish
+ 8573  grep "rzj" > 2.txt < 1.txt
+ 8574  cls
+ 8575  grep "rzj" > 2.txt < 1.txt
+ 8576  cls
+ 8577  ./ish
+ 8578  cls
+ 8579  ./ish
+ 8580  cls
+ 8581  ./ish
+ 8582  ckls
+ 8583  cls
+ 8584  ./ish
+ 8585  cls
+ 8586  ./ish
+ 8587  clks
+ 8588  cls
+ 8589  ./ish
+ 8590  cls
+ 8591  valgrind --leak-check=full ./ish
+ 8592  cls
+ 8593  git add --all
+ 8594  cls
+ 8595  git add --all
+ 8596  cls
+ 8597  git add --all
+ 8598  cls
+ 8599  git add --all
+ 8600  cls
+ 8601  ./ish
+ 8602  cls
+ 8603  git add --all
+ 8604  cls
+ 8605  git commit -m "update finenal"
+ 8606  git commit -m "update finnal"
+ 8607  cksk
+ 8608  cls
+ 8609  git push origin master
+ 8610  cls
+ 8611  lcs
+ 8612  lc
+ 8613  slc
+ 8614  ls
+ 8615  cl
+ 8616  slcls
+ 8617  cls
+ 8618  ./ish
+ 8619  ./lsd
+ 8620  cl
+ 8621  s./
+ 8622  cls
+ 8623  ./ls
+ 8624  cl
+ 8625  scls
+ 8626  cls
+ 8627  shutdown now
+ 8628  cls
+ 8629  l
+ 8630  cslcs
+ 8631  cls
+ 8632  ./ish
+ 8633  cls
+ 8634  cl;s
+ 8635  cls
+ 8636  cl
+ 8637  sc;l
+ 8638  s
+ 8639  cls
+ 8640  ./ish
+ 8641  cls
+ 8642  ./ii
+ 8643  cl
+ 8644  scls
+ 8645  cls
+ 8646  ./ish
+ 8647  csl
+ 8648  cl
+ 8649  scl
+ 8650  scls
+ 8651  cls
+ 8652  ./ish
+ 8653  csl
+ 8654  cls
+ 8655  ./ish
+ 8656  cls
+ 8657  git commit -m "update files"
+ 8658  cls
+ 8659  git push origin master
+ 8660  cls
+ 8661  ./ish
+ 8662  cls
+ 8663  scl
+ 8664  scls
+ 8665  cls
+ 8666  csl
+ 8667  cls
+ 8668  cs
+ 8669  ,cls
+ 8670  cls
+ 8671  cl
+ 8672  scl
+ 8673  scls
+ 8674  lc
+ 8675  scls
+ 8676  cl
+ 8677  scl
+ 8678  cls
+ 8679  ./ish
+ 8680  cls
+ 8681  ./ish
+ 8682  cls
+ 8683  git add --all
+ 8684  cls
+ 8685  git commit -m "update files"
+ 8686  cls
+ 8687  git push origin master
+ 8688  git commit -m "1"
+ 8689  git add --all
+ 8690  git commit -m "1"
+ 8691  git push origin master
+ 8692  cls
+ 8693  reboot
+ 8694  ls /
+ 8695  cls
+ 8696  ls /bin
+ 8697  ls /bin -l
+ 8698  cls
+ 8699  ls
+ 8700  cls
+ 8701  ls -l
+ 8702  cls
+ 8703  ls /bin
+ 8704  ls /bin -l
+ 8705  ls /bin/ -l
+ 8706  cls
+ 8707  ls
+ 8708  cls
+ 8709  ./ish
+ 8710  csl
+ 8711  cls
+ 8712  code
+ 8713  ./ls
+ 8714  cls
+ 8715  ./ls ~
+ 8716  cls
+ 8717  ./ls
+ 8718  cls
+ 8719  ./ls
+ 8720  cls
+ 8721  ./ls ~
+ 8722  cls
+ 8723  ./ls
+ 8724  csl
+ 8725  cls
+ 8726  ./ls 
+ 8727  ./ls ~
+ 8728  cls
+ 8729  ./ls
+ 8730  c;ls
+ 8731  cls
+ 8732  ./ls
+ 8733  cls
+ 8734  ./ls -aRl
+ 8735  cls
+ 8736  ./ish
+ 8737  cls
+ 8738  <
+ 8739  >
+ 8740  <
+ 8741  >
+ 8742  cls
+ 8743  csl
+ 8744  cls
+ 8745  ./ish
+ 8746  cl s
+ 8747  cls
+ 8748  ./ish
+ 8749  cls
+ 8750  ./ish
+ 8751  123 > 1
+ 8752  ./ish
+ 8753  cls
+ 8754  ./ish
+ 8755  cls
+ 8756  ./ish
+ 8757  csl
+ 8758  cls
+ 8759  ./ish
+ 8760  cls
+ 8761  ./ish
+ 8762  cks
+ 8763  kcs
+ 8764  cls
+ 8765  <<>>
+ 8766  ckl
+ 8767  cls
+ 8768  ./ish
+ 8769  ck
+ 8770  scls
+ 8771  lcs
+ 8772  cls
+ 8773  ./ish
+ 8774  csl
+ 8775  cls
+ 8776  ./ish
+ 8777  cls
+ 8778  ./ish
+ 8779  cls
+ 8780  <
+ 8781  cl
+ 8782  scls
+ 8783  cls
+ 8784  ./ish
+ 8785  cls
+ 8786  ./ish
+ 8787  cls
+ 8788  ./ish
+ 8789  cls
+ 8790  ./ish
+ 8791  cls
+ 8792  ./ish
+ 8793  cls
+ 8794  ./ish
+ 8795  cls
+ 8796  ./ish
+ 8797  cls
+ 8798  qwqw
+ 8799  q
+ 8800  qw
+ 8801  q
+ 8802  w
+ 8803  q
+ 8804  w
+ 8805  ew
+ 8806  q
+ 8807  e
+ 8808  qw
+ 8809  ewq
+ 8810  cls
+ 8811  cl
+ 8812  scls
+ 8813  cls
+ 8814  ./ish
+ 8815  cls
+ 8816  wdswdw|wdwdwd
+ 8817  cls
+ 8818  <|>
+ 8819  cls
+ 8820  ./ish
+ 8821  cls
+ 8822  ./ish
+ 8823  ls
+ 8824  cls
+ 8825  daksdnm>qwqw
+ 8826  cls
+ 8827  dasdsas > dsds
+ 8828  cls
+ 8829  dfsds > dsasda
+ 8830  cls
+ 8831  ./ish
+ 8832  cls
+ 8833  ./ish
+ 8834  cls
+ 8835  ./shell.hpp
+ 8836  cls
+ 8837  ./ish
+ 8838  cls
+ 8839  git add --all
+ 8840  cls
+ 8841  git add --a;;
+ 8842  lc
+ 8843  scsl
+ 8844  cls
+ 8845  git add --all
+ 8846  cls
+ 8847  git add --all
+ 8848  cls
+ 8849  git commit -m "update files"
+ 8850  cls
+ 8851  git push origin master
+ 8852  cls
+ 8853  l
+ 8854  cls
+ 8855  l
+ 8856  lcs
+ 8857  lc
+ 8858  sl
+ 8859  cscl
+ 8860  s
+ 8861  lcs
+ 8862  csl
+ 8863  cls
+ 8864  c.,s
+ 8865  lc
+ 8866  slc
+ 8867  ls
+ 8868  cls
+ 8869  cl
+ 8870  sl
+ 8871  cls
+ 8872  ./i
+ 8873  cls
+ 8874  ./ish
+ 8875  cls
+ 8876  ./ish
+ 8877  cls
+ 8878  ./ish
+ 8879  cls
+ 8880  ./ish
+ 8881  cls
+ 8882  ./ish
+ 8883  cls
+ 8884  git branch –show-current
+ 8885  git branch 
+ 8886  cls
+ 8887  git branch --show-current
+ 8888  git branch –show-current
+ 8889  git branch show-current
+ 8890  cls
+ 8891  csl
+ 8892  cls
+ 8893  ./ish
+ 8894  cls
+ 8895  ./ish
+ 8896  cls
+ 8897  ./ish
+ 8898  dsa|w
+ 8899  ./ish
+ 8900  ckls
+ 8901  cls
+ 8902  ./ish
+ 8903  cls
+ 8904  ./ish
+ 8905  CLS
+ 8906  xls
+ 8907  acls
+ 8908  cls
+ 8909  ./ish
+ 8910  cls
+ 8911  <>
+ 8912  xla
+ 8913  cls
+ 8914  ./ish
+ 8915  cls
+ 8916  csl
+ 8917  cls
+ 8918  cat < 1
+ 8919  cls
+ 8920  ./ish
+ 8921  cls
+ 8922  ./ish
+ 8923  cls
+ 8924  ./ish
+ 8925  cls
+ 8926  ./ish
+ 8927  cls
+ 8928  ./ish
+ 8929  cls
+ 8930  ./ish
+ 8931  cls
+ 8932  ./ish
+ 8933  cls
+ 8934  ./ish
+ 8935  cls
+ 8936  ./ish
+ 8937  cls
+ 8938  ./ish
+ 8939  cls
+ 8940  ./ish
+ 8941  csl
+ 8942  cls
+ 8943  ./ish
+ 8944  cls
+ 8945  ./i
+ 8946  ./ish
+ 8947  cls
+ 8948  ./ish
+ 8949  cls
+ 8950  ./ish
+ 8951  cls
+ 8952  ./ish
+ 8953  cls
+ 8954  ./ish
+ 8955  cls
+ 8956  ./ish
+ 8957  cls
+ 8958  ./ish
+ 8959  cls
+ 8960  skdskdksd
+ 8961  kdskds
+ 8962  cls
+ 8963  ./ish
+ 8964  cls
+ 8965  < >
+ 8966  ./ish
+ 8967  cls
+ 8968  ./ish
+ 8969  cls
+ 8970  ./ish
+ 8971  csl
+ 8972  cls
+ 8973  ./ish
+ 8974  cls
+ 8975  ./ish
+ 8976  cls
+ 8977  ./ish
+ 8978  localsend_app
+ 8979  cls
+ 8980  ./ish
+ 8981  cls
+ 8982  ./ish
+ 8983  exit
+ 8984  ./ish
+ 8985  exit
+ 8986  cd ./githubPages
+ 8987  cls
+ 8988  ./NewPage
+ 8989  cls
+ 8990  git init
+ 8991  cls
+ 8992  git clone git@github.com:Aetherance/Aetherance.github.io.git
+ 8993  rmdir Aetherance.github.io
+ 8994  cls
+ 8995  git init
+ 8996  cls
+ 8997  ls
+ 8998  cls
+ 8999  rm Aetherance.github.io
+ 9000  cls
+ 9001  ls
+ 9002  cls
+ 9003  git clone git@github.com:Aetherance/Aetherance.github.io.git
+ 9004  ls
+ 9005  cls
+ 9006  cd ..
+ 9007  cls
+ 9008  ls
+ 9009  cls
+ 9010  cd /home/user/CODE/githubPages
+ 9011  cls
+ 9012  ls
+ 9013  git clone /home/user/CODE/githubPages
+ 9014  git clone git@github.com:Aetherance/Aetherance.github.io.git
+ 9015  cls
+ 9016  cd Aetherance.github.io
+ 9017  cls
+ 9018  ls
+ 9019  cls
+ 9020  ls
+ 9021  cls
+ 9022  ls
+ 9023  cls
+ 9024  ls
+ 9025  cls
+ 9026  ls
+ 9027  cls
+ 9028  git remote
+ 9029  cls
+ 9030  git init
+ 9031  cls
+ 9032  git remote
+ 9033  git remote add origin git@github.com:Aetherance/Aetherance.github.io.git
+ 9034  cls
+ 9035  ls
+ 9036  cls
+ 9037  echo readme >> README.md
+ 9038  cls
+ 9039  ls
+ 9040  cls
+ 9041  git add --all
+ 9042  cls
+ 9043  git commit -m "update the readme files"
+ 9044  cls
+ 9045  git push origin main
+ 9046  cls
+ 9047  git clone git@github.com:Aetherance/Aetherance.github.io.git
+ 9048  cls
+ 9049  ls
+ 9050  cls
+ 9051  ls
+ 9052  cls
+ 9053  a
+ 9054  cls
+ 9055  Aetherance.github.io
+ 9056  cls
+ 9057  ls
+ 9058  cls
+ 9059  git add --all
+ 9060  cls
+ 9061  git commit -m "update files"
+ 9062  c;s
+ 9063  cs
+ 9064  cls
+ 9065  git add --all
+ 9066  cls
+ 9067  git commit -m "update files\n"
+ 9068  cls
+ 9069  git push origin master
+ 9070  git commit -m chage
+ 9071  git add --all
+ 9072  cls
+ 9073  git commit -m "update files"
+ 9074  cls
+ 9075  git push origin master
+ 9076  cls
+ 9077  git add --all
+ 9078  cls
+ 9079  git commit -m "up"
+ 9080  cls
+ 9081  git push origin master
+ 9082  pull
+ 9083  cls
+ 9084  git pull
+ 9085  cls
+ 9086  git init
+ 9087  cls
+ 9088  git remote
+ 9089  cls
+ 9090  git push origin master
+ 9091  cls
+ 9092  git add --all
+ 9093  cls
+ 9094  git commit -m "update files"
+ 9095  cls
+ 9096  git push origin master
+ 9097  cls
+ 9098  git add --all
+ 9099  cls
+ 9100  shutdown now
+ 9101  cls
+ 9102  csl
+ 9103  cls
+ 9104  git remote arr origin git@github.com:Aetherance/Golang.git
+ 9105  git remote add origin git@github.com:Aetherance/Golang.git
+ 9106  cls
+ 9107  git init
+ 9108  cls
+ 9109  git remote add go git@github.com:Aetherance/Golang.git
+ 9110  cls
+ 9111  git remote show
+ 9112  git remote rename go origin
+ 9113  cls
+ 9114  git remote show
+ 9115  cls
+ 9116  git branch show
+ 9117  cls
+ 9118  git add --all
+ 9119  cls
+ 9120  git commit -m "update the readme file"
+ 9121  c;s
+ 9122  cls
+ 9123  git push origin master
+ 9124  cls
+ 9125  uname -m
+ 9126  cls
+ 9127  wget https://dl.google.com/go/go1.20.4.linux-amd64.tar.gz\n
+ 9128  sudo tar -C /usr/local -xzf go1.20.4.linux-amd64.tar.gz\n
+ 9129  ls /usr/local
+ 9130  ls /usr/local/go
+ 9131  cls
+ 9132  sudo tar -C /usr/local -xzf go1.20.4.linux-amd64.tar.gz\n
+ 9133  cls
+ 9134  ls /usr/local/go
+ 9135  ls /usr/local/
+ 9136  cls
+ 9137  vim ~/.profile\n
+ 9138  cls
+ 9139  ls
+ 9140  cls
+ 9141  go version
+ 9142  cls
+ 9143  go
+ 9144  cls
+ 9145  cl s
+ 9146  cls
+ 9147  go
+ 9148  gorun
+ 9149  cls
+ 9150  vim ~/.profile\n
+ 9151  cls
+ 9152  go
+ 9153  cls
+ 9154  source ~/.profile\n
+ 9155  cls
+ 9156  go
+ 9157  cls
+ 9158  go version
+ 9159  cls
+ 9160  lcs
+ 9161  cls
+ 9162  cks
+ 9163  cls
+ 9164  sudo apt update
+ 9165  apt list --upgradable
+ 9166  sudo apt update
+ 9167  sudo apt update all
+ 9168  cls
+ 9169  go version
+ 9170  go run
+ 9171  go run 1.go
+ 9172  cls
+ 9173  sudo apt install golang
+ 9174  go
+ 9175  cls
+ 9176  go version
+ 9177  cls
+ 9178  sudo apt install golang
+ 9179  cls
+ 9180  ls /dev/cls
+ 9181  lcls
+ 9182  cls
+ 9183  ls /usr/local
+ 9184  ls /usr/local/go
+ 9185  ls /usr/
+ 9186  cls
+ 9187  ls /usr
+ 9188  ls /usr/src
+ 9189  ks
+ 9190  cls
+ 9191  go run 1.go
+ 9192  cls
+ 9193  go run 1.go
+ 9194  cls
+ 9195  go run 1.go
+ 9196  cls
+ 9197  go run 1.go
+ 9198  cls
+ 9199  lcs
+ 9200  cls
+ 9201  git add --all
+ 9202  cls
+ 9203  git commit -m "update files"
+ 9204  cls
+ 9205  git push origin master
+ 9206  cls
+ 9207  csl
+ 9208  cls
+ 9209  go run 1.go
+ 9210  cls
+ 9211  ls /
+ 9212  ls /bin
+ 9213  cls
+ 9214  my_ls_test
+ 9215  cls
+ 9216  cl
+ 9217  scls
+ 9218  cls
+ 9219  cl
+ 9220  csl
+ 9221  cls
+ 9222  go run 1.go
+ 9223  cls
+ 9224  go run 1.go
+ 9225  cl
+ 9226  scls
+ 9227  cls
+ 9228  go run 1.go
+ 9229  cls
+ 9230  go run 1.go
+ 9231  cls
+ 9232  go run 1.go
+ 9233  cls
+ 9234  go run 1.go
+ 9235  cls
+ 9236  go run 1.go
+ 9237  cls
+ 9238  go run 1.go
+ 9239  cls
+ 9240  go run 1.go
+ 9241  cls
+ 9242  go run 1.go
+ 9243  cls
+ 9244  go run 1.go
+ 9245  cls
+ 9246  go run 1.go
+ 9247  cls
+ 9248  go run 1.go
+ 9249  cls
+ 9250  go run 1.go
+ 9251  cl
+ 9252  scls
+ 9253  cls
+ 9254  go run 1.go
+ 9255  cls
+ 9256  go run 1.go
+ 9257  cls
+ 9258  go run 1.go
+ 9259  cls
+ 9260  go run 1.go
+ 9261  cls
+ 9262  go run 1.go
+ 9263  cls
+ 9264  go run 1.go
+ 9265  go run
+ 9266  go run 1.go
+ 9267  cls
+ 9268  go run 1.go
+ 9269  cls
+ 9270  go run 1.go
+ 9271  vlxsz
+ 9272  vls
+ 9273  cls
+ 9274  go run 1.go
+ 9275  cls
+ 9276  go run 1.go
+ 9277  cls
+ 9278  go run 1.go
+ 9279  cls
+ 9280  go run 1.go
+ 9281  cls
+ 9282  go run 1.go
+ 9283  cls
+ 9284  go run 1.go
+ 9285  cks
+ 9286  cls
+ 9287  go run 1.go
+ 9288  cls
+ 9289  go run 1.go
+ 9290  cls
+ 9291  go run 1.go
+ 9292  cls
+ 9293  go run 1.go
+ 9294  cls
+ 9295  go run 1.go
+ 9296  cls
+ 9297  go run 1.go
+ 9298  cl
+ 9299  scls
+ 9300  cls
+ 9301  git add --all
+ 9302  cls
+ 9303  git commit 1.go 
+ 9304  cls
+ 9305  git push origin master
+ 9306  cls
+ 9307  lc
+ 9308  sl
+ 9309  cls
+ 9310  cl
+ 9311  sl
+ 9312  clsl
+ 9313  csl
+ 9314  cls
+ 9315  lc
+ 9316  scls
+ 9317  l
+ 9318  csl
+ 9319  cls
+ 9320  google-chrome
+ 9321  code
+ 9322  git add --al
+ 9323  cls
+ 9324  git add --all
+ 9325  csl
+ 9326  cls
+ 9327  git commit -m "up"
+ 9328  git add --all
+ 9329  cls
+ 9330  git init
+ 9331  cls
+ 9332  git add --all
+ 9333  cls
+ 9334  git commit -m "update"
+ 9335  cl;s
+ 9336  cls
+ 9337  google-chrome
+ 9338  code
+ 9339  mv file:///home/user/%E4%B8%8B%E8%BD%BD/2022-2023-1%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A1.pdf .
+ 9340  mv file:///home/user/%E4%B8%8B%E8%BD%BD/2022-2023-1%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A1.pdf ./file:///home/user/%E4%B8%8B%E8%BD%BD/2022-2023-1%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A1.pdf
+ 9341  mv file:///home/user/%E4%B8%8B%E8%BD%BD/2022-2023-1%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A1.pdf ./2022-2023
+ 9342  mv //home/user/%E4%B8%8B%E8%BD%BD/2022-2023-1%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A1.pdf ./2022-2023
+ 9343  mv /home/user/%E4%B8%8B%E8%BD%BD/2022-2023-1%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A1.pdf ./2022-2023
+ 9344  cls
+ 9345  git add --all
+ 9346  csl
+ 9347  cls
+ 9348  git commit -m "update files\n"
+ 9349  cls
+ 9350  os
+ 9351  csl
+ 9352  cls
+ 9353  ps
+ 9354  code
+ 9355  ps
+ 9356  cls
+ 9357  ps
+ 9358  cls
+ 9359  localsend_app
+ 9360  shutdown now
+ 9361  cls
+ 9362  go build 1.go
+ 9363  scls
+ 9364  cls
+ 9365  go build 1.go
+ 9366  cls
+ 9367  go bu 1.go
+ 9368  cls
+ 9369  go build 1.go
+ 9370  ./1
+ 9371  cls
+ 9372  ./1
+ 9373  cls
+ 9374  ./1
+ 9375  cls
+ 9376  ./1
+ 9377  cls
+ 9378  ./1
+ 9379  cls
+ 9380  csl
+ 9381  cls
+ 9382  go run 1
+ 9383  go run 1.go
+ 9384  clssx
+ 9385  cls
+ 9386  go build 1.go
+ 9387  cls
+ 9388  ./1
+ 9389  clw
+ 9390  scls
+ 9391  cls
+ 9392  ./1
+ 9393  cls
+ 9394  go run 1.go
+ 9395  cls
+ 9396  go build 1.go
+ 9397  cls
+ 9398  ./1
+ 9399  ckls
+ 9400  cls
+ 9401  ./1
+ 9402  cls
+ 9403  ./1
+ 9404  cls
+ 9405  go build .
+ 9406  cls
+ 9407  ./1
+ 9408  cls
+ 9409  v2raya.v2raya-browser-wrapper
+ 9410  firefox
+ 9411  ls -Ral /
+ 9412  cls
+ 9413  ls
+ 9414  cls
+ 9415  ls CODE
+ 9416  cl;s
+ 9417  cls
+ 9418  vim
+ 9419  cls
+ 9420  vim 1.c
+ 9421  gcc 1.c
+ 9422  clds
+ 9423  cls
+ 9424  ./a.out
+ 9425  cls
+ 9426  ./a.out
+ 9427  cls
+ 9428  rm 1.c
+ 9429  cls
+ 9430  ls
+ 9431  cls
+ 9432  ls
+ 9433  rm a.out
+ 9434  cls
+ 9435  ls
+ 9436  ls go
+ 9437  ls go/pkg
+ 9438  ls go/pkg/sumdb
+ 9439  cls
+ 9440  firefox
+ 9441  ./1
+ 9442  cls
+ 9443  ./1
+ 9444  cls
+ 9445  v2raya.v2raya-browser-wrapper
+ 9446  git add --all
+ 9447  cls
+ 9448  git commit -m "update files"
+ 9449  cls
+ 9450  git push origin master
+ 9451  cls
+ 9452  git remote show
+ 9453  cls
+ 9454  git push origin master
+ 9455  cls
+ 9456  git push origin master
+ 9457  ./1
+ 9458  cls
+ 9459  ./1
+ 9460  cls
+ 9461  ./1
+ 9462  cls
+ 9463  ./1
+ 9464  cls
+ 9465  ./1
+ 9466  cls
+ 9467  ./1
+ 9468  cls
+ 9469  ./1 
+ 9470  cls
+ 9471  ./1
+ 9472  cls
+ 9473  ./1
+ 9474  cls
+ 9475  git push origin master
+ 9476  cls
+ 9477  ./1
+ 9478  cls
+ 9479  ./1
+ 9480  cls
+ 9481  ./1
+ 9482  cls
+ 9483  ./1
+ 9484  csl
+ 9485  cls
+ 9486  ./1
+ 9487  cls
+ 9488  ./1
+ 9489  cls
+ 9490  ./1
+ 9491  cls
+ 9492  ./1
+ 9493  cls
+ 9494  ./1
+ 9495  cls
+ 9496  ls
+ 9497  cls
+ 9498  ls -a
+ 9499  cls
+ 9500  ls -a
+ 9501  csl
+ 9502  cls
+ 9503  ls --help
+ 9504  cls
+ 9505  cd -
+ 9506  cks
+ 9507  ckls
+ 9508  cls
+ 9509  cgo 1
+ 9510  go 1.go
+ 9511  cls
+ 9512  go run  1.go
+ 9513  goc run  1.go
+ 9514  cls
+ 9515  go build 1.go
+ 9516  cls
+ 9517  go 1.go hello.c
+ 9518  cls
+ 9519  go build 1.go hello.c
+ 9520  cls
+ 9521  go build
+ 9522  go build .
+ 9523  cls
+ 9524  go env CGO_ENABLED
+ 9525  ./2
+ 9526  cls
+ 9527  ./2
+ 9528  cls
+ 9529  git add --all
+ 9530  cls
+ 9531  git commit 1 1.go  2.go hello.c
+ 9532  cls
+ 9533  git push origin master
+ 9534  cls
+ 9535  git add --all
+ 9536  cls
+ 9537  git commit -m "update files"
+ 9538  cls
+ 9539  git push origin master
+ 9540  cls
+ 9541  echo 反对幂指三
+ 9542  cls
+ 9543  c
+ 9544  slc
+ 9545  sl
+ 9546  cls
+ 9547  cl
+ 9548  slc
+ 9549  sl
+ 9550  lcs
+ 9551  ll
+ 9552  lcs
+ 9553  cls
+ 9554  ./2
+ 9555  c;s
+ 9556  cls
+ 9557  google-chrome
+ 9558  code
+ 9559  git remote add origin git@github.com:Aetherance/BeyondCode.git
+ 9560  cls
+ 9561  git init
+ 9562  cls
+ 9563  git remote show 
+ 9564  git remote add git@github.com:Aetherance/BeyondCode.git
+ 9565  git remote add origin git@github.com:Aetherance/BeyondCode.git
+ 9566  cls
+ 9567  git add --all
+ 9568  cls
+ 9569  git add --all
+ 9570  cls
+ 9571  git commit -m "up"
+ 9572  cls
+ 9573  git push origin master
+ 9574  google-chrome
+ 9575  code
+ 9576  cls
+ 9577  code
+ 9578  git add --all
+ 9579  cls
+ 9580  git commit -m "update files"
+ 9581  cl;s
+ 9582  cls
+ 9583  git push origin master
+ 9584  cls
+ 9585  git add --all
+ 9586  cls
+ 9587  git commit -m ""
+ 9588  git commit -a "update files"
+ 9589  git commit -a
+ 9590  cls
+ 9591  git add --all
+ 9592  git commit -m "update"
+ 9593  cls
+ 9594  git add .
+ 9595  cls
+ 9596  cd 高等数学快速学习
+ 9597  cls
+ 9598  git add image\ copy\ 2.png image\ copy\ 2.png
+ 9599  cls
+ 9600  git commit -a
+ 9601  cls
+ 9602  ls -a
+ 9603  rm .git
+ 9604  rm .git -rf
+ 9605  cls
+ 9606  ls
+ 9607  cls
+ 9608  la
+ 9609  cls
+ 9610  cd ..
+ 9611  cls
+ 9612  git add --all
+ 9613  cls
+ 9614  git commit -a "up"
+ 9615  git commit -a 
+ 9616  cls
+ 9617  git push origin master
+ 9618  cls
+ 9619  shutdown now
+ 9620  apt
+ 9621  cwls
+ 9622  cls
+ 9623  apt list
+ 9624  cls
+ 9625  csl
+ 9626  cls
+ 9627  ls
+ 9628  cls
+ 9629  ls
+ 9630  csl
+ 9631  cls
+ 9632  ./ish
+ 9633  csl
+ 9634  cls
+ 9635  git add --all
+ 9636  csl
+ 9637  cls
+ 9638  go run 1.go
+ 9639  cls
+ 9640  go run 2.go
+ 9641  cls
+ 9642  ls
+ 9643  cls
+ 9644  ls
+ 9645  train
+ 9646  sudo apt install train
+ 9647  pi
+ 9648  sudo apt install pi
+ 9649  cls
+ 9650  pi
+ 9651  cls
+ 9652  p
+ 9653  cls
+ 9654  pi
+ 9655  csl;
+ 9656  cls
+ 9657  pi
+ 9658  cls
+ 9659  sl
+ 9660  cls
+ 9661  sudo apt install sl 
+ 9662  sl
+ 9663  sudo apt install lolcat
+ 9664  cls
+ 9665  ls
+ 9666  cls
+ 9667  lolcat
+ 9668  cls
+ 9669  sl
+ 9670  cls
+ 9671  ps
+ 9672  kill 16624
+ 9673  cls
+ 9674  ps
+ 9675  cls
+ 9676  bg
+ 9677  cls
+ 9678  fg
+ 9679  cls
+ 9680  fg
+ 9681  cls
+ 9682  sl | lolcat
+ 9683  cls
+ 9684  sl -a
+ 9685  sl -l
+ 9686  sl -F
+ 9687  sl -la
+ 9688  sl -F | lolcat
+ 9689  cls
+ 9690  sl -a | lolcat
+ 9691  cls
+ 9692  sl
+ 9693  lllllllllllllllllllllllllllllllcs
+ 9694  cls
+ 9695  sl -e
+ 9696  cls
+ 9697  sl > sl.txt
+ 9698  ls
+ 9699  sl.txt
+ 9700  cat sl.txt
+ 9701  cls
+ 9702  vim sl.txt
+ 9703  cls
+ 9704  ls
+ 9705  rm sl.txt
+ 9706  cls
+ 9707  ls
+ 9708  cls
+ 9709  laz
+ 9710  cls
+ 9711  la
+ 9712  cls
+ 9713  ls
+ 9714  cls
+ 9715  ls
+ 9716  cls
+ 9717  sl >> sl.txt
+ 9718  cat sl.txt
+ 9719  cls
+ 9720  vim sl.txt
+ 9721  c;ls
+ 9722  csl
+ 9723  cls
+ 9724  rm sl.txt
+ 9725  cls
+ 9726  ls
+ 9727  lc,.sl
+ 9728  lcs
+ 9729  cls
+ 9730  ls
+ 9731  cls,.l
+ 9732  cls
+ 9733  ls
+ 9734  cls
+ 9735  ls
+ 9736  cls
+ 9737  vim 1
+ 9738  cls
+ 9739  ls
+ 9740  CLS
+ 9741  reboot
+ 9742  cls
+ 9743  fuck
+ 9744  sudo apt install fuck
+ 9745  cls
+ 9746  sudo apt install thefuck
+ 9747  cls
+ 9748  fuck
+ 9749  cl
+ 9750  scls
+ 9751  cls
+ 9752  ls
+ 9753  l
+ 9754  cls
+ 9755  ss
+ 9756  clsl.,z
+ 9757  cls
+ 9758  ehco 1
+ 9759  fuck
+ 9760  brew install thefuck
+ 9761  sudo apt update
+ 9762  cls
+ 9763  go 
+ 9764  cls
+ 9765  go build 1.go
+ 9766  cls
+ 9767  git add --all
+ 9768  cls
+ 9769  git commit -a
+ 9770  cls
+ 9771  git push origin master
+ 9772  csl
+ 9773  cls
+ 9774  ls
+ 9775  cls
+ 9776  ls
+ 9777  cls
+ 9778  ls
+ 9779  csl
+ 9780  cls
+ 9781  ls
+ 9782  cls
+ 9783  lcs
+ 9784  cls
+ 9785  wechat
+ 9786  reboot
+ 9787  cls
+ 9788  train
+ 9789  cls
+ 9790  sl -e
+ 9791  cls
+ 9792  sl -e
+ 9793  cls
+ 9794  sl -e
+ 9795  cls
+ 9796  ls -e
+ 9797  cls
+ 9798  sl -ew
+ 9799  cls
+ 9800  v2raya.v2raya-browser-wrapper
+ 9801  git push origin master
+ 9802  cls
+ 9803  git push origin master
+ 9804  cls
+ 9805  date
+ 9806  clds
+ 9807  cls
+ 9808  date set
+ 9809  date 11
+ 9810  cls
+ 9811  git add --all
+ 9812  cls
+ 9813  git commit -m "update"
+ 9814  cls
+ 9815  cd 高等数学快速学习
+ 9816  cls
+ 9817  cd .
+ 9818  cls
+ 9819  cd ..
+ 9820  cls
+ 9821  git add --all
+ 9822  cls
+ 9823  git add --all
+ 9824  cls
+ 9825  git add --all
+ 9826  csl
+ 9827  cls
+ 9828  git commit -m "up"
+ 9829  cls
+ 9830  git push origin master
+ 9831  cls
+ 9832  v2raya.v2raya-browser-wrapper
+ 9833  cls
+ 9834  v2raya.v2raya-browser-wrapper
+ 9835  cls
+ 9836  git push origin master
+ 9837  cls
+ 9838  Data
+ 9839  cls
+ 9840  ls
+ 9841  cls
+ 9842  ls
+ 9843  cd /
+ 9844  cls
+ 9845  l
+ 9846  cls
+ 9847  ls
+ 9848  cd media
+ 9849  cls
+ 9850  ls
+ 9851  cd user
+ 9852  cls
+ 9853  ls
+ 9854  cd Data
+ 9855  cls
+ 9856  ls
+ 9857  ls MC基岩版启动/
+ 9858  cls
+ 9859  ls
+ 9860  Sever
+ 9861  cls
+ 9862  ls
+ 9863  MC_sever
+ 9864  cls
+ 9865  ls
+ 9866  mc_sever
+ 9867  mc_server_基岩
+ 9868  cls
+ 9869  ls
+ 9870  1.21
+ 9871  1.21.0.03
+ 9872  cls
+ 9873  ls
+ 9874  cd ..
+ 9875  ls
+ 9876  cd 1
+ 9877  cls
+ 9878  ls
+ 9879  vim sever.properties
+ 9880  ls
+ 9881  vim server.properties
+ 9882  cls
+ 9883  ..
+ 9884  lx
+ 9885  cls
+ 9886  ls
+ 9887  cd mc_server_纯净_1.21
+ 9888  cls
+ 9889  ls
+ 9890  ./start.bat
+ 9891  cls
+ 9892  cd -
+ 9893  cd-
+ 9894  cls
+ 9895  cd ~
+ 9896  cls
+ 9897  cd /CODE
+ 9898  cls
+ 9899  cd CODE
+ 9900  cls
+ 9901  vim /etc/passwd
+ 9902  cls
+ 9903  usermod -d ~/CODE user
+ 9904  usermod -d ~/CODE
+ 9905  usermod -d ~/CODE user
+ 9906  ps
+ 9907  sudo usermod -d ~/CODE user
+ 9908  cd
+ 9909  sudo usermod -d ~/CODE user
+ 9910  sudo usermod -d ./CODE user
+ 9911  sudo usermod -d /home/user/CODE user
+ 9912  ROOT
+ 9913  root
+ 9914  cls
+ 9915  su
+ 9916  cls
+ 9917  lc
+ 9918  scls
+ 9919  cls
+ 9920  su
+ 9921  cls
+ 9922  ls
+ 9923  cls
+ 9924  cd
+ 9925  cls
+ 9926  la
+ 9927  vim .zshrc
+ 9928  cls
+ 9929  cd
+ 9930  c
+ 9931  cls
+ 9932  la
+ 9933  vim .zshrc
+ 9934  cls
+ 9935  vim ./zshrc
+ 9936  la
+ 9937  vim .zshrc
+ 9938  cls
+ 9939  cd
+ 9940  cls
+ 9941  cd
+ 9942  cls
+ 9943  cd
+ 9944  cxsl
+ 9945  cls
+ 9946  ls
+ 9947  cls
+ 9948  cd
+ 9949  ls
+ 9950  cls
+ 9951  cd ..
+ 9952  ls
+ 9953  cd
+ 9954  cls
+ 9955  c
+ 9956  cls
+ 9957  c
+ 9958  cls
+ 9959  c
+ 9960  cls
+ 9961  c
+ 9962  cls
+ 9963  cl
+ 9964  cls
+ 9965  ck
+ 9966  cl
+ 9967  cls
+ 9968  cm
+ 9969  cls
+ 9970  cd
+ 9971  cls
+ 9972  cd ..
+ 9973  cls
+ 9974  cd ..
+ 9975  cls
+ 9976  cd ..
+ 9977  csl
+ 9978  cls
+ 9979  cd ..
+ 9980  cd ...
+ 9981  cls
+ 9982  cd /CODE
+ 9983  cls
+ 9984  vim .zshrc
+ 9985  cl
+ 9986  cls
+ 9987  cl
+ 9988  cls
+ 9989  c]
+ 9990  c[
+ 9991  cls
+ 9992  c,
+ 9993  c.
+ 9994  c,
+ 9995  cls
+ 9996  c,
+ 9997  cls
+ 9998  vim .zshrc
+ 9999  cls
+10000  c,
+10001  clks
+10002  cls
+10003  c,
+10004  cls
+10005  c,
+10006  cls
+10007  c,
+10008  cls
+10009  cd ..
+10010  cls
+10011  csl
+10012  cls
+10013  csl
+10014  cls
+10015  clear
+10016  k
+10017  lk
+10018  cls
+10019  sldlslds
+10020  dlsdls
+10021  dl
+10022  slds
+10023  echo 1
+10024* cls
+10025* train
+10026* cls
+10027* sl -e
+10028* cls
+10029* sl -e
+10030* cls
+10031* sl -e
+10032* cls
+10033* ls -e
+10034* cls
+10035* sl -ew
+10036* cls
+10037* v2raya.v2raya-browser-wrapper
+10038* git push origin master
+10039* cls
+10040* git push origin master
+10041* cls
+10042* date
+10043* clds
+10044* cls
+10045* date set
+10046* date 11
+10047* cls
+10048* git add --all
+10049* cls
+10050* git commit -m "update"
+10051* cls
+10052* cd 高等数学快速学习
+10053* cls
+10054* cd .
+10055* cls
+10056* cd ..
+10057* cls
+10058* git add --all
+10059* cls
+10060* git add --all
+10061* cls
+10062* git add --all
+10063* csl
+10064* cls
+10065* git commit -m "up"
+10066* cls
+10067* git push origin master
+10068* cls
+10069* v2raya.v2raya-browser-wrapper
+10070* cls
+10071* v2raya.v2raya-browser-wrapper
+10072* cls
+10073* git push origin master
+10074* cls
+10075* Data
+10076* cls
+10077* ls
+10078* cls
+10079* ls
+10080* cd /
+10081* cls
+10082* l
+10083* cls
+10084* ls
+10085* cd media
+10086* cls
+10087* ls
+10088* cd user
+10089* cls
+10090* ls
+10091* cd Data
+10092* cls
+10093* ls
+10094* ls MC基岩版启动/
+10095* cls
+10096* ls
+10097* Sever
+10098* cls
+10099* ls
+10100* MC_sever
+10101* cls
+10102* ls
+10103* mc_sever
+10104* mc_server_基岩
+10105* cls
+10106* ls
+10107* 1.21
+10108* 1.21.0.03
+10109* cls
+10110* ls
+10111* cd ..
+10112* ls
+10113* cd 1
+10114* cls
+10115* ls
+10116* vim sever.properties
+10117* ls
+10118* vim server.properties
+10119* cls
+10120* ..
+10121* lx
+10122* cls
+10123* ls
+10124* cd mc_server_纯净_1.21
+10125* cls
+10126* ls
+10127* ./start.bat
+10128* cls
+10129* cd -
+10130* cd-
+10131* cls
+10132* cd ~
+10133* cls
+10134* cd /CODE
+10135* cls
+10136* cd CODE
+10137* cls
+10138* vim /etc/passwd
+10139* cls
+10140* usermod -d ~/CODE user
+10141* usermod -d ~/CODE
+10142* usermod -d ~/CODE user
+10143* ps
+10144* sudo usermod -d ~/CODE user
+10145* cd
+10146* sudo usermod -d ~/CODE user
+10147* sudo usermod -d ./CODE user
+10148* sudo usermod -d /home/user/CODE user
+10149* ROOT
+10150* root
+10151* cls
+10152* su
+10153* cls
+10154* lc
+10155* scls
+10156* cls
+10157* su
+10158* cls
+10159* ls
+10160* cls
+10161* cd
+10162* cls
+10163* la
+10164* vim .zshrc
+10165* cls
+10166* cd
+10167* c
+10168* cls
+10169* la
+10170* vim .zshrc
+10171* cls
+10172* vim ./zshrc
+10173* la
+10174* vim .zshrc
+10175* cls
+10176* cd
+10177* cls
+10178* cd
+10179* cls
+10180* cd
+10181* cxsl
+10182* cls
+10183* ls
+10184* cls
+10185* cd
+10186* ls
+10187* cls
+10188* cd ..
+10189* ls
+10190* cd
+10191* cls
+10192* c
+10193* cls
+10194* c
+10195* cls
+10196* c
+10197* cls
+10198* c
+10199* cls
+10200* cl
+10201* cls
+10202* ck
+10203* cl
+10204* cls
+10205* cm
+10206* cls
+10207* cd
+10208* cls
+10209* cd ..
+10210* cls
+10211* cd ..
+10212* cls
+10213* cd ..
+10214* csl
+10215* cls
+10216* cd ..
+10217* cd ...
+10218* cls
+10219* cd /CODE
+10220* cls
+10221* vim .zshrc
+10222* cl
+10223* cls
+10224* cl
+10225* cls
+10226* c]
+10227* c[
+10228* cls
+10229* c,
+10230* c.
+10231* c,
+10232* cls
+10233* c,
+10234* cls
+10235* vim .zshrc
+10236* cls
+10237* c,
+10238* clks
+10239* cls
+10240* c,
+10241* cls
+10242* c,
+10243* cls
+10244* c,
+10245* cls
+10246* cd ..
+10247* cls
+10248* csl
+10249* cls
+10250* csl
+10251* cls
+10252* clear
+10253* k
+10254* lk
+10255* cls
+10256* sldlslds
+10257* dlsdls
+10258* dl
+10259* slds
+10260* echo 1
+10261* xzdsd
+10262* cls
+10263* csl
+10264* clxz
+10265* csl
+10266* cls
+10267* clear
+10268* cls
+10269* clear
+10270* celare
+10271* clea
+10272* clewar
+10273* clea
+10274* RF
+10275* clear
+10276* clds
+10277* csl
+10278* cls
+10279  ls
+10280  cls
+10281  ll
+10282  cls
+10283  ./zshrc
+10284  ~zshrc
+10285  ~/zshrc
+10286  ~/.zshrc
+10287  vi ~/.zshrc
+10288  cls
+10289  clear
+10290  cls
+10291  history
